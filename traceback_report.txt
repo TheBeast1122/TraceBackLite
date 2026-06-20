@@ -1,0 +1,1906 @@
+TRACEBACK LITE FORENSIC REPORT
+============================================================
+Generated: 2026-06-20 01:45:25.373535
+
+Total Events: 950
+
+TIMELINE
+============================================================
+
+2025-05-11 10:32:53.054295 | Download | Downloaded | SystemMechanicStd_DM.exe
+    Details: C:\Users\offic\Downloads\SystemMechanicStd_DM.exe
+2025-05-11 10:34:07.399277 | Download | Downloaded | SystemMechanicStd_DM (1).exe
+    Details: C:\Users\offic\Downloads\SystemMechanicStd_DM (1).exe
+2025-05-11 15:36:38.455560 | Download | Downloaded | BraveBrowserSetup-BRV011.exe
+    Details: C:\Users\offic\Downloads\BraveBrowserSetup-BRV011.exe
+2025-05-11 15:36:42.826005 | Download | Downloaded | BraveBrowserSetup-BRV011 (1).exe
+    Details: C:\Users\offic\Downloads\BraveBrowserSetup-BRV011 (1).exe
+2025-05-11 15:36:51.493336 | Download | Downloaded | BraveBrowserSetup-BRV011 (2).exe
+    Details: C:\Users\offic\Downloads\BraveBrowserSetup-BRV011 (2).exe
+2025-05-11 15:56:48.613275 | Download | Downloaded | ZoomInstallerFull.exe
+    Details: C:\Users\offic\Downloads\ZoomInstallerFull.exe
+2025-05-11 16:50:24.196895 | Download | Downloaded | mingw-get-setup.exe
+    Details: C:\Users\offic\Downloads\mingw-get-setup.exe
+2025-05-11 16:59:45.728166 | Download | Downloaded | jdk-24_windows-x64_bin.exe
+    Details: C:\Users\offic\Downloads\jdk-24_windows-x64_bin.exe
+2025-05-12 17:14:19.284103 | Download | Downloaded | OperaSetup.exe
+    Details: C:\Users\offic\Downloads\OperaSetup.exe
+2025-08-12 17:25:17.558562 | Download | Downloaded | make a single page resume 1.pdf
+    Details: C:\Users\offic\Downloads\make a single page resume 1.pdf
+2025-08-16 16:48:59.312997 | Download | Downloaded | TCS_NQT_200_Coding_Questions_Final.pdf
+    Details: C:\Users\offic\OneDrive\Desktop\TCS_NQT_200_Coding_Questions_Final.pdf
+2025-08-21 19:30:37.321639 | Download | Downloaded | 1 to 5 merge.pdf
+    Details: C:\Users\offic\OneDrive\Desktop\1 to 5 merge.pdf
+2025-08-21 19:31:16.763794 | Download | Downloaded | 1st_merged_compressed.pdf
+    Details: C:\Users\offic\OneDrive\Desktop\1st_merged_compressed.pdf
+2025-08-21 19:40:19.192555 | Download | Downloaded | 12th marksheet pdf.pdf
+    Details: C:\Users\offic\OneDrive\Desktop\12th marksheet pdf.pdf
+2025-08-21 19:50:15.132555 | Download | Downloaded | 10th marksheet pdf.pdf
+    Details: C:\Users\offic\OneDrive\Desktop\10th marksheet pdf.pdf
+2025-12-14 19:59:23.750793 | Download | Downloaded | node-v25.2.1-x64.msi
+    Details: C:\Users\offic\Downloads\node-v25.2.1-x64.msi
+2025-12-15 02:59:40.566258 | Download | Downloaded | uttar-pradesh-government-logo.webp
+    Details: C:\Users\offic\Downloads\uttar-pradesh-government-logo.webp
+2025-12-15 03:29:02.013252 | Download | Downloaded | 255efba15a8ebd2b8e43cb3919fa2e25.webp
+    Details: C:\Users\offic\Downloads\255efba15a8ebd2b8e43cb3919fa2e25.webp
+2025-12-15 03:30:53.382074 | Download | Downloaded | b28ce935d34ffb68d667db7480b92f32.webp
+    Details: C:\Users\offic\Downloads\b28ce935d34ffb68d667db7480b92f32.webp
+2025-12-15 03:31:07.073184 | Download | Downloaded | top-view-of-team-brainstorming-idea-and-writing-plan-at-notes-convocation.webp
+    Details: C:\Users\offic\Downloads\top-view-of-team-brainstorming-idea-and-writing-plan-at-notes-convocation.webp
+2025-12-15 03:31:43.389281 | Download | Downloaded | abbad0ac887f9fdcaef280d163ded5d6.webp
+    Details: C:\Users\offic\Downloads\abbad0ac887f9fdcaef280d163ded5d6.webp
+2025-12-15 06:14:12.655074 | Download | Downloaded | fix-html-css-javascript-for-website-logo-6.webp
+    Details: C:\Users\offic\Downloads\fix-html-css-javascript-for-website-logo-6.webp
+2025-12-15 06:20:34.510983 | Download | Downloaded | javascript-logo-transparent-logo-javascript-images-3.webp
+    Details: C:\Users\offic\Downloads\javascript-logo-transparent-logo-javascript-images-3.webp
+2025-12-15 06:20:43.129428 | Download | Downloaded | node-node-js-logo-png_seeklogo-320102.webp
+    Details: C:\Users\offic\Downloads\node-node-js-logo-png_seeklogo-320102.webp
+2025-12-15 06:21:10.315133 | Download | Downloaded | lg-672bee915ed4e-Express-js.webp
+    Details: C:\Users\offic\Downloads\lg-672bee915ed4e-Express-js.webp
+2025-12-15 06:21:19.651972 | Download | Downloaded | logo.webp
+    Details: C:\Users\offic\Downloads\logo.webp
+2025-12-15 06:54:18.023971 | Download | Downloaded | Document.pdf
+    Details: C:\Users\offic\Downloads\Document.pdf
+2026-01-20 20:10:00.775999 | Download | Downloaded | mysql-installer-community-8.0.45.0.msi
+    Details: C:\Users\offic\Downloads\mysql-installer-community-8.0.45.0.msi
+2026-01-20 20:47:17.208615 | Download | Downloaded | customers-1000.csv
+    Details: C:\Users\offic\Downloads\customers-1000.csv
+2026-01-22 03:48:28.963368 | Download | Downloaded | Aditya Singh data analyst resume.pdf
+    Details: C:\Users\offic\OneDrive\Desktop\Aditya Singh data analyst resume.pdf
+2026-01-28 02:33:06.310187 | Download | Downloaded | Presentation 3.pptx.html
+    Details: C:\Users\offic\OneDrive\Desktop\Presentation 3.pptx.html
+2026-01-28 02:35:02.223848 | Download | Downloaded | Presentation 3 PDF.pdf
+    Details: C:\Users\offic\Downloads\Presentation 3 PDF.pdf
+2026-01-28 03:49:54.377289 | Download | Downloaded | R6CpzbwTGMPDj2YyKnBqC6.pdf
+    Details: C:\Users\offic\Downloads\R6CpzbwTGMPDj2YyKnBqC6.pdf
+2026-01-28 20:37:16.721099 | Download | Downloaded | A INTERNSHIP REPORT.pdf
+    Details: C:\Users\offic\OneDrive\Desktop\A INTERNSHIP REPORT.pdf
+2026-01-29 09:20:16.353551 | Download | Downloaded | VMware-Workstation-Full-25H2-24995812.exe
+    Details: C:\Users\offic\OneDrive\Desktop\VMware-Workstation-Full-25H2-24995812.exe
+2026-02-21 20:44:13.181961 | Download | Downloaded | kali-linux-2025.4-installer-everything-amd64.iso.torrent
+    Details: C:\Users\offic\Downloads\kali-linux-2025.4-installer-everything-amd64.iso.torrent
+2026-02-21 20:44:40.795532 | Download | Downloaded | kali-linux-2025.4-installer-amd64.iso
+    Details: C:\Users\offic\Downloads\kali-linux-2025.4-installer-amd64.iso
+2026-03-17 15:09:39.525268 | Download | Downloaded | soc resume.docx
+    Details: C:\Users\offic\OneDrive\Desktop\soc resume.docx
+2026-04-07 19:06:59.738667 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/JOBBB/Somil_Resume_OSINT-1.pdf
+    Details: Copy of resumeTemplate.docx - Google Docs
+2026-04-07 19:07:02.776525 | Browser | Visited Website | https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=192&ct=1775588819&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1
+    Details: Continue
+2026-04-07 19:07:03.423553 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=019d6957-502f-76ad-960e-15cea62130c9&response_mode=fragment&client_info=1&prompt=select_account&nonce=019d6957-5030-72f6-8da1-4e8a1afd5f67&state=eyJpZCI6IjAxOWQ2OTU3LTUwMzAtNzQ0YS1hN2UxLTM4NDc5NGQ2MGI2ZSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=4.27.0&response_type=code&code_challenge=ng0nAJTEL-MoTbUka7i3rI5ZVE43SXE73fJ70lolitw&code_challenge_method=S256
+    Details: Sign in to your account
+2026-04-07 19:09:54.076458 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=c9642000-fff1-42de-876c-fe6eda5721b8&cid=5ef958b7dc7d1951&wdPreviousSession=7f2ecf7d%2Dbdea%2D5b62%2D4434%2D5488e4c1adce&wdNewAndOpenCt=1775588990221&wdo=4&wdOrigin=wacFileNew&wdPreviousCorrelation=802a9692%2Df7f7%2D4999%2D8390%2Df60e5ed05a3b&action=editnew&wdnd=1
+    Details: Document 4.docx
+2026-04-07 19:09:54.262763 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=c9642000-fff1-42de-876c-fe6eda5721b8&cid=5ef958b7dc7d1951&wdPreviousSession=7f2ecf7d-bdea-5b62-4434-5488e4c1adce&wdNewAndOpenCt=1775588990221&wdo=4&wdOrigin=wacFileNew&wdPreviousCorrelation=802a9692-f7f7-4999-8390-f60e5ed05a3b&action=editnew&wdnd=1
+    Details: Aditya Singh1
+2026-04-07 19:40:35.529912 | Download | Downloaded | Aditya Singh OSINT.pdf
+    Details: C:\Users\offic\OneDrive\Desktop\JOBBB\Aditya Singh OSINT.pdf
+2026-04-07 19:45:10.833049 | Download | Downloaded | Aditya Singh OSINT.pdf
+    Details: C:\Users\offic\OneDrive\Desktop\JOBBB\Aditya Singh OSINT.pdf
+2026-04-18 20:12:07.934409 | Browser | Visited Website | https://www.microsoft.com/getting-started/windows/update?form=M1001H
+    Details: Latest Features | Windows 11
+2026-04-18 20:12:53.637521 | Browser | Visited Website | https://www.microsoft.com/en-us/getting-started/windows/update?ep=1880&form=M1007K&es=332&cs=1174669073
+    Details: Latest Features | Windows 11
+2026-04-18 20:13:34.122393 | Browser | Visited Website | https://www.microsoft.com/edge/update/?form=MT00ZZ&channel=stable&version=147.0.3912.60&sg=1&from_badge=true
+    Details: What's new in Microsoft Edge
+2026-04-18 20:13:34.122393 | Browser | Visited Website | https://www.microsoft.com/en-us/edge/update/147?ep=1909&es=335&form=MT00ZZ&channel=stable&version=147.0.3912.60&sg=1&from_badge=true&cs=1174669073
+    Details: What's new in Microsoft Edge
+2026-04-20 20:33:29.798397 | Browser | Visited Website | https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=193&ct=1776717208&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1
+    Details: Continue
+2026-04-20 20:33:43.995824 | Browser | Web Search | https://search.brave.com/search?q=zmap&source=desktop
+    Details: zmap - Brave Search
+2026-04-20 20:33:46.923952 | Browser | Web Search | https://search.brave.com/search?q=zmap&source=desktop&summary=1&conversation=08fdf3f530e4a0336f2f555939ba603e0cc2
+    Details: zmap - Brave Search
+2026-04-20 20:34:38.078420 | Browser | Web Search | https://search.brave.com/search?q=nmap+alternative&source=web
+    Details: nmap alternative - Brave Search
+2026-04-20 20:34:45.466931 | Browser | Web Search | https://search.brave.com/search?q=nmap+alternative&source=web&summary=1&conversation=08fdf57edb7a1e5e5e0507b21f14e0c18a25
+    Details: nmap alternative - Brave Search
+2026-04-20 20:35:10.564903 | Browser | Web Search | https://search.brave.com/search?q=angry+ip+scanner&source=web
+    Details: angry ip scanner - Brave Search
+2026-04-20 20:35:19.285649 | Browser | Visited Website | https://www.linuxlinks.com/angry/?__cf_chl_rt_tk=EK37eY3rtmvheRNVIPrGqaQLr_gdQ2YVlVGIg59Ynx0-1776717319-1.0.1.1-SKzKpJC9Advd19RfJZT0oqKxzG1w842Nxdn5MXHdcyM
+    Details: Just a moment...
+2026-04-20 20:35:23.367527 | Browser | Visited Website | https://www.linuxlinks.com/angry/?__cf_chl_tk=EK37eY3rtmvheRNVIPrGqaQLr_gdQ2YVlVGIg59Ynx0-1776717319-1.0.1.1-SKzKpJC9Advd19RfJZT0oqKxzG1w842Nxdn5MXHdcyM
+    Details: Just a moment...
+2026-04-20 20:35:24.084373 | Browser | Visited Website | https://www.linuxlinks.com/angry/
+    Details: Angry IP Scanner - fast network scanner - LinuxLinks
+2026-04-20 20:35:47.266729 | Browser | Visited Website | https://angryip.org/
+    Details: Angry IP Scanner - the original IP scanner for Windows, Mac and Linux
+2026-04-20 20:36:12.033444 | Browser | Web Search | https://search.brave.com/search?q=angry+ip+scanner&source=web&summary=1&conversation=08fdf88e7cd623a3ff751013fbca4daf450f
+    Details: angry ip scanner - Brave Search
+2026-04-20 20:36:25.088802 | Browser | Web Search | https://search.brave.com/ask?q=angry+ip+scanner&source=web
+    Details: angry ip scanner - Ask Brave
+2026-04-20 20:36:25.980103 | Browser | Web Search | https://search.brave.com/ask?q=angry+ip+scanner&source=web&conversation=08fd52880fe5982097265bf098120afff690
+    Details: angry ip scanner - Ask Brave
+2026-04-20 20:36:51.729945 | Browser | Web Search | https://search.brave.com/ask?q=angry+ip+scanner&source=web&conversation=08fdb41b3fa94b30b36a1be7d23a07756ff7
+    Details: angry ip scanner - Ask Brave
+2026-04-20 20:37:06.937550 | Browser | Visited Website | https://angryip.org/download/
+    Details: Angry IP Scanner - Download for Windows, Mac or Linux
+2026-04-20 20:37:06.966089 | Browser | Visited Website | https://angryip.org/download/#windows
+    Details: Angry IP Scanner - Download for Windows, Mac or Linux
+2026-04-20 20:37:58.916325 | Download | Downloaded | ipscan-3.9.3-setup.exe
+    Details: C:\Users\offic\Downloads\ipscan-3.9.3-setup.exe
+2026-04-20 20:39:04.216583 | Browser | Web Search | https://search.brave.com/ask?q=angry+ip+scanner&source=web&conversation=08fd0f0bfd4dff26bd053f9e5846e40598aa
+    Details: angry ip scanner - Ask Brave
+2026-04-20 20:39:19.132943 | Browser | Visited Website | https://github.com/zmap/zmap
+    Details: GitHub - zmap/zmap: ZMap is a fast single packet network scanner designed for Internet-wide network surveys. · GitHub
+2026-04-20 20:39:42.440602 | Browser | Visited Website | https://www.biorxiv.org/content/10.64898/2026.03.23.713599v1
+    Details: ZMAP: A single-cell meta-atlas of zebrafish embryonic development reveals a consensus hierarchy of cell identities | bioRxiv
+2026-04-20 20:41:54.757808 | Browser | Web Search | https://search.brave.com/search?q=zenmap&source=desktop
+    Details: zenmap - Brave Search
+2026-04-20 20:42:19.314848 | Browser | Visited Website | https://nmap.org/zenmap/
+    Details: Zenmap - Official cross-platform Nmap Security Scanner GUI
+2026-04-20 20:42:29.707106 | Browser | Visited Website | https://nmap.org/download.html
+    Details: Download the Free Nmap Security Scanner for Linux/Mac/Windows
+2026-04-20 20:42:36.469888 | Browser | Visited Website | https://nmap.org/download.html#windows
+    Details: Download the Free Nmap Security Scanner for Linux/Mac/Windows
+2026-04-20 20:44:07.170869 | Download | Downloaded | nmap-7.99-setup.exe
+    Details: C:\Users\offic\Downloads\nmap-7.99-setup.exe
+2026-04-20 21:24:58.760039 | Browser | Visited Website | https://npcap.com/#download
+    Details: Npcap: Windows Packet Capture Library & Driver
+2026-05-02 16:48:26.450673 | Browser | Visited Website | https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=193&ct=1777740501&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1
+    Details: Continue
+2026-05-02 16:48:32.111540 | Browser | Visited Website | https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=193&ct=1777740502&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1
+    Details: Continue
+2026-05-02 16:50:14.957557 | Browser | Web Search | https://search.brave.com/search?q=charges+of+taktal+passport&source=desktop
+    Details: charges of taktal passport - Brave Search
+2026-05-02 16:50:26.498292 | Browser | Web Search | https://search.brave.com/search?q=charges+of+taktal+passport&source=desktop&summary=1&conversation=090930664ceae081ad7dbabfaa72de3fb488
+    Details: charges of taktal passport - Brave Search
+2026-05-02 16:51:13.994637 | Browser | Visited Website | https://www.passportindia.gov.in/psp/Apply
+    Details: Passport Seva
+2026-05-02 16:51:16.489617 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/registration
+    Details: Registration
+2026-05-02 16:55:36.064003 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/SignUpVerification
+    Details: SuccessConfirmation
+2026-05-02 16:56:18.884502 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/SuccessConfirmation
+    Details: PreLogin
+2026-05-02 16:57:08.116763 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/Services
+    Details: AutoPopulate
+2026-05-02 16:58:00.416864 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/AutoPopulate
+    Details: RPO_Selection
+2026-05-02 18:44:08.203588 | Browser | Web Search | https://search.brave.com/search?q=passport+seva&source=desktop
+    Details: passport seva - Brave Search
+2026-05-02 18:44:14.444529 | Browser | Visited Website | https://www.passportindia.gov.in/psp
+    Details: Passport Seva
+2026-05-02 18:44:20.917948 | Browser | Visited Website | https://www.passportindia.gov.in/psp/ApplyPassport
+    Details: Passport Seva
+2026-05-02 18:44:50.387127 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/login
+    Details: Login
+2026-05-02 18:46:18.786867 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/RPO_Selection
+    Details: Fill details for Ordinary Passport
+2026-05-02 18:46:24.222138 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/OrdinaryPassport_PassportType
+    Details: Fill details for Ordinary Passport
+2026-05-02 18:46:34.115415 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/OrdinaryPassport_ApplicantDetails
+    Details: Fill details for Ordinary Passport
+2026-05-02 18:48:48.938015 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/OrdinaryPassport_FamilyDetails
+    Details: Fill details for Ordinary Passport
+2026-05-02 18:48:58.219684 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/OrdinaryPassport_AddressDetails
+    Details: Fill details for Ordinary Passport
+2026-05-02 18:49:25.029984 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/OrdinaryPassport_EmergencyContactDetails
+    Details: Fill details for Ordinary Passport
+2026-05-02 18:49:38.333332 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/OrdinaryPassport_PreviousPassportDetails
+    Details: Fill details for Ordinary Passport
+2026-05-02 18:49:51.911386 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/OrdinaryPassport_OtherDetails
+    Details: Fill details for Ordinary Passport
+2026-05-02 18:51:23.125701 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/OrdinaryPassport_Preview
+    Details: Fill details for Ordinary Passport
+2026-05-02 18:58:21.425589 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/previewFormOrdinaryDetail
+    Details: Fill details for Ordinary Passport
+2026-05-02 18:58:31.717299 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/OrdinaryPassport_SelfDeclaration
+    Details: SubmitSuccess
+2026-05-02 18:58:44.397401 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/SubmitSuccess
+    Details: ApplicationReceipt
+2026-05-02 18:58:50.838882 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/ApplicationReceipt?appRefNo=26-0062008626&enquiryQuota=
+    Details: ApplicationReceipt
+2026-05-02 18:59:42.074951 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/ScheduleAppointment
+    Details: MakePayment
+2026-05-02 19:02:01.815961 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/MakePayment
+    Details: MakePayment
+2026-05-02 19:02:29.216204 | Browser | Visited Website | https://merchant.onlinesbi.sbi/merchant/merchantprelogin.htm
+    Details: State Bank MOPS
+2026-05-02 19:02:35.409926 | Browser | Visited Website | https://merchant.onlinesbi.sbi/merchant/merchantotherupidisplay.htm
+2026-05-02 19:03:55.608405 | Browser | Visited Website | https://merchant.onlinesbi.sbi/merchant/merchantinterotherconfirm.htm
+    Details: MOPS CHALLAN
+2026-05-02 19:04:26.992741 | Browser | Visited Website | https://merchant.onlinesbi.sbi/merchant/merchantupiconfirm.htm
+    Details: MOPS CHALLAN
+2026-05-02 19:04:54.390406 | Browser | Visited Website | https://merchant.onlinesbi.sbi/merchant/redirect.htm
+2026-05-02 19:04:54.764896 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/myApplications/PaymentStatus
+    Details: AppointmentConfirmationReceipt
+2026-05-02 19:04:55.914507 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/myApplications/AppointmentConfirmationReceipt?appAction&appMesg=Appointment%20Booked%20Successfully.%20Your%20Appointment%20Number%20is%20100080156151326&appName=ADITYA&appRefNo=26-0062008626&appSurName=SINGH&appTask=Schedule&appointmentNo=100080156151326&appointmentQuota=Online&apptDate=15%2F05%2F2026&apptQuota=NORMAL&birthDate=2003-05-10&calendarDisplayFlag=Y&ePayMode&emailId=OFFICIALPRIVATEADITYA1122%40GMAIL.COM&enquiryQuota=&mobileNo=9519603522&payMode&pskId=53&pskName=PSK%20Lucknow&pspTypeFk=0&schemeType=NORMAL&serviceType=FRESH&slotTime=15%3A15%20-%2015%3A30&status
+    Details: ApplicationReceipt
+2026-05-02 19:06:28.581767 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/myApplications/ApplicationReceipt?appRefNo=26-0062008626&enquiryQuota=
+    Details: AppointmentReceipt
+2026-05-02 19:06:52.185561 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/myApplications/AppointmentReceipt
+    Details: AppointmentReceipt
+2026-05-02 19:07:16.185101 | Download | Downloaded | passport appointment.pdf
+    Details: C:\Users\offic\OneDrive\Desktop\form document\passport appointment.pdf
+2026-05-02 19:09:16.026619 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home
+    Details: Home
+2026-05-02 19:09:16.268251 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/homeScreen
+    Details: Home
+2026-05-02 19:10:33.527551 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/myApplications/UserApplications
+    Details: Fee Details
+2026-05-02 19:10:35.555272 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/feeDetails/FeeCalculator
+    Details: Services
+2026-05-02 19:11:04.456347 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Services/PassportServices
+    Details: Document Advisor
+2026-05-02 19:11:41.472955 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/documentAdvisor/DocumentAdvisorHome
+    Details: UserApplicationsDetails
+2026-05-02 19:11:52.275191 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Home/UserApplicationsDetails
+    Details: LogoutConfirmationPopUp
+2026-05-02 19:12:03.921486 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/Services/LogoutConfirmationPopUp
+    Details: PreLogin
+2026-05-02 19:12:05.895662 | Browser | Visited Website | https://services1.passportindia.gov.in/forms/PreLogin
+    Details: PreLogin
+2026-05-02 20:46:47.985615 | Browser | Web Search | https://search.brave.com/search?q=chatgpt&source=desktop
+    Details: chatgpt - Brave Search
+2026-05-05 06:52:24.858131 | Browser | Visited Website | https://www.fastpeoplesearch.com/
+    Details: Attention Required! | Cloudflare
+2026-05-05 06:52:52.376958 | Browser | Web Search | https://search.brave.com/search?q=fast+people+search&source=desktop
+    Details: fast people search - Brave Search
+2026-05-10 19:37:10.748888 | Browser | Visited Website | https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=194&ct=1778441828&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1
+    Details: Continue
+2026-05-10 19:37:12.078877 | Browser | Visited Website | https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=194&ct=1778441829&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1
+    Details: Continue
+2026-05-10 20:22:00.300873 | Browser | Web Search | https://search.brave.com/search?q=analytics&source=desktop
+    Details: analytics - Brave Search
+2026-05-10 20:23:38.299026 | Download | Downloaded | Lab assistant resume.pdf
+    Details: C:\Users\offic\OneDrive\Desktop\Lab assistant resume.pdf
+2026-05-11 18:36:30.301253 | Browser | Web Search | https://search.brave.com/search?q=youtube&source=desktop
+    Details: youtube - Brave Search
+2026-05-11 18:37:07.540220 | Browser | Visited Website | https://www.youtube.com/
+    Details: YouTube
+2026-05-11 18:37:07.546927 | Browser | Visited Website | https://www.youtube.com/results?search_query=collaborative+whiteboard
+    Details: collaborative whiteboard - YouTube
+2026-05-11 18:37:16.669357 | Browser | Visited Website | https://www.youtube.com/results?search_query=collaborative+whiteboard+project
+    Details: collaborative whiteboard project - YouTube
+2026-05-11 18:37:47.821020 | Browser | Visited Website | https://www.youtube.com/watch?v=KvUS_3fz3QE&list=PL_9VQhSm4-mr7qtfJWrtC9J_KrbmKrTOn
+    Details: Node Js React Js Real Time White Board Sharing App | Coming Soon - YouTube
+2026-05-11 18:40:27.137099 | Browser | Visited Website | https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnZhZTltSENjMWNXOEJkeV9ZZEV4UDFwQnozZ3xBQ3Jtc0tuSFFvWEZyaWdmU0RKMWhsTnhGS1h3TmlqbC1xTWtKN3JmR0w5LUJXX25ZcFRrRzZVN3o0Q0tzaXk3WklibW9GTGVPZ1lmTWNOb0RGVnhHMnRVbU9RRWczdFZSLW9hZmNzNFVCUTlieHU1ZFdLN1hqUQ&q=https%3A%2F%2Fgithub.com%2FRamanSharma100%2Freact-socket.io-white-board-sharing-app-youtube-series&v=BesZbKHz2X8
+    Details: GitHub - RamanSharma100/react-socket.io-white-board-sharing-app-youtube-series: this is the repo for updated code of react-socket.io-white-board-sharing-app-youtube-series · GitHub
+2026-05-11 18:41:53.330502 | Browser | Visited Website | https://github.com/RamanSharma100/react-socket.io-white-board-sharing-app-youtube-series/tree/main/backend
+    Details: react-socket.io-white-board-sharing-app-youtube-series/backend at main · RamanSharma100/react-socket.io-white-board-sharing-app-youtube-series · GitHub
+2026-05-11 18:41:58.967690 | Browser | Visited Website | https://github.com/RamanSharma100/react-socket.io-white-board-sharing-app-youtube-series/tree/main/frontend/src
+    Details: react-socket.io-white-board-sharing-app-youtube-series/frontend/src at main · RamanSharma100/react-socket.io-white-board-sharing-app-youtube-series · GitHub
+2026-05-11 18:42:02.679513 | Browser | Visited Website | https://github.com/RamanSharma100/react-socket.io-white-board-sharing-app-youtube-series/tree/main/frontend
+    Details: react-socket.io-white-board-sharing-app-youtube-series/frontend at main · RamanSharma100/react-socket.io-white-board-sharing-app-youtube-series · GitHub
+2026-05-11 19:02:13.503064 | Browser | Visited Website | http://localhost:5000/
+2026-05-11 19:29:55.023255 | Browser | Visited Website | http://localhost:3000/ed1c00b5-a991-7b9d-2b85-954a888d578c
+    Details: Vite App
+2026-05-11 19:44:41.689392 | Browser | Visited Website | http://localhost:3000/1a5fd4d4-154b-ab01-5c0c-0539223d6add
+    Details: Vite App
+2026-05-11 19:45:08.630455 | Browser | Visited Website | http://localhost:3000/5ab089c0-b1ff-1d67-1668-2130b9fdd130
+    Details: Vite App
+2026-05-11 19:47:04.716981 | Browser | Visited Website | http://localhost:3000/1f11048f-491f-2ad0-7c23-861bd7c1a7de
+    Details: Vite App
+2026-05-11 20:22:56.940632 | Browser | Visited Website | http://localhost:3000/15620a52-d800-ff7f-6897-c38b55b553e0
+    Details: Vite App
+2026-05-11 20:23:54.756705 | Browser | Visited Website | http://localhost:3000/15b1f2a9-7e64-c6f0-365a-65be9cb5e8d4
+    Details: Vite App
+2026-05-11 20:38:35.149460 | Browser | Visited Website | http://localhost:3000/d2d665ff-c3b2-12b4-e48f-baef5e320cdc
+    Details: Vite App
+2026-05-11 20:43:23.543423 | Browser | Visited Website | http://localhost:3000/f7070bb6-a720-f8f6-3fb9-a6ec2f0ab54c
+    Details: Vite App
+2026-05-11 20:50:23.254069 | Browser | Visited Website | http://localhost:3000/c085476b-c577-543e-da15-c3c86bf9278f
+    Details: Vite App
+2026-05-11 20:51:31.006294 | Browser | Visited Website | http://localhost:3000/bbb9a2bc-9c42-ccec-224c-504ec69bc01c
+    Details: Vite App
+2026-05-11 20:58:39.140848 | Browser | Visited Website | http://localhost:3000/0b46793e-008f-b5c4-14eb-4a04b4ada8e2
+    Details: Vite App
+2026-05-12 16:19:39.689422 | Browser | Visited Website | https://www.bing.com/spotlight?spotlightid=WL_HoiAnVietnam&q=Hoi+An%2C+Vietnam&form=M40775
+    Details: Hoi An, Vietnam - Search
+2026-05-12 16:19:43.118235 | Browser | Visited Website | https://www.microsoft.com/edge/update/?form=MT00ZZ&channel=stable&version=148.0.3967.54&sg=0
+    Details: What's new in Microsoft Edge
+2026-05-12 16:19:43.118235 | Browser | Visited Website | https://explore.microsoft.com/en-us/edge/update/148?form=MT00ZZ&channel=stable&version=148.0.3967.54&sg=0
+    Details: What's new in Microsoft Edge
+2026-05-12 16:19:43.118235 | Browser | Visited Website | https://explore.microsoft.com/en-us/edge/update/148?form=MT00ZZ&channel=stable&version=148.0.3967.54&sg=0&ch=1
+    Details: What's new in Microsoft Edge
+2026-05-12 16:19:43.118235 | Browser | Visited Website | https://explore.microsoft.com/en-us/edge/update/148?ep=0&es=350&form=MT00ZZ&channel=stable&version=148.0.3967.54&sg=0&ch=1&cs=2400315111
+    Details: What's new in Microsoft Edge
+2026-05-12 16:19:44.227844 | Browser | Visited Website | https://www.bing.com/?scope=web&cc=IN&FORM=SLTSRC
+    Details: Search - Microsoft Bing
+2026-05-12 16:19:51.362841 | Browser | Visited Website | https://login.live.com/oauth20_authorize.srf?client_id=705cfa09-85c1-4917-9301-b0c359be3cad&scope=https%3a%2f%2foneservice.microsoft.com%2fOneService.Read+openid+profile+offline_access&redirect_uri=https%3a%2f%2fwww.bing.com%2f&response_type=code&state=eyJpZCI6ImJlOTM3ZGQ1LTZiMmYtNGQ3OC05NzQwLTgzNjdlMzlkYzlkMCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19&response_mode=fragment&nonce=51c68718-ef16-4b5e-9007-3602386e611f&prompt=none&login_hint=officialprivateaditya1122%40gmail.com&code_challenge=Ar9QrUCNcEaX_tx5FzAEOVMplrgndzJZ9gmA_yJlwRI&code_challenge_method=S256&x-client-SKU=msal.js.browser&x-client-Ver=2.28.2&uaid=e38508822e384e328f63ca1b9fcb23ab&msproxy=1&issuer=mso&tenant=common&ui_locales=en-US&client_info=1&epctrc=p4Sur45VRue6tcMwqKUN6w7qBii9ah9s76G82y%2fyv24%3d1%3a1%3aCANARY%3aQTzJyaQspckKBDumwhdU39AorCvOjLa5bP7cI4U9s58%3d&epct=PAQABDgEAAAAdDD7nC9b5Q7JPd_okEQRFRXZvU3RzQXJ0aWZhY3RzCAAAAAAAzjFDhVrIFqLC6a5YbKwxdjOdnQwQwtvNvHeN7iO8MA29YLuK9adYMUXNqp8Jjh_PaZJzSvZdT796QJGOJD5Tja6mVsVgUNXE_0Ju3Tc4bv0EPNoYG1A4-lqeAna9TOq40k3USpkBARHM_mUF9nOBDc9R4qdOAhFGOJ_qC0g5WSOMh6Jr7MjEZ7W0NkFsZtkii83OVtPZUh-F_9ppFJJ3FyAA&jshs=2&jsh=3%24officialprivateaditya1122%2540gmail.com%24Aditya%24Singh%24%242%240%240%247520545200202874466%240&jshp=
+2026-05-12 16:19:51.362841 | Browser | Visited Website | https://www.bing.com/#code=M.C506_BL2.2.U.Ds3hrERUpiHyC*cEnzDfSjw!zXaPO0UdwdEk62LYgWtkd3HG2fb6rHQF6V3Jv5RrzbxK5ADKRhEwmC1Xk3qHLGQrpz0!1BodnkFZD5e6Be1rW02qCPwCW7WMSEbEERxF1d5tlR4J2x9vI3MmDdpHCXkZGKzGkNoq5NZOhnYYACuOKukAsbsqTWbBDlFLL*G799YqSWYZ5PenE8GZO0bOf0XmHdTBWr!N6ueXjH3WY3UGzs6r*APzZYUcqdNyCFiUuYNFcYF3d2KO9rmAA6LUjler!o!8MruIw414WysJrzKxUYwcsPJWxv8bUPCrz0w7peViZV77DPjTly4JcqbB7vcg1mopJNag4VSzJ0SiPyHacMxECeiCkrjxNGjBzuPz3B9jIDxzvMfzXD7iXes*eZBaz39CLmaUVObiBhvyI8Y0KOTgQmJjo3gIiNBxs3CwTmpYyxXPdMZrSJn4QJZaZTEmhyn*fJ5SqNI00RHd5sPtYvwqUVY7aXiBMEZKIt4prZCgVB5!2mTPisEM3i2xeWPlfmo6BXs2kq4JDA6z!5wNHnKlKFOYwEIS6p4hYbCKl2BBhlg!RYji3!GzNYQMAT0sF0vDUCNf4yfm4O6sdn4Hc67xZW5mcVI6jacHKidJam26wB3IW!yc059m7lGMKy2co4pRamg6uu*xgLD0ZTI67i0z0pxJBwX0QJRXzVHzBgUAZ0rcuP!YQxhbQPF3fVlRYJnM3RxJH6TzeYqnrBd9&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFKMF9PSVZ2ZFI0ZXQ0UXREY1hHZmxBIiwibmFtZSI6IkFkaXR5YSBTaW5naCIsInByZWZlcnJlZF91c2VybmFtZSI6Im9mZmljaWFscHJpdmF0ZWFkaXR5YTExMjJAZ21haWwuY29tIiwib2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLTVlZjktNThiN2RjN2QxOTUxIiwidGlkIjoiOTE4ODA0MGQtNmM2Ny00YzViLWIxMTItMzZhMzA0YjY2ZGFkIiwiaG9tZV9vaWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtNWVmOS01OGI3ZGM3ZDE5NTEiLCJ1aWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtNWVmOS01OGI3ZGM3ZDE5NTEiLCJ1dGlkIjoiOTE4ODA0MGQtNmM2Ny00YzViLWIxMTItMzZhMzA0YjY2ZGFkIn0&state=eyJpZCI6ImJlOTM3ZGQ1LTZiMmYtNGQ3OC05NzQwLTgzNjdlMzlkYzlkMCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoic2lsZW50In19
+2026-05-12 16:21:22.331129 | Browser | Visited Website | https://www.youtube.com/watch?v=BesZbKHz2X8&list=PL_9VQhSm4-mr7qtfJWrtC9J_KrbmKrTOn&index=15
+    Details: Real Time Room Chat Integration | Node Js React Js Real-Time White Board Sharing App - YouTube
+2026-05-12 20:00:02.627414 | Browser | Visited Website | http://localhost:3000/6c6d0640-dfda-cb70-84bd-2df567056225
+    Details: Vite App
+2026-05-12 20:16:29.389843 | Browser | Visited Website | http://localhost:3000/9a2c84c9-4741-a4e7-51be-2f6adbd17801
+    Details: Vite App
+2026-05-12 20:22:41.108916 | Browser | Visited Website | http://localhost:3000/d61eeccd-e0f2-5b75-d522-40828a8941d0
+    Details: Vite App
+2026-05-12 20:40:29.892251 | Browser | Visited Website | http://localhost:3000/31e0cc8e-4df8-56a5-1a79-bef734188fcc
+    Details: Vite App
+2026-05-12 20:48:04.581124 | Browser | Visited Website | http://localhost:3000/aeabf75a-fae7-6d39-aba2-e7306f45f6f8
+    Details: Vite App
+2026-05-12 20:59:32.140977 | Browser | Visited Website | http://localhost:3000/baa8f5d2-edc0-d412-f06e-ec089f8c974a
+    Details: Vite App
+2026-05-12 21:03:59.580240 | Browser | Visited Website | http://localhost:3000/8da3529-d835-744f-a5eb-05a89df29f14
+    Details: Vite App
+2026-05-12 21:06:19.176935 | Browser | Visited Website | http://localhost:3000/48da3529-d835-744f-a5eb-05a89df29f14
+    Details: Vite App
+2026-05-12 21:35:14.550758 | Browser | Visited Website | http://localhost:3000/9abf7c58-4f4f-dc6e-c41b-66eda8b36f77
+    Details: Vite App
+2026-05-12 22:11:15.399087 | Browser | Visited Website | http://localhost:3000/d05ca6e5-3cbc-7e0a-eae1-5eec4de32a1d
+    Details: Vite App
+2026-05-12 22:42:52.520471 | Browser | Visited Website | http://localhost:3000/b0421fb9-ecbf-6aa7-61a6-f289ea0e1a02
+    Details: Vite App
+2026-05-12 22:49:14.043480 | Browser | Visited Website | http://localhost:3000/e8b4d636-10e8-2fdb-3546-3178d041a6fe
+    Details: Vite App
+2026-05-12 22:50:00.547450 | Browser | Visited Website | http://localhost:3000/05317668-876e-9861-e833-7becec16d80c
+    Details: Vite App
+2026-05-12 22:54:39.893495 | Browser | Visited Website | http://localhost:3000/0d1c6138-744b-371b-15dd-622b53b575dd
+    Details: Vite App
+2026-05-13 17:40:54.800397 | Browser | Visited Website | https://www.youtube.com/watch?v=BesZbKHz2X8&list=PL_9VQhSm4-mr7qtfJWrtC9J_KrbmKrTOn&index=16
+    Details: Real Time Room Chat Integration | Node Js React Js Real-Time White Board Sharing App - YouTube
+2026-05-13 17:40:55.366201 | Browser | Visited Website | https://www.capgemini.com/jobs/448540-en_GB_SAPBTP/?utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed&idOrigine=1522&jobPipeline=Indeed
+    Details: Cybersecurity Analyst
+2026-05-13 17:42:03.630493 | Browser | Visited Website | https://careers.capgemini.com/job/Navi-Mumbai-Cybersecurity-Analyst/1386793433/?feedId=388633&utm_source=CareerSite&tcsource=apply
+    Details: Cybersecurity Analyst Job Details | Capgemini
+2026-05-13 17:42:19.008877 | Browser | Visited Website | https://career5.successfactors.eu/careers?company=capgemitecP3
+    Details: Career Opportunities: Cybersecurity Analyst (448540)
+2026-05-13 17:57:23.282106 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/JOBBB/Aditya%20Singh%20OSINT.pdf
+    Details: Aditya Singh OSINT.pdf
+2026-05-13 17:58:31.913991 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=82c4dd37-5a9d-4a0a-8423-9456c66a3b25&cid=5ef958b7dc7d1951
+    Details: soc resume.docx
+2026-05-13 17:58:41.104050 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=bae0ac85-e83f-4a97-88ac-fb825bcaf347&cid=5ef958b7dc7d1951
+    Details: Document 1.docx
+2026-05-14 18:56:12.414700 | Browser | Visited Website | https://www.youtube.com/watch?v=BesZbKHz2X8&list=PL_9VQhSm4-mr7qtfJWrtC9J_KrbmKrTOn&index=17
+    Details: Real Time Room Chat Integration | Node Js React Js Real-Time White Board Sharing App - YouTube
+2026-05-14 18:56:13.544151 | Browser | Visited Website | https://onedrive.live.com/?id=%2F5ef958b7dc7d1951%2FDesktop%2FJOBBB%2FAditya%20Singh%20OSINT.pdf&parentview=1
+    Details: Microsoft OneDrive
+2026-05-14 19:06:40.467983 | Browser | Visited Website | http://localhost:3000/9858bc7b-fa0c-4470-7d8a-f4cca99eb863
+    Details: Vite App
+2026-05-14 19:07:21.044643 | Browser | Visited Website | http://localhost:3000/f25b1a3e-b801-a169-91d9-073cefe18391
+    Details: Vite App
+2026-05-14 19:18:07.621372 | Browser | Web Search | https://www.bing.com/search?qs=AS&pq=local&sk=CSYN1NLS2UAS7AS4LS2LC1&sc=24-5&q=localhost+3000&cvid=58bb8561317d4f51bffc712630428f6f&gs_lcrp=EgRlZGdlKgYIBRAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg1NzE5ajBqN6gCCLACAQ&FORM=ANSPA1&PC=ASTS&source=chrome.ob
+    Details: localhost 3000 - Search
+2026-05-14 19:18:40.552391 | Browser | Web Search | https://www.bing.com/search?q=http%3A%2F%2Flocalhost%3A3000%2F&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=http%3A%2F%2Flocalhost%3A3000%2F&sc=12-22&sk=&cvid=F7866C2CDAE34F7BA9B7ABDA67FC7686
+    Details: http://localhost:3000 - Search
+2026-05-14 19:18:52.877187 | Browser | Web Search | https://www.bing.com/search?q=http%3A%2F%2Flocalhost%3A3000&qs=n&form=QBRE&sp=-1&lq=0&pq=http%3A%2F%2Flocalhost%3A3000&sc=12-21&sk=&cvid=D75633E0EB1546299F6FE5B19DFB98EE
+    Details: http://localhost:3000 - Search
+2026-05-14 19:27:30.620029 | Browser | Visited Website | http://localhost:3000/f25b1a3e-b801-a169-91d9-073cefe18391
+    Details: Vite App
+2026-05-14 19:28:40.349408 | Browser | Visited Website | http://localhost:3000/24157806-6f63-e566-ef58-1496c9000223
+    Details: Vite App
+2026-05-14 19:29:07.460562 | Browser | Visited Website | http://localhost:3000/24157806-6f63-e566-ef58-1496c9000223
+    Details: Vite App
+2026-05-14 19:40:53.607209 | Browser | Visited Website | http://localhost:3000/7b6b6989-7f7c-0a55-5b5c-24d9d2ef13a7
+    Details: Vite App
+2026-05-14 19:41:09.291524 | Browser | Visited Website | http://localhost:3000/7b6b6989-7f7c-0a55-5b5c-24d9d2ef13a7
+    Details: Vite App
+2026-05-14 19:41:32.712862 | Browser | Visited Website | http://localhost:3000/d5199024-c772-132b-a362-4c5ba1d881fc
+    Details: Vite App
+2026-05-14 19:42:12.310269 | Browser | Visited Website | http://localhost:3000/d5199024-c772-132b-a362-4c5ba1d881fc
+    Details: Vite App
+2026-05-14 19:53:58.291155 | Browser | Visited Website | http://localhost:3000/a891e4cc-b98d-8815-daa7-d9633bc45733
+    Details: Vite App
+2026-05-14 19:54:20.384815 | Browser | Visited Website | http://localhost:3000/a891e4cc-b98d-8815-daa7-d9633bc45733
+    Details: Vite App
+2026-05-14 20:02:58.711600 | Browser | Visited Website | http://localhost:3000/87e6b6ca-d8ca-6561-1815-17bb19b515aa
+    Details: Vite App
+2026-05-14 20:03:57.488755 | Browser | Visited Website | http://localhost:3000/87e6b6ca-d8ca-6561-1815-17bb19b515aa
+    Details: Vite App
+2026-05-14 20:10:07.480034 | Browser | Visited Website | http://localhost:3000/777c3160-cc59-93f4-4530-0a84ab125983
+    Details: Vite App
+2026-05-14 20:27:17.186949 | Browser | Visited Website | http://localhost:3000/601fd1f2-d446-c82d-d339-0983c8e9a84f
+    Details: Vite App
+2026-05-14 20:30:39.934594 | Browser | Visited Website | http://localhost:3000/68291ff9-e8b1-bfb5-eb1a-2325be68ea14
+    Details: Vite App
+2026-05-14 20:34:18.155120 | Browser | Visited Website | http://localhost:3000/6da333c6-ee6d-9246-1cb0-a20891033e64
+    Details: Vite App
+2026-05-14 20:49:50.508335 | Browser | Visited Website | http://localhost:3000/b147a131-7c73-3b91-14b5-195118b27d0a
+    Details: Vite App
+2026-05-14 20:51:32.835223 | Browser | Visited Website | http://localhost:3000/b147a131-7c73-3b91-14b5-195118b27d0a
+    Details: Vite App
+2026-05-14 20:58:08.205436 | Browser | Visited Website | http://localhost:3000/27c6b0f0-fbc4-e1be-5d7f-82d4675d9776
+    Details: Vite App
+2026-05-14 20:59:57.692568 | Browser | Visited Website | http://localhost:3000/dffc309b-6459-c6be-e2a6-18ea2c095bac
+    Details: Vite App
+2026-05-14 21:06:13.597332 | Browser | Visited Website | http://localhost:3000/dffc309b-6459-c6be-e2a6-18ea2c095bac
+    Details: Vite App
+2026-05-14 21:07:19.202904 | Browser | Visited Website | http://localhost:3000/e95bbdb7-84e9-73b2-b4ff-2112634d0d51
+    Details: Vite App
+2026-05-14 21:07:35.347579 | Browser | Visited Website | http://localhost:3000/71657098-3e01-bb4f-47cd-7ac90dfd3f92
+    Details: Vite App
+2026-05-14 21:08:38.800692 | Browser | Visited Website | http://localhost:3000/3831e1f5-9be4-cade-21b6-03f4509c493b
+    Details: Vite App
+2026-05-14 21:09:20.728074 | Browser | Visited Website | http://localhost:3000/71657098-3e01-bb4f-47cd-7ac90dfd3f92
+    Details: Vite App
+2026-05-14 21:22:04.485439 | Browser | Visited Website | http://localhost:3000/4884684a-610c-3767-246c-e95801d407b2
+    Details: Vite App
+2026-05-14 21:29:02.915885 | Browser | Visited Website | http://192.168.29.15:3000/
+    Details: Vite App
+2026-05-14 21:29:08.927493 | Browser | Visited Website | http://192.168.29.15:3000/54dd783a-83ce-5e01-5a6c-bc4d07748150
+    Details: Vite App
+2026-05-14 21:33:24.376290 | Browser | Visited Website | http://localhost:3000/78d06794-d853-d722-4811-f3826623eb81
+    Details: Vite App
+2026-05-14 21:33:40.756246 | Browser | Visited Website | http://localhost:3000/b821debb-eb3c-ce11-2b1e-57e34d156680
+    Details: Vite App
+2026-05-14 21:48:13.539323 | Browser | Visited Website | http://localhost:3000/dcdc85b1-8dc7-97b0-b649-5adc66e07357
+    Details: Vite App
+2026-05-14 21:48:40.326392 | Browser | Visited Website | http://localhost:3000/6f77a83a-ae12-2ae7-3764-b4e199559da3
+    Details: Vite App
+2026-05-14 21:52:36.285466 | Browser | Visited Website | http://localhost:3000/2c71a4ee-6348-b41a-5241-299cbc53196e
+    Details: Vite App
+2026-05-14 21:55:02.706708 | Browser | Visited Website | http://localhost:3000/c3a2ab0a-35f7-4121-c6a5-42e629173795
+    Details: Vite App
+2026-05-14 22:00:38.535648 | Browser | Visited Website | http://localhost:3000/6599f28e-a08f-6dc3-3eda-ba1c82ae3b44
+    Details: Vite App
+2026-05-14 22:06:25.285740 | Browser | Visited Website | http://localhost:3000/8b5456e6-ed4b-4ee5-2d06-c963e85f874d
+    Details: Vite App
+2026-05-14 22:06:44.279677 | Browser | Visited Website | http://localhost:3000/ea0eb635-a1c7-a2b4-0211-ae46930fce63
+    Details: Vite App
+2026-05-14 22:19:25.126106 | Browser | Visited Website | http://localhost:3000/a1ecf6f4-7174-837c-8fd8-c44b330f274a
+    Details: Vite App
+2026-05-14 22:23:12.774311 | Browser | Visited Website | http://localhost:3000/41087ee0-ada9-9876-cd98-01bea815aefb
+    Details: Vite App
+2026-05-14 22:26:26.224772 | Browser | Visited Website | http://localhost:3000/7239c2a0-07b3-525e-dd0f-594a3d8446c9
+    Details: Vite App
+2026-05-14 22:29:37.446414 | Browser | Visited Website | http://localhost:3000/db909a81-ebee-4a5c-4aef-ebb5b6506e1c
+    Details: Vite App
+2026-05-14 22:33:44.679798 | Browser | Visited Website | http://localhost:3000/71055b58-d212-576e-a4e5-270af6ddb7fd
+    Details: Vite App
+2026-05-14 22:39:32.070509 | Browser | Visited Website | http://localhost:3000/ca398e6-b745-167e-d76f-76ef4cab7522
+    Details: Vite App
+2026-05-14 22:40:20.128771 | Browser | Visited Website | http://localhost:3000/3ca398e6-b745-167e-d76f-76ef4cab7522
+    Details: Vite App
+2026-05-14 22:44:17.971796 | Browser | Visited Website | http://localhost:3000/05ffdd15-3407-5763-2087-bb6107da02e2
+    Details: Vite App
+2026-05-15 19:43:27.466560 | Browser | Visited Website | https://www.youtube.com/watch?v=BesZbKHz2X8&list=PL_9VQhSm4-mr7qtfJWrtC9J_KrbmKrTOn&index=18
+    Details: Real Time Room Chat Integration | Node Js React Js Real-Time White Board Sharing App - YouTube
+2026-05-15 19:43:29.061602 | Browser | Visited Website | https://onedrive.live.com/?id=%2F5ef958b7dc7d1951%2FDesktop%2FJOBBB%2FAditya%20Singh%20OSINT%2Epdf&parentview=1
+    Details: Continue
+2026-05-15 19:43:30.572093 | Browser | Visited Website | https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=194&ct=1778874208&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1
+    Details: Continue
+2026-05-15 19:54:34.044379 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=1eb3934b-8746-463c-9529-3fcffbbfea4b&cid=5ef958b7dc7d1951
+    Details: NEW SYNOP CORRECT.docx
+2026-05-15 19:55:11.966374 | Browser | Visited Website | https://onedrive.live.com/?cid=5EF958B7DC7D1951&id=5EF958B7DC7D1951!s1eb3934b8746463c95293fcffbbfea4b&action=download&migratedtospo=true
+    Details: OneDrive
+2026-05-15 19:55:12.159564 | Browser | Visited Website | https://onedrive.live.com/?cid=5EF958B7DC7D1951&id=5EF958B7DC7D1951%21s1eb3934b8746463c95293fcffbbfea4b&action=download&migratedtospo=true
+    Details: OneDrive
+2026-05-15 19:55:18.116304 | Browser | Visited Website | https://onedrive.live.com/?id=5EF958B7DC7D1951!s1eb3934b8746463c95293fcffbbfea4b&cid=5EF958B7DC7D1951&parId=root&o=OneUp&ls=true&migratedtospo=true&action=download
+    Details: Microsoft OneDrive
+2026-05-15 19:55:18.697745 | Browser | Visited Website | https://onedrive.live.com/?id=5EF958B7DC7D1951%21s1eb3934b8746463c95293fcffbbfea4b&cid=5EF958B7DC7D1951&parId=root&o=OneUp&ls=true&migratedtospo=true&action=download
+    Details: My files - OneDrive
+2026-05-15 19:55:38.443877 | Download | Downloaded | NEW SYNOP CORRECT.docx
+    Details: C:\Users\offic\OneDrive\Desktop\project subject\NEW SYNOP CORRECT.docx
+2026-05-15 19:56:10.622593 | Browser | Visited Website | https://www.microsoft365.com/launch/word?username={preferred_username}&auth=1&login_hint=
+    Details: Choose an account
+2026-05-15 19:56:10.622593 | Browser | Visited Website | https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.microsoft365.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639144717696203707.OTg5NzE5YjEtZGEwYi00OGE5LTkxNDQtNTc5YzBhYTJlZDI3YzI5OTU1MWYtNDVmNi00YWJkLThkMWQtMWUyZjdhNGY0NWVi&ui_locales=en-US&mkt=en-US&login_hint=%7Bpreferred_username%7D&domain_hint=live.com&client-request-id=8e04ab6e-3e1e-47bf-a98b-197387c34baf&state=0CwOrTuol9kiWf4tRTLWNKEDSeZmWvMe9LvhCjeT0--bUkl7vFY4tRJzAnuL3djmygEK6fITsRwIqqfqajTPDCkdbQ_yAHVX9kVhgxIesdAD3B8ox1IwjynOT7ttbI8T7MXNASxlqbKKd9sjy7A16zk6zzCAME3tvlyO4wPiAYuAy2jJTuKd6YwuW-q4V0OOReKfOW7ZPAFwhewnz8tJBbYR-hp3pDmm6QqsrR_Me8GENudpTbso3YM5GoSeUtfpYUiaAPw5NF68jX40VvaPlg9JVX5FoIdRGc_3GhFIrXdtHIpMXZrXlYQHXy3nULZsExwunFSruEOW5RZ79zQK4ySFveB3P8c2SoPka1xolh8rMdsV3iEd3mmuLtIWgX47in_lP3XI8ou3KFyNjRxnJPlig8Tyh-_dTaNTqtLscza72_iXDMIE9-pi72jSZYm_Hv1pc3soxz7YmMMClqOl1z5f9dGE72rkx5zJwjjKFjiyWVazQOVX8zfWxkZmQnjugZPD70JE7uVabU8P7v9fIrHqhN_A6KaaJV4bVuXrwC9fIBLEUsgi3hI5nnpegi7HVSU-t_HBNd7MCloXU3h9JGdeB6Q_ZklV2G_AoJGhs8t1bJGMIOtzHN-S7cyFLct2&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0
+    Details: Choose an account
+2026-05-15 19:56:20.653374 | Browser | Visited Website | https://login.live.com/oauth20_authorize.srf?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&contextid=69ADFBF55FD96761&opid=DA0E2E9D1F708AFB&bk=1778874970&login_hint=%7bpreferred_username%7d&mkt=EN-US&lc=1033&uaid=8e04ab6e3e1e47bfa98b197387c34baf&sessionid=M.13840525570246777387
+    Details: Continue
+2026-05-15 19:56:23.070602 | Browser | Visited Website | https://www.microsoft365.com/launch/word?auth=1
+    Details: Create and edit documents for free | Microsoft Word for the Web
+2026-05-15 19:56:23.070602 | Browser | Visited Website | https://m365.cloud.microsoft/launch/word?auth=1&origindomain=microsoft365&client-request-id=8e04ab6e-3e1e-47bf-a98b-197387c34baf
+    Details: Create and edit documents for free | Microsoft Word for the Web
+2026-05-15 19:56:38.430996 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=3d834b1a-80a5-4d55-812d-64e612ceb23b&response_mode=fragment&client_info=1&clidata=1&prompt=select_account&nonce=019e2d36-5db3-7433-b572-399a3246c956&state=eyJpZCI6IjAxOWUyZDM2LTVkOTctNzAxZS1hNmYyLTk1NmQ5OTY4M2VjMCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7CwdOrigin%3DOFFICECOM-WEB.REDIRECT%7Cintents%3A%5B%7B%22type%22%3A%22OpenFilePicker%22%2C%22data%22%3A%22true%22%7D%5D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=5.6.0&response_type=code&code_challenge=SjICLvRgNY7HTsoSoz11xz7Jh0Cl_waj1HAARfdYnNk&code_challenge_method=S256&mkt=en-us
+    Details: Sign in to your account
+2026-05-15 19:56:40.012396 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=3d834b1a-80a5-4d55-812d-64e612ceb23b&response_mode=fragment&client_info=1&clidata=1&prompt=select_account&nonce=019e2d36-5db3-7433-b572-399a3246c956&state=eyJpZCI6IjAxOWUyZDM2LTVkOTctNzAxZS1hNmYyLTk1NmQ5OTY4M2VjMCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7CwdOrigin%3DOFFICECOM-WEB.REDIRECT%7Cintents%3A%5B%7B%22type%22%3A%22OpenFilePicker%22%2C%22data%22%3A%22true%22%7D%5D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=5.6.0&response_type=code&code_challenge=SjICLvRgNY7HTsoSoz11xz7Jh0Cl_waj1HAARfdYnNk&code_challenge_method=S256&mkt=en-us&sso_reload=true
+    Details: Sign in to your account
+2026-05-15 19:56:51.390410 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=3d834b1a-80a5-4d55-812d-64e612ceb23b&response_mode=fragment&client_info=1&clidata=1&prompt=select_account&nonce=019e2d36-9005-71bb-93c6-cba1ddfbd0af&state=eyJpZCI6IjAxOWUyZDM2LThmZWMtNzQ5My1iNzI0LWM2NDFiNzA2YjkxNCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7CwdOrigin%3DOFFICECOM-WEB.REDIRECT%252CAPPHOME-WEB.UNAUTH%7Cintents%3A%5B%7B%22type%22%3A%22UploadBlankFile%22%2C%22data%22%3A%22true%22%7D%2C%7B%22type%22%3A%22OpenInNewTab%22%2C%22data%22%3A%22false%22%7D%5D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=5.6.0&response_type=code&code_challenge=oHkB-ytpk25o3M90zNIcZlwS8kM4LXAeaMCoLiw-N-M&code_challenge_method=S256&mkt=en-us
+    Details: Sign in to your account
+2026-05-15 19:57:10.217534 | Browser | Visited Website | https://login.live.com/oauth20_authorize.srf?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&scope=openid+profile+https%3a%2f%2fwww.office.com%2fv2%2fOfficeHome.All&redirect_uri=https%3a%2f%2fwww.microsoft365.com%2flandingv2&response_type=code+id_token&state=0CwOrTuol9kiWf4tRTLWNKEDSeZmWvMe9LvhCjeT0--bUkl7vFY4tRJzAnuL3djmygEK6fITsRwIqqfqajTPDCkdbQ_yAHVX9kVhgxIesdAD3B8ox1IwjynOT7ttbI8T7MXNASxlqbKKd9sjy7A16zk6zzCAME3tvlyO4wPiAYuAy2jJTuKd6YwuW-q4V0OOReKfOW7ZPAFwhewnz8tJBbYR-hp3pDmm6QqsrR_Me8GENudpTbso3YM5GoSeUtfpYUiaAPw5NF68jX40VvaPlg9JVX5FoIdRGc_3GhFIrXdtHIpMXZrXlYQHXy3nULZsExwunFSruEOW5RZ79zQK4ySFveB3P8c2SoPka1xolh8rMdsV3iEd3mmuLtIWgX47in_lP3XI8ou3KFyNjRxnJPlig8Tyh-_dTaNTqtLscza72_iXDMIE9-pi72jSZYm_Hv1pc3soxz7YmMMClqOl1z5f9dGE72rkx5zJwjjKFjiyWVazQOVX8zfWxkZmQnjugZPD70JE7uVabU8P7v9fIrHqhN_A6KaaJV4bVuXrwC9fIBLEUsgi3hI5nnpegi7HVSU-t_HBNd7MCloXU3h9JGdeB6Q_ZklV2G_AoJGhs8t1bJGMIOtzHN-S7cyFLct2&response_mode=form_post&nonce=639144717696203707.OTg5NzE5YjEtZGEwYi00OGE5LTkxNDQtNTc5YzBhYTJlZDI3YzI5OTU1MWYtNDVmNi00YWJkLThkMWQtMWUyZjdhNGY0NWVi&login_hint=%7bpreferred_username%7d&x-client-SKU=ID_NET8_0&x-client-Ver=8.14.0.0&uaid=8e04ab6e3e1e47bfa98b197387c34baf&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&epctrc=EoGKZRuLk3f3rVgwMiWSa5fmS5KqVWX60UfwQhmJew0%3d2%3a1%3aCANARY%3aLrC0w4vikHB88rO%2faX6y0Y5PjCCDLMC2nXSr7RplHlU%3d&epct=PAQABDgEAAAAdDD7nC9b5Q7JPd_okEQRFRXZvU3RzQXJ0aWZhY3RzCAAAAAAAQXNQdMYXz5_olsHj-pSsCWKFYrAFnTsgBL6WEP55HCpbEERybFAQNhQOHxfFcKot4LX0veiiGJ9P7zIH7Z_b1hZuFPaFLl7lqgR3JqtqC4qmlZRD3eZhwVJnFzKv1QbpBfllFgcK7udzZUo5no-JER6YzkL6Sryyxxl6Qcc4KNMqqS7CtWbOg-No7xN6FcvmkMh5pzsywvsOHAPv_n7hxiAA&jshs=0#
+    Details: Choose an account
+2026-05-15 19:57:57.419698 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/Doc.aspx?sourcedoc=%7BA0554F86-9338-4AFC-AE2D-EC67F6F4EA33%7D&file=NEW%20SYNOP%20CORRECT.docx&action=default&mobileredirect=true&CT=1778875076854&OR=ItemsView
+    Details: NEW SYNOP CORRECT.docx
+2026-05-15 19:58:50.550448 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/project%20subject/Project-Synopsis-updated-new.pdf
+    Details: Project-Synopsis-updated-new.pdf
+2026-05-15 19:59:07.492315 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/project%20subject/Project%20management.pdf
+    Details: Project management.pdf
+2026-05-15 22:37:51.572002 | Browser | Web Search | https://search.brave.com/search?q=collaborative+whitboard+example&source=desktop
+    Details: collaborative whitboard example - Brave Search
+2026-05-15 22:37:55.138430 | Browser | Web Search | https://search.brave.com/images?q=collaborative+whitboard+example&source=web
+    Details: collaborative whitboard example - Brave Search
+2026-05-15 22:38:13.794386 | Browser | Web Search | https://search.brave.com/images?q=realtimww+collaborative+whitboard+example&source=images
+    Details: realtimww collaborative whitboard example - Brave Search
+2026-05-15 22:41:00.021837 | Browser | Visited Website | http://localhost:3000/6e448ee6-5b56-fcdb-6096-260bcb6c61fb
+    Details: Vite App
+2026-05-15 22:41:14.344617 | Browser | Visited Website | http://localhost:3000/
+    Details: Vite App
+2026-05-15 22:41:29.411493 | Browser | Visited Website | http://localhost:3000/6e448ee6-5b56-fcdb-6096-260bcb6c61fb
+    Details: Vite App
+2026-05-15 23:04:52.075168 | Browser | Web Search | https://search.brave.com/search?q=available&source=desktop
+    Details: available - Brave Search
+2026-05-15 23:44:31.517673 | Browser | Visited Website | https://onedrive.live.com/?cid=5EF958B7DC7D1951&id=5EF958B7DC7D1951!sa0554f8693384afcae2dec67f6f4ea33&action=download&migratedtospo=true
+    Details: OneDrive
+2026-05-15 23:44:31.704133 | Browser | Visited Website | https://onedrive.live.com/?cid=5EF958B7DC7D1951&id=5EF958B7DC7D1951%21sa0554f8693384afcae2dec67f6f4ea33&action=download&migratedtospo=true
+    Details: OneDrive
+2026-05-15 23:44:36.600071 | Browser | Visited Website | https://onedrive.live.com/?id=5EF958B7DC7D1951!sa0554f8693384afcae2dec67f6f4ea33&cid=5EF958B7DC7D1951&parId=5EF958B7DC7D1951!sba81aa0c91ea421db3c5f658bccd2910&o=OneUp&ls=true&migratedtospo=true&action=download
+    Details: Microsoft OneDrive
+2026-05-15 23:44:36.886539 | Browser | Visited Website | https://onedrive.live.com/?id=5EF958B7DC7D1951%21sa0554f8693384afcae2dec67f6f4ea33&cid=5EF958B7DC7D1951&parId=5EF958B7DC7D1951%21sba81aa0c91ea421db3c5f658bccd2910&o=OneUp&ls=true&migratedtospo=true&action=download
+    Details: project subject - OneDrive
+2026-05-15 23:47:10.522276 | Download | Downloaded | NEW SYNOP CORRECT 222222.odt
+    Details: C:\Users\offic\OneDrive\Desktop\project subject\NEW SYNOP CORRECT 222222.odt
+2026-05-16 09:52:27.283420 | Browser | Visited Website | https://www.youtube.com/watch?v=BesZbKHz2X8&list=PL_9VQhSm4-mr7qtfJWrtC9J_KrbmKrTOn&index=19
+    Details: Real Time Room Chat Integration | Node Js React Js Real-Time White Board Sharing App - YouTube
+2026-05-16 09:52:28.209852 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/Doc.aspx?sourcedoc=%7BA0554F86-9338-4AFC-AE2D-EC67F6F4EA33%7D&file=NEW%20SYNOP%20CORRECT.docx&action=default&mobileredirect=true
+    Details: NEW SYNOP CORRECT.docx
+2026-05-16 09:54:08.281038 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/project%20subject/Final%20Year%20Project%20Vote%20System%20(1).pdf
+    Details: Final Year Project Vote System (1).pdf
+2026-05-16 09:56:09.036654 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/Doc.aspx?sourcedoc={4c813b54-e4dd-444e-8bb6-d66510629bfc}&action=edit&wdPreviousSession=e8f599e9%2Dd8b9%2Db899%2Dee9c%2D048d65d3094e
+    Details: NEW SYNOP CORRECT - Copy.docx
+2026-05-16 09:57:56.279644 | Download | Downloaded | NEW SYNOP CORRECT - Copy.pdf
+    Details: C:\Users\offic\OneDrive\Desktop\project subject\NEW SYNOP CORRECT - Copy.pdf
+2026-05-16 09:58:10.664015 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/project%20subject/NEW%20SYNOP%20CORRECT%20-%20Copy.pdf
+    Details: NEW SYNOP CORRECT - Copy.pdf
+2026-05-16 09:59:55.895678 | Download | Downloaded | NEW SYNOP CORRECT - Copy (1).pdf
+    Details: C:\Users\offic\OneDrive\Desktop\project subject\NEW SYNOP CORRECT - Copy (1).pdf
+2026-05-16 10:00:08.135109 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/project%20subject/NEW%20SYNOP%20CORRECT%20-%20Copy%20(1).pdf
+    Details: NEW SYNOP CORRECT - Copy (1).pdf
+2026-05-16 18:23:23.742124 | Browser | Visited Website | https://www.youtube.com/watch?v=BesZbKHz2X8&list=PL_9VQhSm4-mr7qtfJWrtC9J_KrbmKrTOn&index=20
+    Details: Real Time Room Chat Integration | Node Js React Js Real-Time White Board Sharing App - YouTube
+2026-05-16 18:30:29.849261 | Browser | Web Search | https://search.brave.com/search?q=MDN&source=desktop
+    Details: MDN - Brave Search
+2026-05-16 18:30:49.616054 | Browser | Visited Website | https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+    Details: Using the Fetch API - Web APIs | MDN
+2026-05-16 18:30:58.652016 | Browser | Visited Website | https://developer.mozilla.org/en-US/
+    Details: MDN Web Docs
+2026-05-16 18:31:37.099432 | Browser | Visited Website | https://developer.mozilla.org/pong/click?code=aHR0cHM6Ly9zcnYuYnV5c2VsbGFkcy5jb20vYWRzL2NsaWNrL3gvR1RORDQyN1VGVEFJQzVRVUNXQkxZS1FVQ0FBRFBLM01DQVNETFozSkNBU0lFMlE3QzY3SUxLM0tGVFNJVDVRTkNUQUQ0NTNMRlRTRDRLUU5DSzdENjUzS0M2U0k1NTM3Q1dCRFZLM0VISk5DTFNJWg%3D%3D.pY4zR%2FtF3UapDKWOuzqmszALslkkGfedHm8EmjteqfU%3D&version=2
+    Details: Redis Cloud
+2026-05-16 18:31:37.099432 | Browser | Visited Website | https://redis.io/cloud/?utm_source=bsa&utm_medium=cpc&utm_campaign=bsa_core_allgeos_acq_mofu_freetrial_mdn-homepage-takeover&utm_content=mdn-homepage-takeover&utm_term=signups_mdn-homepage-takeover_1940x500
+    Details: Redis Cloud
+2026-05-16 18:31:52.118554 | Browser | Visited Website | https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
+    Details: WebRTC API - Web APIs | MDN
+2026-05-16 18:35:12.018658 | Browser | Web Search | https://search.brave.com/search?q=CLAUDE&source=desktop
+    Details: CLAUDE - Brave Search
+2026-05-16 18:35:14.257078 | Browser | Visited Website | https://claude.ai/login
+    Details: Sign in - Claude
+2026-05-16 18:36:10.887538 | Browser | Visited Website | https://accounts.google.com/o/oauth2/v2/auth?gsiwebsdk=gis_attributes&client_id=1062961139910-l2m55cb9h51u5cuc9c56eb3fevouidh9.apps.googleusercontent.com&scope=openid%20profile%20email&redirect_uri=gis_transform&prompt=consent&access_type=offline&response_type=code&include_granted_scopes=true&enable_granular_consent=true&gis_params=GBMqK3U0Ri94d3hOWUxPcUxWYXNrdm5QZVQxUmxjdGpzTUZlYlhFMm5jdEVyM3c4AUIKYXV0aDc0Njk3MmgB&origin=https%3A%2F%2Fclaude.ai&display=popup&response_mode=form_post
+    Details: Sign in - Google Accounts
+2026-05-16 18:36:10.887538 | Browser | Visited Website | https://accounts.google.com/v3/signin/identifier?opparams=%253Fresponse_mode%253Dform_post%2526enable_granular_consent%253Dtrue%2526gis_params%253DGBMqK3U0Ri94d3hOWUxPcUxWYXNrdm5QZVQxUmxjdGpzTUZlYlhFMm5jdEVyM3c4AUIKYXV0aDc0Njk3MmgB&dsh=S1814440734%3A1778956570609270&access_type=offline&client_id=1062961139910-l2m55cb9h51u5cuc9c56eb3fevouidh9.apps.googleusercontent.com&display=popup&gsiwebsdk=gis_attributes&include_granted_scopes=true&o2v=1&origin=https%3A%2F%2Fclaude.ai&prompt=consent&redirect_uri=gis_transform&response_type=code&scope=openid+profile+email&service=lso&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAM5Fi7-GQNLgptuNuLQ_h9l8qADU0kUNSByoQvAjdx2G4H7wr809DUmfZjkbliCwlIV2Pkz0fCV7FvL0Z3u4_o02SEctEacnfEevTnan5-BcwkwKMu613NlHf-o0RUvvlCbPkQIedGSmDDrkqZrWnLvn2stp9D4r370tQ_SRe0C_rE5b0z7Xhnhh1Io5fWXjIisPG8thUrLLlcl-1W3xVOoxCqgWvS0FGshJ4wzZfPe1TYoPOFfxF_5_JlPktIgTAx99Izzov5zdKQf_HIKOO-RpOapTDLBK7dONQbNzcjMKVLV5yVqmGu047ub8G6rSp1tF3dTx599fha9XWvAUwq8m8rML3PD6dio8ScHDBo9QQsSljk4R47pcUyjbDsv17tRzm9qBfsGUE8KC9Dh2tk_yaaRtPDIfAi_RM80i8UcjdYXiCmuhZb0u7ESulNQCt34AyAhEEm7fihspT7iEskTvDaIJw%26flowName%3DGeneralOAuthFlow%26as%3DS1814440734%253A1778956570609270%26client_id%3D1062961139910-l2m55cb9h51u5cuc9c56eb3fevouidh9.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fclaude.ai&rart=ANgoxccTxHvbzTELwr0orHnF6GS6iZxp1ngmwJcMjwHNg6R6Iq96HGClnWO3aZTUahW6M_tItxdxf7YRuYp5lqtPAyActdrEKxWrdlPtQs5UbFexH2STLvY
+    Details: Sign in - Google Accounts
+2026-05-16 18:51:41.077818 | Download | Downloaded | NEW SYNOP CORRECT - Copy (2).pdf
+    Details: C:\Users\offic\OneDrive\Desktop\project subject\NEW SYNOP CORRECT - Copy (2).pdf
+2026-05-16 18:52:07.751176 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/project%20subject/NEW%20SYNOP%20CORRECT%20-%20Copy%20(2).pdf
+    Details: NEW SYNOP CORRECT - Copy (2).pdf
+2026-05-16 19:10:46.641459 | Browser | Visited Website | http://localhost:3000/2fa6e8f6-fee8-49fa-13da-ca164b4255ce
+    Details: Vite App
+2026-05-16 19:14:52.059085 | Browser | Web Search | https://search.brave.com/search?q=metting+jpg&source=desktop
+    Details: metting jpg - Brave Search
+2026-05-16 19:15:15.648302 | Browser | Web Search | https://search.brave.com/search?q=class+online&source=web
+    Details: class online - Brave Search
+2026-05-16 19:15:19.317823 | Browser | Web Search | https://search.brave.com/images?q=class+online&source=web
+    Details: class online - Brave Search
+2026-05-16 19:15:46.808130 | Download | Downloaded | teenager-online-class-home-young-asian-man-talking-laptop-camera-to-communicate-foreign-tuitor-learning-language-177408807.webp
+    Details: C:\Users\offic\OneDrive\Desktop\project subject\teenager-online-class-home-young-asian-man-talking-laptop-camera-to-communicate-foreign-tuitor-learning-language-177408807.webp
+2026-05-16 19:16:09.343678 | Download | Downloaded | female-architecture-student-learning-online.webp
+    Details: C:\Users\offic\OneDrive\Desktop\project subject\female-architecture-student-learning-online.webp
+2026-05-16 19:34:01.751701 | Browser | Visited Website | https://onedrive.live.com/?cid=5EF958B7DC7D1951&id=5EF958B7DC7D1951!s4c813b54e4dd444e8bb6d66510629bfc&action=download&migratedtospo=true
+    Details: OneDrive
+2026-05-16 19:34:04.233385 | Browser | Visited Website | https://onedrive.live.com/?cid=5EF958B7DC7D1951&id=5EF958B7DC7D1951%21s4c813b54e4dd444e8bb6d66510629bfc&action=download&migratedtospo=true
+    Details: OneDrive
+2026-05-16 19:34:09.621066 | Browser | Visited Website | https://onedrive.live.com/?id=5EF958B7DC7D1951!s4c813b54e4dd444e8bb6d66510629bfc&cid=5EF958B7DC7D1951&parId=5EF958B7DC7D1951!sba81aa0c91ea421db3c5f658bccd2910&o=OneUp&ls=true&migratedtospo=true&action=download
+    Details: Microsoft OneDrive
+2026-05-16 19:34:09.925685 | Browser | Visited Website | https://onedrive.live.com/?id=5EF958B7DC7D1951%21s4c813b54e4dd444e8bb6d66510629bfc&cid=5EF958B7DC7D1951&parId=5EF958B7DC7D1951%21sba81aa0c91ea421db3c5f658bccd2910&o=OneUp&ls=true&migratedtospo=true&action=download
+    Details: project subject - OneDrive
+2026-05-16 19:34:22.205036 | Download | Downloaded | NEW SYNOP CORRECT - Copy (1) final.docx
+    Details: C:\Users\offic\OneDrive\Desktop\project subject\NEW SYNOP CORRECT - Copy (1) final.docx
+2026-05-17 19:53:24.309616 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/Presentation%203.pptx.html
+    Details: Presentation 3.pptx
+2026-05-17 19:53:25.180140 | Browser | Visited Website | https://www.youtube.com/watch?v=BesZbKHz2X8&list=PL_9VQhSm4-mr7qtfJWrtC9J_KrbmKrTOn&index=21
+    Details: Real Time Room Chat Integration | Node Js React Js Real-Time White Board Sharing App - YouTube
+2026-05-17 19:53:26.479130 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=c2fa8186-adc7-4039-8677-c04bc2cb4709&cid=5ef958b7dc7d1951&wdPreviousSession=7d53adb7-4a06-4fec-b382-4e48b6003422&wdNewAndOpenCt=1769452760959&wdo=4&wdOrigin=wacFileNew&wdTpl=blankNew&wdPreviousCorrelation=dfe27538-ea8a-4cf1-bc89-60a6c3f1c35e&action=editnew&wdnd=1&OR=Refresh&refreshcount=1
+    Details: Presentation 3.pptx
+2026-05-17 19:53:27.199575 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=c2fa8186-adc7-4039-8677-c04bc2cb4709&cid=5ef958b7dc7d1951&wdPreviousSession=7d53adb7-4a06-4fec-b382-4e48b6003422&wdNewAndOpenCt=1769452760959&wdo=4&wdOrigin=wacFileNew&wdTpl=blankNew&wdPreviousCorrelation=dfe27538-ea8a-4cf1-bc89-60a6c3f1c35e&action=editnew&wdnd=1&refreshcount=1
+    Details: Presentation 3.pptx
+2026-05-17 20:16:01.477424 | Browser | Visited Website | https://help.svc.cloud.microsoft/f1/search?app=sdxWeb&authdataboundary=US&authtype=unknown&isentrypoint=false&locale=en-us&microsoftapplicationstelemetrydeviceid=6f982983-d952-44f3-8978-8f5c92a36687&ns=PPWAENDUSER&query=RECOMMEND&themeid=20&version=16&searchType=input
+    Details: Presentation 3.pptx
+2026-05-17 20:17:40.814762 | Download | Downloaded | Presentation 3.pdf
+    Details: C:\Users\offic\OneDrive\Desktop\project subject\Presentation 3.pdf
+2026-05-18 02:53:55.197138 | Browser | Visited Website | https://www.youtube.com/watch?v=BesZbKHz2X8&list=PL_9VQhSm4-mr7qtfJWrtC9J_KrbmKrTOn&index=22
+    Details: Real Time Room Chat Integration | Node Js React Js Real-Time White Board Sharing App - YouTube
+2026-05-18 17:46:32.501991 | Browser | Visited Website | https://www.youtube.com/watch?v=BesZbKHz2X8&list=PL_9VQhSm4-mr7qtfJWrtC9J_KrbmKrTOn&index=23
+    Details: Real Time Room Chat Integration | Node Js React Js Real-Time White Board Sharing App - YouTube
+2026-05-18 17:46:32.664064 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=019d6957-502f-76ad-960e-15cea62130c9&response_mode=fragment&client_info=1&prompt=select_account&nonce=019d6957-5030-72f6-8da1-4e8a1afd5f67&state=eyJpZCI6IjAxOWQ2OTU3LTUwMzAtNzQ0YS1hN2UxLTM4NDc5NGQ2MGI2ZSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=4.27.0&response_type=code&code_challenge=ng0nAJTEL-MoTbUka7i3rI5ZVE43SXE73fJ70lolitw&code_challenge_method=S256&sso_reload=true
+    Details: login.microsoftonline.com
+2026-05-18 17:46:33.112422 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/Doc.aspx?sourcedoc=%7B4c813b54-e4dd-444e-8bb6-d66510629bfc%7D&action=edit&wdPreviousSession=e8f599e9-d8b9-b899-ee9c-048d65d3094e
+    Details: onedrive.live.com
+2026-05-18 17:46:35.541679 | Browser | Visited Website | https://3tekken.com/
+    Details: 3tekken.com
+2026-05-18 17:47:05.940189 | Browser | Visited Website | http://localhost:3000/bec78e7a-7858-acdd-af2a-17afbd7fdd81
+    Details: Vite App
+2026-05-18 17:48:22.315138 | Browser | Visited Website | http://localhost:3000/0690c467-6e1c-233a-ba8b-4c63d9d1c138
+    Details: Vite App
+2026-05-18 17:50:25.747437 | Browser | Visited Website | https://get.proton.me/?affiliate=brave&url_id=1225&aff_id=1985&aff_sub2=WomanInPinkSweater&aff_sub4=ww-en-2c-pass-gro_dis-g_awa-brave_takeover18052026&aff_sub5=takeover
+    Details: Proton Pass: Free password manager | Proton
+2026-05-18 17:50:25.747437 | Browser | Visited Website | https://proton.me/l/free-password-manager?url_id=1225&utm_campaign=ww-en-2c-pass-gro_dis-g_awa-brave_takeover18052026&utm_source=brave.com&utm_medium=takeover&utm_content=33
+    Details: Proton Pass: Free password manager | Proton
+2026-05-18 18:44:18.496957 | Browser | Visited Website | http://localhost:3000/b62175e1-d999-161b-b347-35a67d4e7e7f
+    Details: Vite App
+2026-05-18 18:50:32.472291 | Browser | Visited Website | http://localhost:3000/3cc06542-aea1-b783-ec38-df567a1cfeb8
+    Details: Vite App
+2026-05-18 19:06:30.020965 | Browser | Visited Website | http://localhost:3000/a72951be-8e77-6abc-17b1-2649f16961cf
+    Details: Vite App
+2026-05-18 19:07:08.445788 | Browser | Visited Website | http://localhost:3000/491bf296-4fd8-1568-f646-ce63edf5ec9e
+    Details: Vite App
+2026-05-18 19:13:09.284689 | Browser | Visited Website | http://localhost:3000/cfd66fdd-93bb-9a0a-9e3c-2a8abccf916c
+    Details: Vite App
+2026-05-18 19:18:40.545216 | Browser | Visited Website | http://localhost:3000/e66d2589-a52d-2cf6-632c-b863b2349a55
+    Details: Vite App
+2026-05-18 19:24:28.750319 | Browser | Visited Website | http://localhost:3000/167b6ca5-7b28-9e64-b218-58da25ed7901
+    Details: Vite App
+2026-05-18 19:31:01.519605 | Browser | Visited Website | http://localhost:3000/6561f0c8-5873-1932-a568-8cd04b69c6e4
+    Details: Vite App
+2026-05-18 19:38:56.870527 | Browser | Visited Website | http://localhost:3000/af501027-782b-3327-f5d1-bd672d477bba
+    Details: Vite App
+2026-05-18 19:41:28.684195 | Browser | Visited Website | http://localhost:3000/2f45ed12-f105-1d66-106a-2c46869789c6
+    Details: Vite App
+2026-05-19 04:59:33.677243 | Browser | Visited Website | https://www.youtube.com/watch?v=BesZbKHz2X8&list=PL_9VQhSm4-mr7qtfJWrtC9J_KrbmKrTOn&index=24
+    Details: YouTube
+2026-05-19 04:59:37.793923 | Browser | Visited Website | https://www.youtube.com/watch?v=BesZbKHz2X8&list=PL_9VQhSm4-mr7qtfJWrtC9J_KrbmKrTOn
+    Details: YouTube
+2026-05-19 05:00:30.397375 | Browser | Visited Website | http://localhost:3000/12d374fc-68c5-58fc-1188-cb0ae3750762
+    Details: Vite App
+2026-05-19 06:54:28.479990 | Browser | Visited Website | http://localhost:3000/9cb96a3e-c6d4-6476-fe10-b7eee53abebc
+    Details: Vite App
+2026-05-19 07:06:05.167944 | Browser | Visited Website | http://localhost:3000/7f6a94fe-0e22-50da-0c87-a66b20c335db
+    Details: Vite App
+2026-05-19 07:50:53.285975 | Browser | Visited Website | http://localhost:3000/5c163d33-08aa-e051-3246-60a787f2c830
+    Details: Vite App
+2026-05-19 07:52:22.791135 | Browser | Visited Website | http://localhost:3000/efe200f9-0318-aa76-6cf8-1130a2bf28ae
+    Details: Vite App
+2026-05-19 07:54:46.960633 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/project%20subject/Presentation%203.pdf
+    Details: Presentation 3.pdf
+2026-05-22 17:49:26.448439 | Browser | Visited Website | https://drive.google.com/drive/folders/1rvMJaMKFiLXMfO6mYBPpoQaaXGy1z723
+    Details: File Type Analysis Part 1 - Google Drive
+2026-05-22 17:49:57.758303 | Download | Downloaded | __MACOSX-20260522T174938Z-3-001.zip
+    Details: C:\Users\offic\OneDrive\Desktop\file forensics\__MACOSX-20260522T174938Z-3-001.zip
+2026-05-22 17:50:45.853101 | Download | Downloaded | File Type Analysis Part 1-20260522T174938Z-3-001.zip
+    Details: C:\Users\offic\OneDrive\Desktop\file forensics\File Type Analysis Part 1-20260522T174938Z-3-001.zip
+2026-05-22 18:03:22.114293 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=019e50db-2c4b-7ae5-81b7-d22422325ca4&response_mode=fragment&client_info=1&clidata=1&prompt=select_account&nonce=019e50db-2c4c-76f7-8907-b0c95e82f5d7&state=eyJpZCI6IjAxOWU1MGRiLTJjNGMtNzY4Mi1hZTI2LTAwYjYzMDBlNThiZCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=5.9.0&response_type=code&code_challenge=9c2vIl2vn6bIX2c-KpEMs1cYYiY7FGtZbcBpKin7S6o&code_challenge_method=S256
+    Details: Sign in to your account
+2026-05-22 18:03:24.271654 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=019e50db-2c4b-7ae5-81b7-d22422325ca4&response_mode=fragment&client_info=1&clidata=1&prompt=select_account&nonce=019e50db-2c4c-76f7-8907-b0c95e82f5d7&state=eyJpZCI6IjAxOWU1MGRiLTJjNGMtNzY4Mi1hZTI2LTAwYjYzMDBlNThiZCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=5.9.0&response_type=code&code_challenge=9c2vIl2vn6bIX2c-KpEMs1cYYiY7FGtZbcBpKin7S6o&code_challenge_method=S256&sso_reload=true
+    Details: Sign in to your account
+2026-05-22 18:04:48.429054 | Browser | Visited Website | https://www.bing.com/aclk?ld=e8ryexzZm3Kq1UMb0fHCdnuzVUCUyBamP9WnJPJVF82_pFgdin7csdAKV0EmYsXvCkUvQyZ-G1Zy_--9ONntE63XEmPHuUDnXq26ewIpbdlqMXZ67DXQKGQj1ZlkfewvBS3iTLn4Pzfi_Odrae3akyb7uWvzntUJo2K7IWBSOkiFoMzy7peRbSLWjewx-2148GCnazXD7BHlncFhVIDIUkPYNxFzs&u=aHR0cHMlM2ElMmYlMmZjaGF0Z3B0LmNvbSUzZnV0bV9zb3VyY2UlM2RtaWNyb3NvZnQlMjZ1dG1fbWVkaXVtJTNkcGFpZF9zZWFyY2glMjZ1dG1fY2FtcGFpZ24lM2RNU0ZUX0NfU0VNX0JCUl9Db3JlX0NIVF9CQVVfQUNRX1BFUl9NSVhfQUxMX0FQQUNfSU5fRU5fMTEwNjI1JTI2Y19pZCUzZDU3MDYxMzAxNCUyNmNfYWdpZCUzZDExNzUzNzk5MjA1NTg2NTklMjZjX2NyaWQlM2QlMjZjX2t3aWQlM2Rrd2QtNzM0NjE2ODkxNzA1OTUlM2Fsb2MtOTAlMjZjX2ltcyUzZCUyNmNfcG1zJTNkMTQ5NjM5JTI2Y19udyUzZG8lMjZjX2R2YyUzZGMlMjZtc2Nsa2lkJTNkYWIyMWRmMTM5MTUxMWFkZjM2ZTdiNTAzMGJlYzAwMzg&rlid=ab21df1391511adf36e7b5030bec0038&ntb=1
+2026-05-22 18:04:48.460996 | Browser | Web Search | https://www.bing.com/search?qs=AS&pq=chatgpt&sk=CSYN1&sc=16-7&pglt=299&q=chatgpt&cvid=ebab0405f3c4496dab5659a4e52fb624&gs_lcrp=EgRlZGdlKgYIABAAGEAyBggAEAAYQDIGCAEQLhhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgyNDM1ajBqN6gCALACAA&FORM=ANSPA1&PC=ASTS&source=chrome.ob
+    Details: chatgpt - Search
+2026-05-22 18:04:49.017030 | Browser | Visited Website | https://chatgpt.com/?utm_source=microsoft&utm_medium=paid_search&utm_campaign=MSFT_C_SEM_BBR_Core_CHT_BAU_ACQ_PER_MIX_ALL_APAC_IN_EN_110625&c_id=570613014&c_agid=1175379920558659&c_crid=&c_kwid=kwd-73461689170595:loc-90&c_ims=&c_pms=149639&c_nw=o&c_dvc=c&msclkid=ab21df1391511adf36e7b5030bec0038
+    Details: ChatGPT
+2026-05-22 18:07:57.339464 | Browser | Visited Website | https://go.microsoft.com/fwlink/?linkid=2134565&ocid=PROD_OfficeOOBE_Cons_FUEL_ACQ_OOBE_PinOverhaulBuy
+    Details: Compare Microsoft 365 Plans & Pricing (Formerly Office 365) – Microsoft Store
+2026-05-22 18:07:57.339464 | Browser | Visited Website | https://www.microsoft.com/microsoft-365/buy/microsoft-office-and-microsoft-365
+    Details: Compare Microsoft 365 Plans & Pricing (Formerly Office 365) – Microsoft Store
+2026-05-22 18:07:57.339464 | Browser | Visited Website | https://www.microsoft.com/en-in/microsoft-365/buy/microsoft-office-and-microsoft-365
+    Details: Compare Microsoft 365 Plans & Pricing (Formerly Office 365) – Microsoft Store
+2026-05-22 18:07:57.339464 | Browser | Visited Website | https://www.microsoft.com/en-in/microsoft-365/buy/microsoft-365
+    Details: Compare Microsoft 365 Plans & Pricing (Formerly Office 365) – Microsoft Store
+2026-05-22 18:07:57.339464 | Browser | Visited Website | https://www.microsoft.com/en-in/microsoft-365/buy/compare-all-microsoft-365-products
+    Details: Compare Microsoft 365 Plans & Pricing (Formerly Office 365) – Microsoft Store
+2026-05-22 18:08:39.252727 | Browser | Web Search | https://search.brave.com/search?q=microsoft+365+products+key&source=desktop
+    Details: microsoft 365 products key - Brave Search
+2026-05-22 18:08:41.314065 | Browser | Web Search | https://search.brave.com/search?q=microsoft+365+products+key&source=desktop&summary=1&conversation=091d07beab8fda2d7d8f93fa57cc16870de5
+    Details: microsoft 365 products key - Brave Search
+2026-05-22 18:09:10.456321 | Browser | Visited Website | https://vdhsafes.com/office-365-portable-product-key-windows-no-virus-github/
+    Details: Office 365 Portable + Product Key [Windows] no Virus GitHub - VDH Safes Saigon Ltd
+2026-05-22 18:09:44.024707 | Browser | Visited Website | https://wppluginsify.com/blog/complete-guide-to-powerpoint-download-and-microsoft-365-product-key-for-maximum-productivity/
+    Details: Complete Guide to PowerPoint Download and Microsoft 365 Product Key for Maximum Productivity - WP Pluginsify
+2026-05-22 18:10:13.420786 | Browser | Web Search | https://search.brave.com/search?q=microsoft+365+products+key&source=desktop&summary=1&conversation=091d07beab8fda2d7d8f93fa57cc16870de5&tf=pd
+    Details: microsoft 365 products key - Brave Search
+2026-05-22 18:11:33.197562 | Browser | Web Search | https://search.brave.com/search?q=microsoft+365+products+key&source=desktop&summary=1&conversation=091d07beab8fda2d7d8f93fa57cc16870de5&tf=pw
+    Details: microsoft 365 products key - Brave Search
+2026-05-22 18:11:41.294001 | Browser | Web Search | https://search.brave.com/search?q=microsoft+365+free+products+key&source=web&tf=pw
+    Details: microsoft 365 free products key - Brave Search
+2026-05-22 18:11:49.588801 | Browser | Web Search | https://search.brave.com/search?q=microsoft+365+free+products+key&source=web&tf=pw&summary=1&conversation=091da15862577687e79a1b3dfef61874fd88
+    Details: microsoft 365 free products key - Brave Search
+2026-05-22 18:12:00.501531 | Browser | Visited Website | https://www.techbloat.com/how-to-activate-a-microsoft-365-product-key-in-a-few-steps.html
+    Details: How to activate a Microsoft 365 product key in a few steps - TechBloat
+2026-05-22 18:12:58.367136 | Browser | Visited Website | https://www.amazon.com/dp/B0BKFXVV2C?tag=techbloat-20&linkCode=osi&th=1&psc=1
+    Details: Amazon.com: OfficeSuite Home & Business - Lifetime License - Documents, Sheets, Slides, PDF, Mail & Calendar for Windows | 1 PC | Physical Activation Card : Software
+2026-05-22 18:14:03.508137 | Browser | Web Search | https://search.brave.com/search?q=copilot+ai&source=desktop
+    Details: copilot ai - Brave Search
+2026-05-22 18:14:12.377087 | Browser | Visited Website | https://copilot.microsoft.com/labs
+    Details: Microsoft Copilot: Your AI companion
+2026-05-22 18:14:25.452076 | Browser | Visited Website | https://copilot.microsoft.com/tasks/preview
+    Details: Microsoft Copilot: Your AI companion
+2026-05-22 18:14:30.931108 | Browser | Visited Website | https://copilot.microsoft.com/discover
+    Details: Microsoft Copilot: Your AI companion
+2026-05-22 18:14:36.660633 | Browser | Visited Website | https://copilot.microsoft.com/
+    Details: Microsoft Copilot: Your AI companion
+2026-05-22 18:14:52.234012 | Browser | Visited Website | https://copilot.microsoft.com/chats/VJfLJibyzHGeb3wyf2h7t
+    Details: Microsoft Copilot: Your AI companion
+2026-05-22 18:15:23.164360 | Browser | Visited Website | https://www.office.com/?utm_source=copilot.com
+    Details: Microsoft 365 | Write, Create & Collaborate with AI
+2026-05-22 18:15:24.312163 | Browser | Visited Website | https://www.office.com/
+    Details: Microsoft 365 | Write, Create & Collaborate with AI
+2026-05-22 18:15:30.094450 | Browser | Visited Website | https://www.office.com/login?es=Click&ru=%2f%3ffromcode%3dcmmiadtp424%26origindomain%3dOffice
+    Details: Sign in to your account
+2026-05-22 18:15:30.094450 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639150705289950607.MzgwMjJmZjMtNGU3ZS00NDc3LWEyMGYtMzA1NmEyZTAzMmFiYzc1YTBjNzQtZDA1Ny00NzMyLWIxZWUtZjRhMmJkMDViN2Vl&ui_locales=en-US&mkt=en-US&client-request-id=d1a914a9-b22f-42f3-af9d-cef6a85856d0&state=sLKnxC38jdp0Uc4f8A6lHYuAhoxqMzBVwOgu76bF6ho8IfcR_o1pG93uQSzfx_ef-TKRh9_xr2HJAkuJKNeRcUlCS2hs1YwxuA6qtx_mw55tCvDB8sEnp-uhlZQXyWXW-p8nC6V4Fe75vP_B_bKP-gDNrMaoRBaLm1Eh6hNh-kzzdpWH7ccYxP2e4SKBwwKCLuzEbCJ2GyvlbtxaIs3HUo1ZNdLkqsD-SWIvZ8wL4Ab_KFJc1WPTorLgotHPnYLCFuX5d6IrBXF61sNVRUr9_bgKf6Jsf9UjExnKMiKTE5kH_tGa4UrDm1DTacjycBovJvfNxPNLFpASjIgvlxO3PWSxKHW_1UvZjUgZskC6vx4hmkH_S-zu7-b2QHIv2mZPJP2kS6TXtLhDkpvbPe3I_kvEaXZFwJqw9qczJFKk_dXYVgxemrG706qgLm2jVp_v9-scl7RwhKaP0If-kQhMUzx2WoWHK-tJSrP9gEr8Inodf1qUHofNiA8DlWbaLC_KIbcakNFdD2VZfTRD0PbY1A&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0
+    Details: Sign in to your account
+2026-05-22 18:15:30.519487 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=639150705289950607.MzgwMjJmZjMtNGU3ZS00NDc3LWEyMGYtMzA1NmEyZTAzMmFiYzc1YTBjNzQtZDA1Ny00NzMyLWIxZWUtZjRhMmJkMDViN2Vl&ui_locales=en-US&mkt=en-US&client-request-id=d1a914a9-b22f-42f3-af9d-cef6a85856d0&state=sLKnxC38jdp0Uc4f8A6lHYuAhoxqMzBVwOgu76bF6ho8IfcR_o1pG93uQSzfx_ef-TKRh9_xr2HJAkuJKNeRcUlCS2hs1YwxuA6qtx_mw55tCvDB8sEnp-uhlZQXyWXW-p8nC6V4Fe75vP_B_bKP-gDNrMaoRBaLm1Eh6hNh-kzzdpWH7ccYxP2e4SKBwwKCLuzEbCJ2GyvlbtxaIs3HUo1ZNdLkqsD-SWIvZ8wL4Ab_KFJc1WPTorLgotHPnYLCFuX5d6IrBXF61sNVRUr9_bgKf6Jsf9UjExnKMiKTE5kH_tGa4UrDm1DTacjycBovJvfNxPNLFpASjIgvlxO3PWSxKHW_1UvZjUgZskC6vx4hmkH_S-zu7-b2QHIv2mZPJP2kS6TXtLhDkpvbPe3I_kvEaXZFwJqw9qczJFKk_dXYVgxemrG706qgLm2jVp_v9-scl7RwhKaP0If-kQhMUzx2WoWHK-tJSrP9gEr8Inodf1qUHofNiA8DlWbaLC_KIbcakNFdD2VZfTRD0PbY1A&x-client-SKU=ID_NET8_0&x-client-ver=8.14.0.0&sso_reload=true
+    Details: Sign in to your account
+2026-05-22 18:17:09.438012 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/project%20subject/final%20make%20it.pdf
+    Details: NEW SYNOP CORRECT - Copy.docx
+2026-05-22 18:19:28.579553 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Getting%20started%20with%20OneDrive.pdf
+    Details: Getting started with OneDrive.pdf
+2026-05-22 18:20:04.853829 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=019e50ea-78ed-7788-8892-1b9be5f8d384&response_mode=fragment&client_info=1&clidata=1&prompt=select_account&nonce=019e50ea-78ee-732b-b148-861bc0dc7641&state=eyJpZCI6IjAxOWU1MGVhLTc4ZWUtNzE0ZC1iNGY5LTcwNzBhZTQ0MWJiNSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=5.9.0&response_type=code&code_challenge=1qcYU9TsG0Rtdsy-SNJbvNXP9nPGYpinI6OI8kQUHIg&code_challenge_method=S256
+    Details: Sign in to your account
+2026-05-22 18:20:05.176297 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=019e50ea-78ed-7788-8892-1b9be5f8d384&response_mode=fragment&client_info=1&clidata=1&prompt=select_account&nonce=019e50ea-78ee-732b-b148-861bc0dc7641&state=eyJpZCI6IjAxOWU1MGVhLTc4ZWUtNzE0ZC1iNGY5LTcwNzBhZTQ0MWJiNSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=5.9.0&response_type=code&code_challenge=1qcYU9TsG0Rtdsy-SNJbvNXP9nPGYpinI6OI8kQUHIg&code_challenge_method=S256&sso_reload=true
+    Details: Sign in to your account
+2026-05-22 18:22:21.761992 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=019e50ec-8acd-7fed-998c-bbddc79a66e7&response_mode=fragment&client_info=1&clidata=1&prompt=select_account&nonce=019e50ec-8acf-732c-87f2-98acea8ca5ba&state=eyJpZCI6IjAxOWU1MGVjLThhY2YtNzgzNi1hNmE1LWZjN2RiZDA2OWU3ZSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=5.9.0&response_type=code&code_challenge=iAx6tySnjW4OTWgtGP6uIZwc3fzxeJtV7v9462sIzQc&code_challenge_method=S256
+    Details: Sign in to your account
+2026-05-22 18:22:48.231856 | Browser | Visited Website | https://onedrive.live.com/?id=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Fproject%20subject&viewid=7bb0846f%2D2dba%2D4be2%2Db9a1%2D004edbe47e9c&view=0
+    Details: OneDrive
+2026-05-22 18:22:50.960988 | Browser | Visited Website | https://onedrive.live.com/?id=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Fproject+subject&viewid=7bb0846f-2dba-4be2-b9a1-004edbe47e9c&view=0&sw=redirect
+    Details: Continue
+2026-05-22 18:22:50.960988 | Browser | Visited Website | https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=195&ct=1779474168&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1
+    Details: Continue
+2026-05-22 18:23:10.494409 | Browser | Visited Website | https://onedrive.live.com/?view=0
+    Details: My files - OneDrive
+2026-05-22 18:23:24.932033 | Browser | Visited Website | https://onedrive.live.com/?id=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop&viewid=7bb0846f%2D2dba%2D4be2%2Db9a1%2D004edbe47e9c&view=0
+    Details: Desktop - OneDrive
+2026-05-22 18:23:32.373931 | Browser | Visited Website | https://onedrive.live.com/?id=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Ffile%20forensics&viewid=7bb0846f%2D2dba%2D4be2%2Db9a1%2D004edbe47e9c&view=0
+    Details: file forensics - OneDrive
+2026-05-22 18:23:38.105385 | Browser | Visited Website | https://onedrive.live.com/?id=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Ffile%20forensics%2FFile%20Type%20Analysis%20Part%201%2D20260522T174938Z%2D3%2D001&viewid=7bb0846f%2D2dba%2D4be2%2Db9a1%2D004edbe47e9c&view=0
+    Details: File Type Analysis Part 1-20260522T174938Z-3-001 - OneDrive
+2026-05-22 18:23:46.258934 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/Doc.aspx?sourcedoc=%7BDA4B77C4-74B0-434F-9543-F6FAF1D243CC%7D&file=File04.doc&action=default&mobileredirect=true&CT=1779474225899&OR=ItemsView
+    Details: File04.doc
+2026-05-22 18:23:46.600497 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/Doc.aspx?sourcedoc=%7BDA4B77C4-74B0-434F-9543-F6FAF1D243CC%7D&file=File04.doc&action=default&mobileredirect=true
+    Details: File04.doc
+2026-05-22 18:23:58.959136 | Browser | Visited Website | https://onedrive.live.com/?id=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Ffile%20forensics%2FFile%20Type%20Analysis%20Part%201%2D20260522T174938Z%2D3%2D001%2FFile%20Type%20Analysis%20Part%201%2FFiel%20Type%20Analysis%20Outputs&viewid=7bb0846f%2D2dba%2D4be2%2Db9a1%2D004edbe47e9c&view=0
+    Details: Fiel Type Analysis Outputs - OneDrive
+2026-05-22 18:24:03.553582 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/Doc.aspx?sourcedoc=%7B76E88123-999E-4DF2-9CBE-8BDD20E80A67%7D&file=File04.doc&action=default&mobileredirect=true&CT=1779474243159&OR=ItemsView
+    Details: File04.doc
+2026-05-22 18:24:03.672137 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/Doc.aspx?sourcedoc=%7B76E88123-999E-4DF2-9CBE-8BDD20E80A67%7D&file=File04.doc&action=default&mobileredirect=true
+    Details: File04.doc
+2026-05-22 18:24:46.957227 | Browser | Visited Website | https://onedrive.live.com/?id=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Ffile%20forensics%2FFile%20Type%20Analysis%20Part%201%2D20260522T174938Z%2D3%2D001%2FFile%20Type%20Analysis%20Part%201&viewid=7bb0846f%2D2dba%2D4be2%2Db9a1%2D004edbe47e9c&view=0
+    Details: File Type Analysis Part 1 - OneDrive
+2026-05-22 18:24:51.314886 | Browser | Visited Website | https://onedrive.live.com/?viewid=7bb0846f%2D2dba%2D4be2%2Db9a1%2D004edbe47e9c&id=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Ffile%20forensics%2FFile%20Type%20Analysis%20Part%201%2D20260522T174938Z%2D3%2D001%2FFile%20Type%20Analysis%20Part%201%2FHelpful%20websites%2Etxt&parent=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Ffile%20forensics%2FFile%20Type%20Analysis%20Part%201%2D20260522T174938Z%2D3%2D001%2FFile%20Type%20Analysis%20Part%201
+    Details: File Type Analysis Part 1 - OneDrive
+2026-05-22 18:25:08.533630 | Browser | Visited Website | https://mh-nexus.de/en/hxd/
+    Details: HxD - Freeware Hex Editor and Disk Editor | mh-nexus
+2026-05-22 18:25:51.928899 | Browser | Visited Website | https://mh-nexus.de/en/downloads.php?product=HxD20
+    Details: Downloads | mh-nexus
+2026-05-22 18:26:34.307422 | Download | Downloaded | HxDSetup.zip
+    Details: C:\Users\offic\OneDrive\Desktop\file forensics\HxDSetup.zip
+2026-05-22 18:29:16.666987 | Browser | Visited Website | https://www.freeviewer.org/eml/
+    Details: Free EML Viewer Tool to View & Read EML File Data
+2026-05-22 18:29:42.579811 | Browser | Visited Website | https://www.garykessler.net/library/file_sigs.html
+    Details: Redirect to SEARCH...
+2026-05-22 18:29:56.129175 | Browser | Visited Website | https://filesig.search.org/
+    Details: GCK File Signatures, Powered by SEARCH
+2026-05-22 18:31:02.128598 | Download | Downloaded | eml-viewer.exe
+    Details: C:\Users\offic\OneDrive\Desktop\file forensics\eml-viewer.exe
+2026-05-22 18:31:41.115994 | Browser | Visited Website | http://license.systoolssoftware.org/Thankyou.aspx?ID=136
+    Details: Thanks for Installing SysTools Product ← SysTools - Product Installed
+2026-05-22 18:31:41.115994 | Browser | Visited Website | https://license.systoolssoftware.org/Thankyou.aspx?ID=136
+    Details: Thanks for Installing SysTools Product ← SysTools - Product Installed
+2026-05-22 18:39:56.614072 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/file%20forensics/File%20Type%20Analysis%20Part%201-20260522T174938Z-3-001/File%20Type%20Analysis%20Part%201/File03.html
+    Details: Digital Forensics | Forensic Magazine
+2026-05-22 18:46:59.792819 | Browser | Visited Website | https://idp.springer.com/authorize?response_type=cookie&client_id=springerlink&redirect_uri=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-981-15-9712-1_9
+    Details: Computer File Signature Analysis Through Hexadecimal Editor Software | Springer Nature Link
+2026-05-22 18:47:13.990894 | Browser | Visited Website | https://link.springer.com/search?query=3C+21+44+4F+43+54
+    Details: Search research articles and books | Springer Nature Link
+2026-05-22 18:47:19.287768 | Browser | Visited Website | https://link.springer.com/chapter/10.1007/978-981-15-9712-1_9
+    Details: Computer File Signature Analysis Through Hexadecimal Editor Software | Springer Nature Link
+2026-05-22 18:47:20.041780 | Browser | Web Search | https://search.brave.com/search?q=FILE+HEX+SIG&source=desktop
+    Details: FILE HEX SIG - Brave Search
+2026-05-22 18:47:34.287815 | Browser | Visited Website | https://www.eso.org/~ndelmott/ascii.html
+    Details: ASCII Character Chart with Decimal, Binary and Hexadecimal Conversions
+2026-05-22 18:48:05.573271 | Browser | Web Search | https://search.brave.com/search?q=FILE+HEX+SIG&source=desktop&summary=1&conversation=091dece781fc54e9d7f315afa1c3bbc08af5
+    Details: FILE HEX SIG - Brave Search
+2026-05-22 18:48:16.354628 | Browser | Web Search | https://search.brave.com/search?q=FILE+SIGNTURE+TABLE&source=web
+    Details: FILE SIGNTURE TABLE - Brave Search
+2026-05-22 18:48:21.265372 | Browser | Visited Website | https://www.garykessler.net/library/file_sigs_GCK_latest.html
+    Details: File Signatures
+2026-05-22 18:55:09.238820 | Browser | Visited Website | https://onedrive.live.com/?viewid=7bb0846f%2D2dba%2D4be2%2Db9a1%2D004edbe47e9c&id=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Ffile%20forensics%2FFile%20Type%20Analysis%20Part%201%2D20260522T174938Z%2D3%2D001%2FFile%20Type%20Analysis%20Part%201%2FFile03%2Ehtml&parent=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Ffile%20forensics%2FFile%20Type%20Analysis%20Part%201%2D20260522T174938Z%2D3%2D001%2FFile%20Type%20Analysis%20Part%201
+    Details: File Type Analysis Part 1 - OneDrive
+2026-05-22 18:55:46.814142 | Browser | Visited Website | https://onedrive.live.com/?viewid=7bb0846f%2D2dba%2D4be2%2Db9a1%2D004edbe47e9c&id=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Ffile%20forensics%2FFile%20Type%20Analysis%20Part%201%2D20260522T174938Z%2D3%2D001%2FFile%20Type%20Analysis%20Part%201%2FFile01&parent=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Ffile%20forensics%2FFile%20Type%20Analysis%20Part%201%2D20260522T174938Z%2D3%2D001%2FFile%20Type%20Analysis%20Part%201
+    Details: File Type Analysis Part 1 - OneDrive
+2026-05-22 18:57:43.166837 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/file%20forensics/File%20Type%20Analysis%20Part%201-20260522T174938Z-3-001/File%20Type%20Analysis%20Part%201/Fiel%20Type%20Analysis%20Outputs/File02.mht
+    Details: Blackboard Learn
+2026-05-22 18:58:29.763917 | Browser | Visited Website | https://onedrive.live.com/?id=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Ffile%20forensics%2FFile%20Type%20Analysis%20Part%201%2D20260522T174938Z%2D3%2D001%2FFile%20Type%20Analysis%20Part%201%2FFiel%20Type%20Analysis%20Outputs&viewid=7bb0846f%2D2dba%2D4be2%2Db9a1%2D004edbe47e9c
+    Details: Fiel Type Analysis Outputs - OneDrive
+2026-05-22 18:58:34.343902 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/Doc.aspx?sourcedoc=%7B2674CBF0-87D8-4D2E-A0FD-73D842BADCC2%7D&file=File04.ppt&action=edit&mobileredirect=true&CT=1779476313974&OR=ItemsView
+    Details: File04.ppt
+2026-05-22 18:59:01.953121 | Browser | Visited Website | https://powerpoint.officeapps.live.com/p/PowerPointFrame.aspx?PowerPointView=ReadingView&ui=en-US&rs=en-US&WOPISrc=https%3A%2F%2Fmy.microsoftpersonalcontent.com%2Fpersonal%2F5ef958b7dc7d1951%2F_vti_bin%2Fwopi.ashx%2Ffiles%2F2674cbf087d84d2ea0fd73d842badcc2&wdEnableRoaming=1&mscc=1&wdODB=1&hid=a83316a2-00f4-d000-03b0-46b78bac71b9&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fonedrive.live.com%22%7D&pdcn=pdc3753
+2026-05-22 18:59:17.748708 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/Doc.aspx?sourcedoc=%7BEFA30100-4A92-4023-AD72-668D542AE3CA%7D&file=File04.xls&action=default&mobileredirect=true&CT=1779476357335&OR=ItemsView
+    Details: File04.xls
+2026-05-25 14:31:13.922193 | Browser | Web Search | https://www.bing.com/search?q=registry+explorer.exe&form=WSBEDG&qs=UT&cvid=4d6d84ef187a4351871a7b542d950d6a&pq=registry+explorer.exe&cc=US&setlang=en-US&nclid=13DE15BF289238C92312DB2E430CD61F&ts=1779719473078&nclidts=1779719473&tsms=078&PC=WSBQUF
+    Details: registry explorer.exe - Search
+2026-05-25 14:31:15.276911 | Browser | Web Search | https://www.bing.com/search?q=registry+explorer.exe&form=WSBEDG&qs=UT&cvid=4d6d84ef187a4351871a7b542d950d6a&pq=registry+explorer.exe&cc=US&setlang=en-US&nclid=13DE15BF289238C92312DB2E430CD61F&ts=1779719473078&PC=WSBQUF
+    Details: registry explorer - Search
+2026-05-25 14:31:30.690051 | Browser | Web Search | https://www.bing.com/search?q=registry%20explorer&qs=n&form=QBRE&sp=-1&lq=0&pq=registry%20explorer&sc=12-17&sk=&cvid=33D7BF2764C44EFABA6A2E38A99A3011
+    Details: registry explorer - Search
+2026-05-25 14:33:19.586258 | Browser | Visited Website | https://ericzimmerman.github.io/#tldr
+    Details: Home - Eric Zimmerman's Tools
+2026-05-25 14:33:22.121677 | Browser | Visited Website | https://ericzimmerman.github.io/#contributesupport-opportunities
+    Details: Home - Eric Zimmerman's Tools
+2026-05-25 14:34:08.055844 | Browser | Visited Website | https://www.bing.com/ck/a?!&&p=f2839bca9db166c65795fc44289b097281d5d300ae4714ad9695b96904f54559JmltdHM9MTc3OTY2NzIwMA&ptn=3&ver=2&hsh=4&fclid=396986d2-0693-6f46-2317-933b07616e94&psq=registry+explorer+download&u=a1aHR0cHM6Ly93d3cuc29mdHBlZGlhLmNvbS9nZXQvVHdlYWsvUmVnaXN0cnktVHdlYWsvUmVnaXN0cnktRXhwbG9yZXIuc2h0bWw&ntb=1
+2026-05-25 14:34:09.486737 | Browser | Visited Website | https://www.softpedia.com/get/Tweak/Registry-Tweak/Registry-Explorer.shtml
+    Details: Registry Explorer - Download - Softpedia
+2026-05-25 14:35:17.959388 | Browser | Visited Website | https://www.bing.com/ck/a?!&&p=ebb38aa96d566d0ecd10992c21288b1ec92b9c48f875c438005e9554ff13a34bJmltdHM9MTc3OTY2NzIwMA&ptn=3&ver=2&hsh=4&fclid=396986d2-0693-6f46-2317-933b07616e94&psq=registry+explorer+download&u=a1aHR0cHM6Ly9lcmljemltbWVybWFuLmdpdGh1Yi5pby8&ntb=1
+2026-05-25 14:35:17.984161 | Browser | Web Search | https://www.bing.com/search?q=registry+explorer+download&qs=SS&pq=registry+explorer+&sc=10-18&cvid=18CE50034C024BD194E51C50077E1682&FORM=QBRE&sp=1&ghc=1&lq=0
+    Details: registry explorer download - Search
+2026-05-25 14:35:18.087974 | Browser | Visited Website | https://ericzimmerman.github.io/
+    Details: Home - Eric Zimmerman's Tools
+2026-05-25 14:35:35.145464 | Download | Downloaded | RegistryExplorer.zip
+    Details: C:\Users\offic\Downloads\RegistryExplorer.zip
+2026-05-25 14:36:00.495602 | Browser | Visited Website | https://ericzimmerman.github.io/#other-tools
+    Details: Home - Eric Zimmerman's Tools
+2026-05-25 14:36:01.396488 | Download | Downloaded | RegistryExplorer (1).zip
+    Details: C:\Users\offic\Downloads\RegistryExplorer (1).zip
+2026-05-25 14:36:03.414966 | Browser | Visited Website | https://ericzimmerman.github.io/#other-files
+    Details: Home - Eric Zimmerman's Tools
+2026-05-25 14:36:03.883899 | Browser | Visited Website | https://ericzimmerman.github.io/#requirements-and-troubleshooting
+    Details: Home - Eric Zimmerman's Tools
+2026-05-25 14:36:07.261610 | Browser | Visited Website | https://ericzimmerman.github.io/#forensic-tools
+    Details: Home - Eric Zimmerman's Tools
+2026-05-25 14:48:16.887371 | Browser | Visited Website | https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=9.0.0&arch=x64&rid=win-x64&os=win10&gui=true
+    Details: Download .NET 9.0 Desktop Runtime (v9.0.16) - Windows x64 Installer
+2026-05-25 14:48:16.887371 | Browser | Visited Website | https://dotnet.microsoft.com/get-dotnet/dotnet-core?framework=Microsoft.NETCore.App&framework_version=9.0.0&arch=x64&rid=win-x64&os=win10&gui=true
+    Details: Download .NET 9.0 Desktop Runtime (v9.0.16) - Windows x64 Installer
+2026-05-25 14:48:16.887371 | Browser | Visited Website | https://dotnet.microsoft.com/download/dotnet/9.0/runtime?cid=getdotnetcore&runtime=desktop&os=windows&arch=x64
+    Details: Download .NET 9.0 Desktop Runtime (v9.0.16) - Windows x64 Installer
+2026-05-25 14:48:16.887371 | Browser | Visited Website | https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-desktop-9.0.16-windows-x64-installer?cid=getdotnetcore
+    Details: Download .NET 9.0 Desktop Runtime (v9.0.16) - Windows x64 Installer
+2026-05-25 14:48:16.887371 | Browser | Visited Website | https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0.16-windows-x64-installer?cid=getdotnetcore
+    Details: Download .NET 9.0 Desktop Runtime (v9.0.16) - Windows x64 Installer
+2026-05-25 14:48:20.518223 | Download | Downloaded | windowsdesktop-runtime-9.0.16-win-x64.exe
+    Details: C:\Users\offic\OneDrive\Desktop\file forensics\windowsdesktop-runtime-9.0.16-win-x64.exe
+2026-05-25 14:49:39.289127 | Browser | Web Search | https://search.brave.com/search?q=use+of+.NET+9.0+Desktop+Runtime+(v9.0.16)+-+Windows+x64+Installer&source=desktop
+    Details: use of .NET 9.0 Desktop Runtime (v9.0.16) - Windows x64 Installer - Brave Search
+2026-05-25 14:49:48.315900 | Browser | Web Search | https://search.brave.com/search?q=use+of+.NET+9.0+Desktop+Runtime+%28v9.0.16%29+-+Windows+x64+Installer&source=desktop&summary=1&conversation=0920289736110ac009cf28dfffa53f981fb9
+    Details: use of .NET 9.0 Desktop Runtime (v9.0.16) - Windows x64 Installer - Brave Search
+2026-05-31 18:32:37.522926 | Browser | Visited Website | https://github.com/login/oauth/authorize?response_type=code&client_id=0120e057bd645470c1ed&state=3300d9e2721f4f6c9168c7b6656e9e67&code_challenge_method=S256&code_challenge=AlntveH6CIeJI0-eOWFBirlVp_AKBamsdD9Re4NMemI&redirect_uri=http%3a%2f%2f127.0.0.1%3a58361%2f&scope=repo+gist+workflow
+    Details: Sign in to GitHub · GitHub
+2026-05-31 18:32:37.522926 | Browser | Visited Website | https://github.com/login?client_id=0120e057bd645470c1ed&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D0120e057bd645470c1ed%26code_challenge%3DAlntveH6CIeJI0-eOWFBirlVp_AKBamsdD9Re4NMemI%26code_challenge_method%3DS256%26redirect_uri%3Dhttp%253A%252F%252F127.0.0.1%253A58361%252F%26response_type%3Dcode%26scope%3Drepo%2Bgist%2Bworkflow%26state%3D3300d9e2721f4f6c9168c7b6656e9e67
+    Details: Sign in to GitHub · GitHub
+2026-05-31 18:32:38.007453 | Browser | Visited Website | https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=196&ct=1780252357&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1
+    Details: Continue
+2026-05-31 18:43:42.817194 | Browser | Visited Website | http://127.0.0.1:58360/signin?nonce=0nnynXTxeusY/Y+DkyqrmQ==
+    Details: Sign in to GitHub · GitHub
+2026-05-31 18:43:42.817194 | Browser | Visited Website | https://github.com/login/oauth/authorize?client_id=01ab8ac9400c4e429b23&redirect_uri=https%3A%2F%2Fvscode.dev%2Fredirect&scope=read%3Auser+repo+user%3Aemail+workflow&code_challenge=zHrxdvCyFf607aCO5tJYbwQo1b2dHNzsaWAbX8UTelY&code_challenge_method=S256&prompt=select_account&state=http%3A%2F%2F127.0.0.1%3A58360%2Fcallback%3Fnonce%3D0nnynXTxeusY%252FY%252BDkyqrmQ%253D%253D
+    Details: Sign in to GitHub · GitHub
+2026-05-31 18:43:45.722310 | Browser | Visited Website | https://github.com/sessions/social/google/initiate?return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D01ab8ac9400c4e429b23%26code_challenge%3DzHrxdvCyFf607aCO5tJYbwQo1b2dHNzsaWAbX8UTelY%26code_challenge_method%3DS256%26prompt%3Dselect_account%26redirect_uri%3Dhttps%253A%252F%252Fvscode.dev%252Fredirect%26scope%3Dread%253Auser%2Brepo%2Buser%253Aemail%2Bworkflow%26state%3Dhttp%253A%252F%252F127.0.0.1%253A58360%252Fcallback%253Fnonce%253D0nnynXTxeusY%25252FY%25252BDkyqrmQ%25253D%25253D&disable_signup=false
+    Details: Sign in - Google Accounts
+2026-05-31 18:43:46.182075 | Browser | Visited Website | https://accounts.google.com/o/oauth2/v2/auth?client_id=1078992815106-brpsupgvhheqg35tupphbh0qk9c32nq8.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Fgithub.com%2Fsessions%2Fsocial%2Fgoogle%2Fcallback&scope=openid+email+profile&state=664128bcc5b79c94b6140a3b20b7e3cc&nonce=60dfd068ef6df414f8bb6b25ea3b26a0&code_challenge=NwuYKkcigKefG-rQ34JZy8gfBiJwheKE0Nkdvy56qaY&code_challenge_method=S256&prompt=select_account
+    Details: Sign in - Google Accounts
+2026-05-31 18:43:46.182075 | Browser | Visited Website | https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S134503435%3A1780253025660971&client_id=1078992815106-brpsupgvhheqg35tupphbh0qk9c32nq8.apps.googleusercontent.com&code_challenge=NwuYKkcigKefG-rQ34JZy8gfBiJwheKE0Nkdvy56qaY&code_challenge_method=S256&nonce=60dfd068ef6df414f8bb6b25ea3b26a0&o2v=2&prompt=select_account&redirect_uri=https%3A%2F%2Fgithub.com%2Fsessions%2Fsocial%2Fgoogle%2Fcallback&response_type=code&scope=openid+email+profile&service=lso&state=664128bcc5b79c94b6140a3b20b7e3cc&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAMJW1RNMMZH-Ywa1h7Q7N28psVF-Vm8q3leayivhfMWmf_LqJ90Kw_HgcNGNFbPR_ZwocL4n3nTJY9CQdVGsssmGjRayuH6EwF4BMbrZw8rj_NGKlUHvKBhYsnNj42vhdk5ocsarW5Z1ytuqQdrClE91VLBQ9n8IMbkmJfn835fV8tS2rFBndAssn1So31RYnwSAIT0A984wPTKGcspaB0ZmX8yAkSpgKVIsabui0vcQKyGgrd1rH8nva2GGGyKBpmpbBs5GIIv_yq5wjnZYelBchDSf3_9f424aWRmVFCvGv5WV_JC1aprR_ickIjjF_Gvf8ux2zBp8TvZIdiIDppNes_xzbo_vZU7CwEDUyGfvB7MEEFhs_VclxqVKTir20uDTCYQcOi4ObRorKvPP3YbsyNJ2PQfMvu7Fh982v-roDgtgDbIRNNh_4NHf3B3DZcTwbjKXKa72a2PdWo9wqIfZFM8ZA%26flowName%3DGeneralOAuthFlow%26as%3DS134503435%253A1780253025660971%26client_id%3D1078992815106-brpsupgvhheqg35tupphbh0qk9c32nq8.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fgithub.com&rart=ANgoxcfX1al_T-NfdbdgsEwIqtJTyxwvwxDZZPPPE0U3SQHmjk0KvyPhFI9YNpIHhltTuLKouhMDyHMvvQasatGg7fJJi2x3uT9IcSfu1pZx1oy_V_KWByc
+    Details: Sign in - Google Accounts
+2026-05-31 18:43:53.175343 | Browser | Visited Website | https://github.com/login?client_id=01ab8ac9400c4e429b23&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D01ab8ac9400c4e429b23%26code_challenge%3DzHrxdvCyFf607aCO5tJYbwQo1b2dHNzsaWAbX8UTelY%26code_challenge_method%3DS256%26prompt%3Dselect_account%26redirect_uri%3Dhttps%253A%252F%252Fvscode.dev%252Fredirect%26scope%3Dread%253Auser%2Brepo%2Buser%253Aemail%2Bworkflow%26state%3Dhttp%253A%252F%252F127.0.0.1%253A58360%252Fcallback%253Fnonce%253D0nnynXTxeusY%25252FY%25252BDkyqrmQ%25253D%25253D
+    Details: Sign in to GitHub · GitHub
+2026-06-02 15:51:43.104982 | Browser | Visited Website | https://4ensicmedia.com/
+    Details: 4ENSIC Media
+2026-06-02 15:51:53.152920 | Browser | Web Search | https://search.brave.com/search?q=4ensic&source=desktop
+    Details: 4ensic - Brave Search
+2026-06-02 15:52:27.417277 | Browser | Visited Website | https://www.4ensicanalytics.com/
+    Details: HOME | 4ensic
+2026-06-02 15:52:42.673896 | Browser | Visited Website | https://force4disc.com/en/
+    Details: Force4DISC
+2026-06-02 15:52:59.492741 | Browser | Web Search | https://search.brave.com/search?q=4ensic+disc&source=web
+    Details: 4ensic disc - Brave Search
+2026-06-02 15:54:01.743390 | Browser | Web Search | https://search.brave.com/search?q=4n6+images&source=web
+    Details: 4n6 images - Brave Search
+2026-06-02 15:54:09.097524 | Browser | Visited Website | https://4n6img.com/
+    Details: 4n6 Images | The Go-To Database for Verified Digital Forensic Images
+2026-06-02 16:10:33.595251 | Browser | Web Search | https://search.brave.com/search?q=paladin&source=desktop
+    Details: paladin - Brave Search
+2026-06-02 16:11:10.633416 | Browser | Web Search | https://search.brave.com/search?q=paladin+forensics+iso+free+download&source=web
+    Details: paladin forensics iso free download - Brave Search
+2026-06-02 16:11:18.062636 | Browser | Web Search | https://search.brave.com/search?q=paladin+forensics+iso+free+download&source=web&summary=1&conversation=0928a0dc822a0e60f206fa1ae30bac675209
+    Details: paladin forensics iso free download - Brave Search
+2026-06-02 16:13:27.581976 | Browser | Web Search | https://search.brave.com/ask?q=give+me+official+website+link&source=quick-answer-followup&conversation=0928a0dc822a0e60f206fa1ae30bac675209&query_type=answer_with_ai_follow_up&quickAnswerKey=0928a0dc822a0e60f206fa1ae30bac675209
+    Details: give me official website link - Ask Brave
+2026-06-02 16:13:29.086736 | Browser | Web Search | https://search.brave.com/ask?q=give+me+official+website+link&source=quick-answer-followup&conversation=09280ecb0e2b61fda9086c1c004147990bcd
+    Details: give me official website link - Ask Brave
+2026-06-02 16:14:49.180503 | Browser | Visited Website | https://sumuri.com/software/
+    Details: Digital Forensics Software : SUMURI Digital Forensics
+2026-06-02 16:17:04.944314 | Browser | Web Search | https://search.brave.com/ask?q=give+me+official+website+link&source=quick-answer-followup&conversation=0928349e20b65b0a8e734a4ad31a4c990a25
+    Details: give me official website link - Ask Brave
+2026-06-02 16:20:04.279793 | Browser | Visited Website | https://sumuri.com/
+    Details: SUMURI | Digital Forensics Solutions and Training
+2026-06-02 16:33:09.450296 | Browser | Visited Website | https://sumuri.com/my-account/
+    Details: My Account : SUMURI
+2026-06-02 16:33:09.450296 | Browser | Visited Website | https://sumuri.com/my-account
+    Details: My Account : SUMURI
+2026-06-02 16:41:48.410087 | Browser | Visited Website | https://sumuri.com/my-account/?alg_wc_ev_activate_account_message=404687
+    Details: My Account : SUMURI
+2026-06-02 16:42:12.052050 | Browser | Visited Website | https://sumuri.com/software/paladin/
+    Details: Digital Forensics Software : SUMURI Digital Forensics
+2026-06-02 16:42:20.107034 | Browser | Visited Website | https://sumuri.com/product-category/brands/paladin/
+    Details: PALADIN Archives : SUMURI
+2026-06-02 16:42:24.835052 | Browser | Visited Website | https://sumuri.com/product/paladin-lts/
+    Details: PALADIN LTS 64 Bit Forensic Imaging Tool : SUMURI
+2026-06-02 16:42:51.789129 | Browser | Visited Website | https://sumuri.com/cart/
+    Details: Cart : SUMURI
+2026-06-02 16:43:03.547353 | Browser | Visited Website | https://sumuri.com/checkout/
+    Details: Checkout : SUMURI
+2026-06-02 16:44:28.635220 | Browser | Visited Website | https://sumuri.com/checkout/order-received/291998/?key=wc_order_0ILmhtotSkkho
+    Details: Checkout : SUMURI
+2026-06-02 16:44:43.055753 | Download | Downloaded | paladin-9.3.3.lts-amd64-build-3047-2026.02.06.zip
+    Details: C:\Users\offic\Downloads\paladin-9.3.3.lts-amd64-build-3047-2026.02.06.zip
+2026-06-02 17:20:35.657554 | Browser | Visited Website | https://github.com/login/device
+    Details: Sign in to GitHub · GitHub
+2026-06-02 17:20:38.096670 | Browser | Visited Website | https://github.com/sessions/social/google/initiate?return_to=https%3A%2F%2Fgithub.com%2Flogin%2Fdevice&disable_signup=false
+    Details: Sign in - Google Accounts
+2026-06-02 17:20:39.016747 | Browser | Visited Website | https://accounts.google.com/o/oauth2/v2/auth?client_id=1078992815106-brpsupgvhheqg35tupphbh0qk9c32nq8.apps.googleusercontent.com&response_type=code&redirect_uri=https%3A%2F%2Fgithub.com%2Fsessions%2Fsocial%2Fgoogle%2Fcallback&scope=openid+email+profile&state=ea594946f69be2d3463192a37ff1bb2c&nonce=5bab2e8ee1756b16dfb9bdbc157995ef&code_challenge=kzMkQxuYWK9zYQz5VWROTzSAVtLvc0tGot8LGyH0e14&code_challenge_method=S256&prompt=select_account
+    Details: Sign in - Google Accounts
+2026-06-02 17:20:39.016747 | Browser | Visited Website | https://accounts.google.com/v3/signin/identifier?opparams=%253F&dsh=S-1522710007%3A1780420838502371&client_id=1078992815106-brpsupgvhheqg35tupphbh0qk9c32nq8.apps.googleusercontent.com&code_challenge=kzMkQxuYWK9zYQz5VWROTzSAVtLvc0tGot8LGyH0e14&code_challenge_method=S256&nonce=5bab2e8ee1756b16dfb9bdbc157995ef&o2v=2&prompt=select_account&redirect_uri=https%3A%2F%2Fgithub.com%2Fsessions%2Fsocial%2Fgoogle%2Fcallback&response_type=code&scope=openid+email+profile&service=lso&state=ea594946f69be2d3463192a37ff1bb2c&flowName=GeneralOAuthFlow&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANM-yzsKvuO28HgA2slLftYGo-smQCBxGmDvuWjszxcURQVUzYeN-fd6rLtB3YgxC6dY0kf0cppbtJt5y0gImWKDjKPl3zMPTh-GI-Ztc1wHRAQ4t-mhBt_-Yf-1cn-N_i3NIbVbaoFt6YVYofQNfDEKRtiwmtJFjk4BsFfCJWZRugyAR5K1H9NgpGWR3brv8ekoR2daT80_q9lpn19FhDDUFHQHkla8CphzWUEnRcK-cqC7A3bJSSzmXhnGrHCHdJSl6RASknbw_IuDfyJ2aaXaB21I4T5M-Dyh2sOYcrs9y46ZIswaybFlx-P7nEKDJKo_oDZOUDdAhRceGS5zOkaV3Bi0W70xXI2nznMJY79ZeCYhqF7bZQa5g97u4VMGqlwDWfYo6pqOB3RufEaC3Rao3qB_mRTL2O1yj9EAiCu05C0AXNW4J7MI7oqHj-T7iubb9dxdpMADicfj6QyAH3KZExPbg%26flowName%3DGeneralOAuthFlow%26as%3DS-1522710007%253A1780420838502371%26client_id%3D1078992815106-brpsupgvhheqg35tupphbh0qk9c32nq8.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fgithub.com&rart=ANgoxcee5OCtJhtEKrs1tAMWFgbxggbG5-JFE9KfTEQmLT33klOpeE8vWeg2QO-_nT8EGMr7E-jb3ISJA6A6G2ZPaNEyxLN1ZvVYOlSzxZS1q8mgUXMOnuw
+    Details: Sign in - Google Accounts
+2026-06-02 17:20:42.049413 | Browser | Visited Website | https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Flogin%2Fdevice
+    Details: Sign in to GitHub · GitHub
+2026-06-02 17:28:29.746417 | Browser | Visited Website | https://github.com/login/oauth/authorize?response_type=code&client_id=0120e057bd645470c1ed&state=413ffe4a4a0f4d11a2ce6e7a4ab1350c&code_challenge_method=S256&code_challenge=AT1ArLNwJfvz5D_CUCQwqR7wmxp7ujCMPk0K0nHaQtE&redirect_uri=http%3a%2f%2f127.0.0.1%3a49724%2f&scope=repo+gist+workflow
+    Details: Sign in to GitHub · GitHub
+2026-06-02 17:28:29.746417 | Browser | Visited Website | https://github.com/login?client_id=0120e057bd645470c1ed&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D0120e057bd645470c1ed%26code_challenge%3DAT1ArLNwJfvz5D_CUCQwqR7wmxp7ujCMPk0K0nHaQtE%26code_challenge_method%3DS256%26redirect_uri%3Dhttp%253A%252F%252F127.0.0.1%253A49724%252F%26response_type%3Dcode%26scope%3Drepo%2Bgist%2Bworkflow%26state%3D413ffe4a4a0f4d11a2ce6e7a4ab1350c
+    Details: Sign in to GitHub · GitHub
+2026-06-02 18:05:29.260589 | Browser | Visited Website | https://github.com/login?return_to=%2FTheBeast1122%2FCOLLABORATIVE-WHITE-BOARD
+    Details: Sign in to GitHub · GitHub
+2026-06-02 18:05:38.667997 | Browser | Visited Website | https://github.com/RamanSharma100
+    Details: RamanSharma100 (Raman Sharma) · GitHub
+2026-06-02 18:06:28.623384 | Browser | Visited Website | https://github.com/RamanSharma100/youtube-tutorial-reactjs-projects
+    Details: GitHub - RamanSharma100/youtube-tutorial-reactjs-projects · GitHub
+2026-06-02 18:06:35.079076 | Browser | Visited Website | https://github.com/RamanSharma100?tab=repositories
+    Details: RamanSharma100 (Raman Sharma) / Repositories · GitHub
+2026-06-02 18:06:46.469796 | Browser | Visited Website | https://github.com/RamanSharma100?page=2&tab=repositories
+    Details: RamanSharma100 (Raman Sharma) / Repositories · GitHub
+2026-06-02 18:07:04.373138 | Browser | Visited Website | https://github.com/RamanSharma100/react-socket.io-white-board-sharing-app-youtube-series
+    Details: GitHub - RamanSharma100/react-socket.io-white-board-sharing-app-youtube-series: this is the repo for updated code of react-socket.io-white-board-sharing-app-youtube-series · GitHub
+2026-06-02 18:07:39.980461 | Browser | Visited Website | https://github.com/TheBeast1122/COLLABORATIVE-WHITE-BOARD
+    Details: GitHub - TheBeast1122/COLLABORATIVE-WHITE-BOARD · GitHub
+2026-06-02 18:54:13.296482 | Browser | Visited Website | http://localhost:3000/ff0e4e6d-1da6-0221-7867-566bacfbf2ee
+    Details: Vite App
+2026-06-02 19:03:48.343798 | Browser | Visited Website | http://localhost:3000/0744e676-5272-7947-49d9-76cd90462aa7
+    Details: Vite App
+2026-06-02 19:04:27.939976 | Browser | Visited Website | http://localhost:3000/28613e0a-2761-854f-d35d-56688a4862d2
+    Details: Vite App
+2026-06-02 19:05:45.522296 | Browser | Visited Website | http://localhost:3000/ef508b87-71b0-8166-37a8-3e9213578e5f
+    Details: Vite App
+2026-06-02 19:49:38.809627 | Browser | Visited Website | http://localhost:3000/7a0bf863-c2d7-0715-1391-525013f749cd
+    Details: Vite App
+2026-06-02 19:53:50.435412 | Browser | Visited Website | https://brave.com/youtube-ad-blocker/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=q2-2026&mtm_content=youtube-features
+    Details: A better YouTube experience | Brave
+2026-06-02 19:54:23.116945 | Browser | Visited Website | http://localhost:3000/
+    Details: Vite App
+2026-06-02 19:54:31.068253 | Browser | Visited Website | http://localhost:3000/352a2797-aca9-700f-09cc-8c001463dee0
+    Details: Vite App
+2026-06-03 07:35:00.424762 | Browser | Visited Website | https://www.google.com/url?source=meet&sa=D&q=https%3A%2F%2Fmega.nz%2Ffile%2FcVxUTJQa%23VuAVSoAFi5-LagovNTz7F22HeThO_viP91WA-ysv6S0&hl=en-IN
+    Details: Redirect Notice
+2026-06-03 17:57:10.926241 | Browser | Visited Website | https://mega.nz/file/cVxUTJQa#VuAVSoAFi5-LagovNTz7F22HeThO_viP91WA-ysv6S0
+    Details: Download - MEGA 84%
+2026-06-03 18:04:04.982789 | Download | Downloaded | StealthyADS.E01
+    Details: C:\Users\offic\Downloads\StealthyADS.E01
+2026-06-03 18:12:10.271630 | Browser | Visited Website | https://chatgpt.com/
+    Details: ChatGPT
+2026-06-03 18:18:09.984215 | Browser | Web Search | https://search.brave.com/search?q=sig+sauer+p320&source=desktop
+    Details: sig sauer p320 - Brave Search
+2026-06-04 20:21:22.501930 | Browser | Web Search | https://search.brave.com/search?q=ventoy&source=desktop
+    Details: ventoy - Brave Search
+2026-06-04 20:21:27.664563 | Browser | Visited Website | https://www.ventoy.net/
+    Details: Ventoy
+2026-06-04 20:21:28.008895 | Browser | Visited Website | https://www.ventoy.net/en/index.html
+    Details: Ventoy
+2026-06-04 20:21:37.191061 | Browser | Visited Website | https://www.ventoy.net/en/download.html
+    Details: Download . Ventoy
+2026-06-04 20:21:45.981563 | Browser | Visited Website | https://sourceforge.net/projects/ventoy/files/v1.1.12
+    Details: Ventoy - Browse /v1.1.12 at SourceForge.net
+2026-06-04 20:21:45.981563 | Browser | Visited Website | https://sourceforge.net/projects/ventoy/files/v1.1.12/
+    Details: Ventoy - Browse /v1.1.12 at SourceForge.net
+2026-06-04 20:22:41.671602 | Browser | Visited Website | https://sourceforge.net/projects/ventoy/files/latest/download
+    Details: Download Ventoy
+2026-06-04 20:22:44.779104 | Download | Downloaded | ventoy-1.1.12-windows.zip
+    Details: C:\Users\offic\Downloads\ventoy-1.1.12-windows.zip
+2026-06-08 14:44:12.342631 | Browser | Visited Website | https://www.microsoft.com/edge/update/?form=MT00ZZ&channel=stable&version=149.0.4022.52&sg=0
+    Details: What's new in Microsoft Edge
+2026-06-08 14:44:12.342631 | Browser | Visited Website | https://explore.microsoft.com/en-us/edge/update/149?form=MT00ZZ&channel=stable&version=149.0.4022.52&sg=0
+    Details: What's new in Microsoft Edge
+2026-06-08 14:44:12.342631 | Browser | Visited Website | https://explore.microsoft.com/en-us/edge/update/149?ep=2092&form=MT00ZZ&es=361&channel=stable&version=149.0.4022.52&sg=0&cs=136253162
+    Details: What's new in Microsoft Edge
+2026-06-08 14:45:34.479805 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/Aditya%20Singh%20data%20analyst%20resume.pdf
+    Details: Aditya Singh data analyst resume.pdf
+2026-06-08 14:46:33.930522 | Browser | Visited Website | https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=196&ct=1780929993&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1
+    Details: Continue
+2026-06-08 14:46:36.085401 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=019ea7b3-2255-76e2-8d8c-59f083a7f82b&response_mode=fragment&client_info=1&clidata=1&prompt=select_account&nonce=019ea7b3-2256-7698-a5b8-958b238e3a56&state=eyJpZCI6IjAxOWVhN2IzLTIyNTYtN2RjMi05YmU4LWFkODMzNzc5MmM5YyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=5.9.0&response_type=code&code_challenge=IkzbQWizN5PILD--CZBu0hOyin35LkOylYJ7HVynNIk&code_challenge_method=S256
+    Details: Sign in to your account
+2026-06-08 14:46:36.379875 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=019ea7b3-2255-76e2-8d8c-59f083a7f82b&response_mode=fragment&client_info=1&clidata=1&prompt=select_account&nonce=019ea7b3-2256-7698-a5b8-958b238e3a56&state=eyJpZCI6IjAxOWVhN2IzLTIyNTYtN2RjMi05YmU4LWFkODMzNzc5MmM5YyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=5.9.0&response_type=code&code_challenge=IkzbQWizN5PILD--CZBu0hOyin35LkOylYJ7HVynNIk&code_challenge_method=S256&sso_reload=true
+    Details: Sign in to your account
+2026-06-08 14:46:47.128626 | Browser | Visited Website | https://word.cloud.microsoft/open/onedrive/?docId=5EF958B7DC7D1951%21sbae0ac85e83f4a9788acfb825bcaf347&driveId=5EF958B7DC7D1951
+    Details: Create and edit documents for free | Microsoft Word for the Web
+2026-06-08 14:46:48.566287 | Browser | Visited Website | https://word.cloud.microsoft/en-us/open/onedrive/?docId=5EF958B7DC7D1951%21sbae0ac85e83f4a9788acfb825bcaf347&driveId=5EF958B7DC7D1951
+    Details: Create and edit documents for free | Microsoft Word for the Web
+2026-06-08 14:46:48.872962 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=019ea7b3-5621-7105-ba2c-15f1b62f8bfd&response_mode=fragment&client_info=1&clidata=1&prompt=select_account&nonce=019ea7b3-5622-77ce-9d84-640c7d8a2c29&state=eyJpZCI6IjAxOWVhN2IzLTU2MjItN2EyZS1iMDViLTJmN2FmM2FkNTZjNiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=5.9.0&response_type=code&code_challenge=-UX5sX9n2zWmaUpCJsZ09brPnpI8eb3PoJI9zbwJpb0&code_challenge_method=S256
+    Details: Sign in to your account
+2026-06-08 14:48:11.086037 | Browser | Visited Website | https://onedrive.live.com/?id=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Ffile%20forensics%2FFile%20Type%20Analysis%20Part%201%2D20260522T174938Z%2D3%2D001%2FFile%20Type%20Analysis%20Part%201&viewid=7bb0846f%2D2dba%2D4be2%2Db9a1%2D004edbe47e9c
+    Details: File Type Analysis Part 1 - OneDrive
+2026-06-08 14:48:24.075956 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=b89f0d29-d883-4f38-acde-e62045f543c0&cid=5ef958b7dc7d1951&CT=1780930103575&OR=ONEDRIVE.RECENT-ITEMSVIEW
+    Details: Aditya Singh.docx
+2026-06-08 14:48:24.416766 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=b89f0d29-d883-4f38-acde-e62045f543c0&cid=5ef958b7dc7d1951
+    Details: Aditya Singh.docx
+2026-06-08 14:48:48.626609 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=c9642000-fff1-42de-876c-fe6eda5721b8&cid=5ef958b7dc7d1951&CT=1780930126799&OR=ONEDRIVE.RECENT-ITEMSVIEW
+    Details: Aditya Singh1.docx
+2026-06-08 14:48:51.156298 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=c9642000-fff1-42de-876c-fe6eda5721b8&cid=5ef958b7dc7d1951
+    Details: Aditya Singh1.docx
+2026-06-08 14:49:00.249747 | Browser | Visited Website | https://word.cloud.microsoft/?wdOrigin=OFFICECOM-WEB.REDIRECT
+    Details: Create and edit documents for free | Microsoft Word for the Web
+2026-06-08 14:49:00.249747 | Browser | Visited Website | https://word.cloud.microsoft/en-us/?wdOrigin=OFFICECOM-WEB.REDIRECT
+    Details: Create and edit documents for free | Microsoft Word for the Web
+2026-06-08 14:49:00.249747 | Browser | Visited Website | https://www.microsoft365.com/launch/Word?ms.url=Word.new&omtk=en-us&auth=1
+    Details: Create and edit documents for free | Microsoft Word for the Web
+2026-06-08 14:49:00.249747 | Browser | Visited Website | https://m365.cloud.microsoft/launch/Word?ms.url=Word.new&omtk=en-us&auth=1&origindomain=microsoft365&client-request-id=b850cb48-3a8b-451e-a887-86b0217de812
+    Details: Create and edit documents for free | Microsoft Word for the Web
+2026-06-08 14:49:07.480851 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=076a0660-40b6-43f8-9e92-14dcdf5f8401&response_mode=fragment&client_info=1&clidata=1&prompt=select_account&nonce=019ea7b5-7164-72a6-8776-17ed93ab9177&state=eyJpZCI6IjAxOWVhN2I1LTcxNDgtNzc2Yi04MmViLWIwZjhmMjMzMmQ2MyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7CwdOrigin%3DOFFICECOM-WEB.REDIRECT%7Cintents%3A%5B%7B%22type%22%3A%22OpenFilePicker%22%2C%22data%22%3A%22true%22%7D%5D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=5.9.0&response_type=code&code_challenge=R1ImuR4_Sm6gIUVW9VhyNoCGskGpu2xYar4Ef_Ns3nU&code_challenge_method=S256&mkt=en-us
+    Details: Sign in to your account
+2026-06-08 14:49:23.076839 | Browser | Visited Website | https://word.cloud.microsoft/en-us/?wdOrigin=OFFICECOM-WEB.REDIRECT%2CAPPHOME-WEB.UNAUTH
+    Details: Create and edit documents for free | Microsoft Word for the Web
+2026-06-08 14:49:23.309820 | Browser | Visited Website | https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2821b473-fe24-4c86-ba16-62834d6e80c3&scope=User.Read%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fword.cloud.microsoft&client-request-id=076a0660-40b6-43f8-9e92-14dcdf5f8401&response_mode=fragment&client_info=1&clidata=1&prompt=select_account&nonce=019ea7b5-b1a0-7dcc-a7a2-f809a09d9d28&state=eyJpZCI6IjAxOWVhN2I1LWIxODYtN2JjZi1hY2QwLTQxMjUxYjQ2N2QzOSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7CwdOrigin%3DOFFICECOM-WEB.REDIRECT%252CAPPHOME-WEB.UNAUTH%7Cintents%3A%5B%7B%22type%22%3A%22UploadBlankFile%22%2C%22data%22%3A%22true%22%7D%2C%7B%22type%22%3A%22OpenInNewTab%22%2C%22data%22%3A%22false%22%7D%5D&claims=%7B%22access_token%22%3A%7B%22xms_cc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&x-client-SKU=msal.js.browser&x-client-VER=5.6.0&response_type=code&code_challenge=4Qr-Gqp-cmjf3TwcoU_3AfCNAMH2AiEgqYGXkV00AaI&code_challenge_method=S256&mkt=en-us
+    Details: Sign in to your account
+2026-06-08 14:57:24.372016 | Browser | Web Search | https://search.brave.com/search?q=volatility&source=desktop
+    Details: volatility - Brave Search
+2026-06-08 14:57:33.603842 | Browser | Web Search | https://search.brave.com/search?q=volatility+app&source=web
+    Details: volatility app - Brave Search
+2026-06-08 14:57:41.794792 | Browser | Web Search | https://search.brave.com/search?q=volatility+app&source=web&summary=1&conversation=092e8ef683a64203a87b25ac7b771ee08af7
+    Details: volatility app - Brave Search
+2026-06-08 15:06:10.190824 | Download | Downloaded | Cybersecurity_Resume_One_Page.pdf
+    Details: C:\Users\offic\OneDrive\Desktop\Cybersecurity_Resume_One_Page.pdf
+2026-06-11 18:35:29.943099 | Browser | Web Search | https://www.bing.com/search?qs=AS&pq=what+is+npca&sk=CSYN1&sc=11-12&q=what+is+npcap&cvid=f3746967c28f483b9612c379de2b804b&gs_lcrp=EgRlZGdlKgYIABAAGEAyBggAEAAYQDIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgcICBDrBxhA0gEINzEyNGowajeoAgiwAgE&FORM=ANNTA0&PC=ASTS
+    Details: what is npcap - Search
+2026-06-11 18:36:39.282609 | Browser | Web Search | https://www.bing.com/search?q=nmap&filters=ufn%3a%22Nmap%22+sid%3a%22f90a5389-4f8e-c194-4967-b91b58cc9873%22&asbe=EP&form=WSBEDG&qs=MB&cvid=f318b0813e9a43c69eddad7fb514dab3&pq=nm&cc=US&setlang=en-US&nclid=13DE15BF289238C92312DB2E430CD61F&ts=1781202998606&nclidts=1781202998&tsms=606&PC=WSBQUF
+    Details: nmap - Search
+2026-06-11 18:36:40.597687 | Browser | Web Search | https://www.bing.com/search?q=nmap&filters=ufn%3a%22Nmap%22+sid%3a%22f90a5389-4f8e-c194-4967-b91b58cc9873%22&asbe=EP&form=WSBEDG&qs=MB&cvid=f318b0813e9a43c69eddad7fb514dab3&pq=nm&cc=US&setlang=en-US&nclid=13DE15BF289238C92312DB2E430CD61F&ts=1781202998606&PC=WSBQUF
+    Details: nmap - Search
+2026-06-12 18:41:31.425158 | Browser | Visited Website | file:///C:/Users/offic/Downloads/Profile.pdf
+    Details: Resume
+2026-06-12 18:42:58.707226 | Browser | Viewed LinkedIn Profile | https://www.linkedin.com/in/tanik-304366408?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3B9gr%2FI2nkQn62vDPNTQn6bQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile
+    Details: Sign Up | LinkedIn
+2026-06-12 18:43:00.261809 | Browser | Viewed LinkedIn Profile | https://www.linkedin.com/authwall?trk=bf&trkInfo=AQF4AAf-BMHX5AAAAZ69JPtQmGBYwQPAacVDLbKADptLsvwwQFm7-2ZiftbcbtSO0hbUmHmSamnO2DROiponMDmIRem9X8p2YYl-Agfk_1Q0b3amxEnPQa3I3SvOdCe2slRKLBE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftanik-304366408%3Fjobid%3D1234%26lipi%3Durn%253Ali%253Apage%253Ad_jobs_easyapply_pdfgenresume%253B9gr%252FI2nkQn62vDPNTQn6bQ%253D%253D%26licu%3Durn%253Ali%253Acontrol%253Ad_jobs_easyapply_pdfgenresume-v02_profile
+    Details: Sign Up | LinkedIn
+2026-06-13 18:46:20.989124 | Browser | Visited Website | https://onedrive.live.com/?viewid=7bb0846f%2D2dba%2D4be2%2Db9a1%2D004edbe47e9c&id=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Ffile%20forensics%2FFile%20Type%20Analysis%20Part%201%2D20260522T174938Z%2D3%2D001%2FFile%20Type%20Analysis%20Part%201%2FFile02%2Eeml&parent=%2Fpersonal%2F5ef958b7dc7d1951%2FDocuments%2FDesktop%2Ffile%20forensics%2FFile%20Type%20Analysis%20Part%201%2D20260522T174938Z%2D3%2D001%2FFile%20Type%20Analysis%20Part%201
+    Details: Continue
+2026-06-13 18:46:20.989124 | Browser | Visited Website | https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=197&ct=1781376378&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1
+    Details: Continue
+2026-06-13 18:46:22.369226 | Browser | Visited Website | https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=197&ct=1781376377&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1
+    Details: Continue
+2026-06-13 18:46:43.967145 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=74093dde-b84f-426c-9d0d-3edc94c69082&cid=5ef958b7dc7d1951
+    Details: Cybersecurity_Resume_One_Page.docx
+2026-06-13 18:47:40.952808 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=a58a5bd0-4c06-4432-91f7-13acbe50c723&cid=5ef958b7dc7d1951&wdPreviousSession=bbc435dd%2Dee20%2Dc59e%2D75af%2D3b59a83a2ff2&wdNewAndOpenCt=1781376456654&wdo=4&wdOrigin=wacFileNew&wdPreviousCorrelation=9198e93b%2Defd8%2D4544%2Da4b4%2D5c5bb2551620&action=editnew&wdnd=1
+    Details: Document 4.docx
+2026-06-13 18:49:45.819193 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=1ed4cc25-19dc-4b4e-9dc8-8ca8a3c3504e&cid=5ef958b7dc7d1951
+    Details: final_resume 1.docx
+2026-06-13 19:17:34.206759 | Browser | Viewed LinkedIn Profile | https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFrhPQ2v8LVUAAAAZ7CavzgwMRaDa6PSEySNFaAgCpEcO_tAnxPGtjFzfc0Rsj3S_gAAwlma8uUwQZSaGdh6zK7gjRs_pqiEraYmVRvuZT42OoAcfAHu9P6TpzmnnJOUy2wY5c=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faditya-singh-aba463290
+    Details: Sign Up | LinkedIn
+2026-06-13 19:17:50.222101 | Browser | Viewed LinkedIn Profile | http://www.linkedin.com/in/aditya-singh-aba463290
+    Details: Sign Up | LinkedIn
+2026-06-13 19:17:50.222101 | Browser | Viewed LinkedIn Profile | https://www.linkedin.com/in/aditya-singh-aba463290
+    Details: Sign Up | LinkedIn
+2026-06-13 19:17:50.695440 | Browser | Viewed LinkedIn Profile | https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGUi9vfek9kFwAAAZ7Caz9IsuRHGaWpgfmXIojaxnacSxXGFZWf_ojEr0yaDIsA1p4H-0RkN1eKIZHAZ4EWnG-K3xZq-LHhDrxtHIorJrho6BOIih9HbzkwdNxsJUmyrOuPCb0=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faditya-singh-aba463290
+    Details: Sign Up | LinkedIn
+2026-06-13 19:20:53.870476 | Browser | Visited Website | https://onedrive.live.com/?cid=5EF958B7DC7D1951&id=5EF958B7DC7D1951!sa58a5bd04c06443291f713acbe50c723&action=download&migratedtospo=true
+    Details: OneDrive
+2026-06-13 19:20:54.253642 | Browser | Visited Website | https://onedrive.live.com/?cid=5EF958B7DC7D1951&id=5EF958B7DC7D1951%21sa58a5bd04c06443291f713acbe50c723&action=download&migratedtospo=true
+    Details: OneDrive
+2026-06-13 19:21:00.047655 | Browser | Visited Website | https://onedrive.live.com/?id=5EF958B7DC7D1951!sa58a5bd04c06443291f713acbe50c723&cid=5EF958B7DC7D1951&parId=root&o=OneUp&ls=true&migratedtospo=true&action=download
+    Details: Microsoft OneDrive
+2026-06-13 19:30:46.948236 | Browser | Visited Website | https://onedrive.live.com/personal/5ef958b7dc7d1951/_layouts/15/doc.aspx?resid=a58a5bd0-4c06-4432-91f7-13acbe50c723&cid=5ef958b7dc7d1951&wdPreviousSession=bbc435dd-ee20-c59e-75af-3b59a83a2ff2&wdNewAndOpenCt=1781376456654&wdo=4&wdOrigin=wacFileNew&wdPreviousCorrelation=9198e93b-efd8-4544-a4b4-5c5bb2551620&action=editnew&wdnd=1
+    Details: forensics resume.docx
+2026-06-13 19:42:16.132382 | Browser | Visited Website | file:///C:/Users/offic/Downloads/forensics%20resume.pdf
+    Details: forensics resume.docx
+2026-06-14 07:26:54.649813 | Browser | Web Search | https://search.brave.com/search?q=htttp+tolkit&source=desktop
+    Details: htttp tolkit - Brave Search
+2026-06-14 07:27:05.229776 | Browser | Visited Website | https://httptoolkit.com/
+    Details: Intercept, debug & build with HTTP
+2026-06-14 07:27:17.301227 | Browser | Visited Website | https://httptoolkit.com/download/win-exe/
+    Details: Download HTTP Toolkit for Windows Installer
+2026-06-14 07:27:40.374643 | Download | Downloaded | HttpToolkit-1.26.1.exe
+    Details: C:\Users\offic\Downloads\HttpToolkit-1.26.1.exe
+2026-06-15 07:43:55.243659 | Browser | Web Search | https://search.brave.com/search?q=wuzuh&source=desktop
+    Details: wuzuh - Brave Search
+2026-06-15 07:44:53.469533 | Browser | Visited Website | https://onedrive.live.com/?sw=bypass&bypassReason=abandoned&view=1&startedResponseCatch=true
+    Details: Microsoft OneDrive
+2026-06-15 07:44:58.377521 | Browser | Visited Website | https://onedrive.live.com/?bypassReason=abandoned&view=1&startedResponseCatch=true
+    Details: Microsoft OneDrive
+2026-06-15 07:44:58.382646 | Browser | Visited Website | https://onedrive.live.com/?view=1&startedResponseCatch=true
+    Details: Microsoft OneDrive
+2026-06-15 07:45:37.833075 | Browser | Visited Website | https://wazuh.com/
+    Details: Wazuh - Open Source XDR. Open Source SIEM.
+2026-06-15 13:15:08.422574 | Download | Downloaded | forensic practice question.mem
+    Details: C:\Users\offic\OneDrive\Desktop\forensic practice question.mem
+2026-06-15 13:18:05.365300 | Download | Downloaded | VolatilityWorkbench-20260615T131743Z-3-001.zip
+    Details: C:\Users\offic\Downloads\VolatilityWorkbench-20260615T131743Z-3-001.zip
+2026-06-15 16:07:18.026576 | Browser | Visited Website | https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/soc-implementation-and-floorplanning/cadence-cerebrus-ai-studio.html
+    Details: Cadence Cerebrus AI Studio | Digital Design and Signoff | Cadence
+2026-06-15 16:08:12.832128 | Browser | Visited Website | https://www.cerebras.ai/
+    Details: Cerebras
+2026-06-15 16:12:56.024948 | Browser | Web Search | https://search.brave.com/search?q=CEREBRUS&source=desktop
+    Details: CEREBRUS - Brave Search
+2026-06-15 16:13:22.517072 | Browser | Visited Website | http://cerebusforensics.com/
+    Details: Cerebus Forensics
+2026-06-15 16:13:22.517072 | Browser | Visited Website | https://cerebusforensics.com/
+    Details: Cerebus Forensics
+2026-06-15 16:16:04.186939 | Browser | Web Search | https://search.brave.com/search?q=FORENSIC+TOOL+LIST&source=desktop
+    Details: FORENSIC TOOL LIST - Brave Search
+2026-06-15 16:16:10.553252 | Browser | Web Search | https://search.brave.com/search?q=FORENSIC+TOOL+LIST&source=desktop&summary=1&conversation=09352a0f89482f03557ff29b99a4183c6361
+    Details: FORENSIC TOOL LIST - Brave Search
+2026-06-15 16:16:36.955960 | Browser | Web Search | https://search.brave.com/images?q=FORENSIC+TOOL+LIST&source=web
+    Details: FORENSIC TOOL LIST - Brave Search
+2026-06-15 16:17:37.844985 | Browser | Web Search | https://search.brave.com/search?q=CEREBRUS+FORENSIC&source=web
+    Details: CEREBRUS FORENSIC - Brave Search
+2026-06-15 16:17:45.472573 | Browser | Web Search | https://search.brave.com/search?q=FORENSIC+TOOL+LIST&source=web
+    Details: FORENSIC TOOL LIST - Brave Search
+2026-06-15 16:17:57.672618 | Browser | Visited Website | https://www.forensicscolleges.com/blog/resources/guide-digital-forensics-tools
+    Details: A Guide to Digital Forensics and Cybersecurity Tools
+2026-06-15 16:19:33.713892 | Browser | Web Search | https://search.brave.com/search?q=FORENSIC+TOOL+LIST&source=web&summary=1&conversation=09352a0f89482f03557ff29b99a4183c6361
+    Details: FORENSIC TOOL LIST - Brave Search
+2026-06-15 16:19:53.587958 | Browser | Web Search | https://search.brave.com/search?q=ALTERNATIVE+OF+MAGNET+AXIOM&source=web
+    Details: ALTERNATIVE OF MAGNET AXIOM - Brave Search
+2026-06-15 16:19:59.921425 | Browser | Web Search | https://search.brave.com/search?q=ALTERNATIVE+OF+MAGNET+AXIOM&source=web&summary=1&conversation=0935a12902d735dadae79634ecb295c69224
+    Details: ALTERNATIVE OF MAGNET AXIOM - Brave Search
+2026-06-15 16:20:50.106859 | Browser | Web Search | https://search.brave.com/search?q=Cellebrite&source=desktop
+    Details: Cellebrite - Brave Search
+2026-06-15 16:22:29.132330 | Browser | Visited Website | https://cellebrite.com/en/home/
+    Details: Digital Forensics & Intelligence Platform | Cellebrite
+2026-06-15 16:24:41.435894 | Browser | Visited Website | https://cellebrite.com/en/solutions/enterprise/
+    Details: eDiscovery & Investigations for Enterprise - Cellebrite
+2026-06-15 16:25:59.694270 | Browser | Visited Website | https://community.cellebrite.com/s/login/
+    Details: Login
+2026-06-15 16:25:59.694270 | Browser | Visited Website | https://community.cellebrite.com/s/login/?language=en_US
+    Details: Login
+2026-06-15 16:26:13.643951 | Browser | Visited Website | https://cellebrite.com/en/enterprise-and-service-providers/
+    Details: eDiscovery & Investigations for Enterprise - Cellebrite
+2026-06-15 16:27:55.940360 | Browser | Visited Website | https://drive.google.com/drive/folders/1OmlZ8nGa7Zwc22lBRnBvs2FUS_ufsYyp
+    Details: 4n6 - Google Drive
+2026-06-15 16:39:19.324218 | Browser | Web Search | https://search.brave.com/search?q=magnet+ram+capture&source=desktop
+    Details: magnet ram capture - Brave Search
+2026-06-15 16:39:24.354424 | Browser | Web Search | https://search.brave.com/search?q=magnet+ram+capture&source=desktop&summary=1&conversation=0935f2fcbfcd2082fa46889527114f6eca05
+    Details: magnet ram capture - Brave Search
+2026-06-15 16:39:33.138527 | Browser | Visited Website | https://www.magnetforensics.com/resources/magnet-ram-capture/
+    Details: Magnet RAM Capture - Magnet Forensics
+2026-06-15 16:40:55.030592 | Browser | Web Search | https://www.bing.com/search?q=ftk+imager&form=WSBEDG&qs=LS&cvid=0a1786f7413b4a84932e9c8b5797e79f&pq=ftk+image&cc=US&setlang=en-US&nclid=13DE15BF289238C92312DB2E430CD61F&ts=1781541654165&nclidts=1781541654&tsms=165&PC=WSBQUF
+    Details: ftk imager - Search
+2026-06-15 16:40:56.311111 | Browser | Web Search | https://www.bing.com/search?q=ftk+imager&form=WSBEDG&qs=LS&cvid=0a1786f7413b4a84932e9c8b5797e79f&pq=ftk+image&cc=US&setlang=en-US&nclid=13DE15BF289238C92312DB2E430CD61F&ts=1781541654165&PC=WSBQUF
+    Details: ftk imager - Search
+2026-06-15 16:42:01.881688 | Browser | Web Search | https://search.brave.com/search?q=magnet+axiom&source=desktop
+    Details: magnet axiom - Brave Search
+2026-06-15 16:42:06.177736 | Browser | Web Search | https://search.brave.com/search?q=magnet+axiom&source=desktop&summary=1&conversation=093505e128e9e2449f41948eb35ebf61e19e
+    Details: magnet axiom - Brave Search
+2026-06-15 16:43:00.401714 | Browser | Visited Website | https://www.magnetforensics.com/products/magnet-axiom/
+    Details: Magnet Axiom | Digital Forensic Software | Magnet Forensics
+2026-06-15 16:43:00.401714 | Browser | Visited Website | https://www.magnetforensics.com/products/magnet-axiom
+    Details: Magnet Axiom | Digital Forensic Software | Magnet Forensics
+2026-06-15 16:47:28.930686 | Browser | Visited Website | https://go.magnetforensics.com/l/52162/2021-03-29/ky7hbv
+2026-06-15 17:00:36.719263 | Browser | Web Search | https://search.brave.com/search?q=exterro+ftk+imager&source=desktop
+    Details: exterro ftk imager - Brave Search
+2026-06-15 17:01:16.344852 | Browser | Visited Website | https://www.magnetforensics.com/products/magnet-axiom/#
+    Details: Magnet Axiom | Digital Forensic Software | Magnet Forensics
+2026-06-15 17:01:16.349962 | Browser | Visited Website | https://www.magnetforensics.com/products/magnet-axiom/#pardot-form
+    Details: Magnet Axiom | Digital Forensic Software | Magnet Forensics
+2026-06-15 17:07:32.517464 | Browser | Web Search | https://search.brave.com/search?q=sage+university+bhopal&source=desktop
+    Details: sage university bhopal - Brave Search
+2026-06-15 17:07:39.436625 | Browser | Web Search | https://search.brave.com/search?q=sage+university+bhopal&source=desktop&summary=1&conversation=09352270cdc229cbed78185cd71b0f5280f1
+    Details: sage university bhopal - Brave Search
+2026-06-15 17:07:55.804877 | Browser | Web Search | https://search.brave.com/search?q=sage+university+bhopal+email+address&source=web
+    Details: sage university bhopal email address - Brave Search
+2026-06-15 17:07:59.888816 | Browser | Web Search | https://search.brave.com/search?q=sage+university+bhopal+email+address&source=web&summary=1&conversation=0935eed5012f32811b2616b6ab4ba3d6a4e8
+    Details: sage university bhopal email address - Brave Search
+2026-06-15 17:08:55.309029 | Browser | Visited Website | https://go.exterro.com/l/43312/2023-05-03/fc4b78
+    Details: FTK Imager 8.2
+2026-06-15 17:08:56.615147 | Download | Downloaded | FTK Imager 8.2.0.iso
+    Details: C:\Users\offic\Downloads\FTK Imager 8.2.0.iso
+2026-06-15 17:09:01.455654 | Browser | Visited Website | https://www.exterro.com/thank-you-page-digital-forensics-4
+    Details: Exterro - Thank you - Digital Forensics
+2026-06-15 17:09:01.455654 | Browser | Visited Website | https://www.exterro.com/thank-you-digital-forensics
+    Details: Exterro - Thank you - Digital Forensics
+2026-06-15 17:30:27.216076 | Browser | Web Search | https://search.brave.com/search?q=AD1+FILE+IN+MEMORY+CAPTURE&source=desktop
+    Details: AD1 FILE IN MEMORY CAPTURE - Brave Search
+2026-06-15 17:30:49.627481 | Browser | Web Search | https://search.brave.com/search?q=WHAT+IS+AD1+FILE+IN+MEMORY+CAPTURE&source=web
+    Details: WHAT IS AD1 FILE IN MEMORY CAPTURE - Brave Search
+2026-06-15 17:31:18.005836 | Browser | Web Search | https://search.brave.com/search?q=WHAT+IS+AD1+FILE+IN+MEMORY+CAPTURE&source=web&summary=1&conversation=093508a5e76e9361783a113ad3c64a780c88
+    Details: WHAT IS AD1 FILE IN MEMORY CAPTURE - Brave Search
+2026-06-15 17:32:49.693704 | Browser | Visited Website | file:///C:/Program%20Files/AccessData/FTK%20Imager/help/ENU/FTKImager_UserGuide.pdf
+    Details: FTKImager_UserGuide.pdf
+2026-06-15 17:42:13.595476 | Browser | Web Search | https://www.bing.com/search?q=CODE+METER+RUNTIME&form=WSBEDG&qs=SW&cvid=b663af802e654ae595427040f2b4a81f&pq=CODE+METER+RUNTIME&cc=US&setlang=en-US&nclid=13DE15BF289238C92312DB2E430CD61F&ts=1781545332723&nclidts=1781545332&tsms=723&PC=WSBQUF
+    Details: CODE METER RUNTIME - Search
+2026-06-15 17:42:14.702818 | Browser | Visited Website | https://www.bing.com/?form=SPHPRE1&bbtnserp=1&bbtnfrm=WSBEDG
+    Details: CODE METER RUNTIME - Search
+2026-06-15 17:42:14.716218 | Browser | Web Search | https://www.bing.com/search?q=CODE+METER+RUNTIME&form=WSBEDG&qs=SW&cvid=b663af802e654ae595427040f2b4a81f&pq=CODE+METER+RUNTIME&cc=US&setlang=en-US&nclid=13DE15BF289238C92312DB2E430CD61F&ts=1781545332723&PC=WSBQUF
+    Details: CODE METER RUNTIME - Search
+2026-06-15 18:37:38.648592 | Browser | Web Search | https://search.brave.com/search?q=ftk+imager&source=desktop
+    Details: ftk imager - Brave Search
+2026-06-15 18:37:50.521983 | Browser | Visited Website | https://www.exterro.com/digital-forensics-software/ftk-imager
+    Details: Exterro - Digital Forensics | FTK Imager
+2026-06-15 19:12:45.191260 | Browser | Web Search | https://search.brave.com/search?q=event+id+7045&source=desktop
+    Details: event id 7045 - Brave Search
+2026-06-15 19:12:51.247841 | Browser | Web Search | https://search.brave.com/search?q=event+id+7045&source=desktop&summary=1&conversation=0935fe02b20a42af452bc6e23eefb5b7ea57
+    Details: event id 7045 - Brave Search
+2026-06-15 19:38:43.876029 | Browser | Web Search | https://search.brave.com/search?q=how+to+clear+commond+promt&source=desktop
+    Details: how to clear commond promt - Brave Search
+2026-06-15 19:38:48.311695 | Browser | Web Search | https://search.brave.com/search?q=how+to+clear+commond+promt&source=desktop&summary=1&conversation=0935c3260df2df80f1410b98a4ac98bfdd5f
+    Details: how to clear commond promt - Brave Search
+2026-06-17 06:06:29.654433 | Browser | Web Search | https://search.brave.com/search?q=andersbrownworth&source=desktop
+    Details: andersbrownworth - Brave Search
+2026-06-17 06:07:01.843588 | Browser | Visited Website | https://andersbrownworth.com/
+    Details: AndersBrownworth.com
+2026-06-17 06:07:55.387934 | Browser | Visited Website | https://andersbrownworth.com/blockchain/hash
+    Details: Blockchain Demo
+2026-06-17 19:14:28.552607 | Browser | Visited Website | file:///C:/Users/offic/OneDrive/Desktop/IRCTC%20%E2%80%93%20Official%20Indian%20Railway%20Catering%20&%20Tourism%20Corporation%20Portal.html
+    Details: IRCTC – Official Indian Railway Catering & Tourism Corporation Portal
+2026-06-19 11:00:46.066420 | Browser | Visited Website | https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=197&ct=1781866833&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1
+    Details: Continue
+2026-06-19 11:00:46.597436 | Browser | Visited Website | https://onedrive.live.com/?view=1&sw=redirect
+    Details: Continue
+2026-06-19 11:00:46.597436 | Browser | Visited Website | https://login.live.com/login.srf?wa=wsignin1%2E0&rpsnv=197&ct=1781866836&rver=7%2E5%2E2146%2E0&wp=MBI%5FSSL&wreply=https%3A%2F%2Fonedrive%2Elive%2Ecom%2F%5Fforms%2Fdefault%2Easpx%3Fapr%3D1&lc=1033&id=250206&guests=1&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&aadredir=1
+    Details: Continue
+2026-06-19 11:01:44.241300 | Browser | Visited Website | https://he.net/
+    Details: Hurricane Electric Internet Services - Internet Backbone and Colocation Provider
+2026-06-19 11:02:23.495675 | Browser | Web Search | https://search.brave.com/search?q=hurricane+electric&source=desktop
+    Details: hurricane electric - Brave Search
+2026-06-19 11:02:37.587187 | Browser | Web Search | https://search.brave.com/search?q=hurricane+electric+bjp&source=web
+    Details: hurricane electric bjp - Brave Search
+2026-06-19 11:04:59.941373 | Browser | Visited Website | https://bgp.he.net/dns/hackers.krd#_whois
+    Details: hackers.krd - bgp.he.net
+2026-06-19 11:05:35.730683 | Browser | Visited Website | https://bgp.he.net/dns/hackers.krd#_ipinfo
+    Details: hackers.krd - bgp.he.net
+2026-06-19 11:05:36.846091 | Browser | Visited Website | https://bgp.he.net/dns/hackers.krd#_SearchTab
+    Details: hackers.krd - bgp.he.net
+2026-06-19 11:05:57.123739 | Browser | Visited Website | https://bgp.he.net/dns/hackers.krd#_dns
+    Details: hackers.krd - bgp.he.net
+2026-06-19 11:06:25.297833 | Browser | Visited Website | https://bgp.he.net/
+    Details: Hurricane Electric BGP Toolkit
+2026-06-19 11:06:55.172415 | Browser | Visited Website | https://bgp.he.net/dns/hackers.krd#_SearchTab
+    Details: hackers.krd - bgp.he.net
+2026-06-19 11:06:57.436135 | Browser | Visited Website | https://bgp.he.net/dns/hackers.krd#_website
+    Details: hackers.krd - bgp.he.net
+2026-06-19 11:07:05.007613 | Browser | Visited Website | https://bgp.he.net/dns/hackers.krd#_ipinfo
+    Details: hackers.krd - bgp.he.net
+2026-06-19 11:07:06.165540 | Browser | Visited Website | https://bgp.he.net/dns/hackers.krd#_whois
+    Details: hackers.krd - bgp.he.net
+2026-06-19 11:07:07.884025 | Browser | Visited Website | https://bgp.he.net/dns/hackers.krd#_rdap
+    Details: hackers.krd - bgp.he.net
+2026-06-19 11:09:16.496175 | Browser | Visited Website | https://bgp.he.net/dns/blackshadow.cc#_error
+    Details: ERROR: blackshadow.cc Not Found - bgp.he.net
+2026-06-19 11:09:19.586591 | Browser | Visited Website | https://bgp.he.net/dns/hackers.krd
+    Details: hackers.krd - bgp.he.net
+2026-06-19 11:09:58.113548 | Browser | Visited Website | https://bgp.he.net/dns/blackshadow.cc
+    Details: ERROR: blackshadow.cc Not Found - bgp.he.net
+2026-06-19 11:10:16.557842 | Browser | Visited Website | http://crt.sh/
+    Details: 502 Bad Gateway
+2026-06-19 11:10:38.154591 | Browser | Visited Website | https://bgp.he.net/dns/crt.sh
+    Details: crt.sh - bgp.he.net
+2026-06-19 11:10:43.961152 | Browser | Visited Website | https://bgp.he.net/dns/crt.sh#_SearchTab
+    Details: crt.sh - bgp.he.net
+2026-06-19 11:12:03.824491 | Browser | Visited Website | https://crt.sh/?q=crt.sh
+    Details: crt.sh | crt.sh
+2026-06-19 11:13:09.544986 | Browser | Visited Website | https://crt.sh/?q=blackshadow.sh
+    Details: crt.sh | blackshadow.sh
+2026-06-19 11:13:21.013822 | Browser | Visited Website | https://crt.sh/
+    Details: 502 Bad Gateway
+2026-06-19 11:13:22.384042 | Browser | Web Search | https://search.brave.com/search?q=crt%2Csh&source=desktop
+    Details: crt,sh - Brave Search
+2026-06-19 16:31:27.098485 | Browser | Visited Website | file:///C:/Users/offic/AppData/Local/Temp/106e6e91-eace-4401-a176-4ff26fe57427_public-archivedwl-976.zip.427/03.%20OSINT%20Challenge%20for%20Participant/OSINT%20Information%20Gathering%20Challenge.pdf
+    Details: OSINT Information Gathering Challenge.pdf
+2026-06-19 16:31:27.472283 | Browser | Visited Website | https://onedrive.live.com/
+    Details: OneDrive
+2026-06-19 16:31:28.538109 | Browser | Visited Website | https://onedrive.live.com/?view=1
+    Details: Home - OneDrive
+2026-06-19 16:37:50.334193 | Browser | Reverse Email Lookup | https://emailsherlock.com/emailsearch/sona_fs@yahoo.com
+    Details: Email Lookup: Who is behind sona_fs@yahoo.com? | EmailSherlock
+2026-06-19 16:37:50.334193 | Browser | Reverse Email Lookup | https://www.emailsherlock.com/emailsearch/sona_fs@yahoo.com
+    Details: Email Lookup: Who is behind sona_fs@yahoo.com? | EmailSherlock
+2026-06-19 16:37:50.334193 | Browser | Reverse Email Lookup | https://www.emailsherlock.com/emailsearch/sona_fs@yahoo.com/
+    Details: Email Lookup: Who is behind sona_fs@yahoo.com? | EmailSherlock
+2026-06-19 16:39:55.799104 | Browser | Web Search | https://search.brave.com/search?q=sona_fs%40yahoo.com&source=desktop
+    Details: sona_fs@yahoo.com - Brave Search
+2026-06-19 16:40:11.558182 | Browser | Web Search | https://search.brave.com/search?q=reverse+lookup&source=web
+    Details: reverse lookup - Brave Search
+2026-06-19 16:40:47.096394 | Browser | Web Search | https://search.brave.com/search?q=reverse+lookup+yahoo&source=web
+    Details: reverse lookup yahoo - Brave Search
+2026-06-19 16:42:07.942219 | Browser | Visited Website | https://epieos.com/?r=1
+    Details: Epieos, the ultimate OSINT tool
+2026-06-19 16:43:00.378689 | Browser | Visited Website | https://calendar.google.com/calendar/u/0/embed?src=sona_fs@yahoo.com
+    Details: Google Calendar - Sign in to Access & Edit Your Schedule
+2026-06-19 16:43:00.378689 | Browser | Visited Website | https://calendar.google.com/calendar/newembed?src=sona_fs@yahoo.com
+    Details: Google Calendar - Sign in to Access & Edit Your Schedule
+2026-06-19 16:43:00.378689 | Browser | Visited Website | https://accounts.google.com/ServiceLogin?service=cl&passive=1209600&continue=https://calendar.google.com/calendar/newembed?src%3Dsona_fs@yahoo.com&followup=https://calendar.google.com/calendar/newembed?src%3Dsona_fs@yahoo.com
+    Details: Google Calendar - Sign in to Access & Edit Your Schedule
+2026-06-19 16:43:00.378689 | Browser | Visited Website | https://accounts.google.com/InteractiveLogin?continue=https://calendar.google.com/calendar/newembed?src%3Dsona_fs@yahoo.com&followup=https://calendar.google.com/calendar/newembed?src%3Dsona_fs@yahoo.com&passive=1209600&service=cl&dsh=S941014402:1781887379514646
+    Details: Google Calendar - Sign in to Access & Edit Your Schedule
+2026-06-19 16:43:00.378689 | Browser | Visited Website | https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fnewembed%3Fsrc%3Dsona_fs%40yahoo.com&dsh=S941014402%3A1781887379514646&followup=https%3A%2F%2Fcalendar.google.com%2Fcalendar%2Fnewembed%3Fsrc%3Dsona_fs%40yahoo.com&passive=1209600&service=cl&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AcDsRvywp8zcSBEIwCInBNZU9KNtfxydqdXj-8RRRS7w9adkf8h8Z7ovSl4FGdC1H9LlWuU5TOFjIQ
+    Details: Google Calendar - Sign in to Access & Edit Your Schedule
+2026-06-19 16:46:16.156554 | Browser | Visited Website | https://www.google.com/maps/contrib/114167390745179335990/photos/@28.2372927,77.4990866,7z/data=!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D
+    Details: Google Maps
+2026-06-19 16:46:17.374492 | Browser | Visited Website | https://www.google.com/maps/contrib/114167390745179335990/photos/@27.2503953,77.1035788,6z/data=!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D
+    Details: Google Maps
+2026-06-19 16:46:17.974652 | Browser | Visited Website | https://www.google.com/maps/contrib/114167390745179335990/photos/@25.2503248,76.3125632,5z/data=!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D
+    Details: Google Maps
+2026-06-19 16:46:19.372355 | Browser | Visited Website | https://www.google.com/maps/contrib/114167390745179335990/photos/@21.1517963,74.7305319,4z/data=!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D
+    Details: Google Maps
+2026-06-19 16:46:22.011654 | Browser | Visited Website | https://www.google.com/maps/contrib/114167390745179335990/photos/@13.4482057,71.866182,3.07z/data=!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D
+    Details: Google Maps
+2026-06-19 16:46:22.919442 | Browser | Visited Website | https://www.google.com/maps/contrib/114167390745179335990/photos/@12.6249702,71.5664694,3z/data=!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D
+    Details: Google Maps
+2026-06-19 16:46:35.341811 | Browser | Visited Website | https://www.google.com/maps/contrib/114167390745179335990/photos/@23.7910394,-111.9491556,3z/data=!4m3!8m2!3m1!1e1?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D
+    Details: Google Maps
+2026-06-19 16:47:44.487881 | Browser | Visited Website | https://www.google.com/maps/contrib/114167390745179335990
+    Details: Google Maps
+2026-06-19 16:47:46.416151 | Browser | Visited Website | https://www.google.com/maps/contrib/114167390745179335990/reviews/@29.1542981,77.8698752,9z?g_ep=Eg1tbF8yMDI2MDYxNF8wIJvbDyoASAJQAQ%3D%3D
+    Details: Google Maps
+2026-06-19 16:47:51.428049 | Browser | Visited Website | https://www.google.com/maps/contrib/114167390745179335990/reviews/@27.0726183,77.8891433,6z?g_ep=Eg1tbF8yMDI2MDYxNF8wIJvbDyoASAJQAQ%3D%3D
+    Details: Google Maps
+2026-06-19 16:48:13.083234 | Browser | Visited Website | https://epieos.com/
+    Details: Epieos, the ultimate OSINT tool
+2026-06-19 16:48:17.296169 | Browser | Web Search | https://search.brave.com/search?q=epieos&source=desktop
+    Details: epieos - Brave Search
+2026-06-19 16:53:40.035686 | Browser | Reverse Email Lookup | https://www.emailsherlock.com/check-email-blacklist/192.178.183.101/
+    Details: Email Address Blacklist Results for 192.178.183.101 | Emailsherlock
+2026-06-19 16:54:55.080995 | Browser | Visited Website | https://heylocate.mobi/reverse-email-address-lookup/search-results/?email=sona_fs%40yahoo.com&form_type=reverse_email_form
+    Details: Search results - HeyLocate
+2026-06-19 16:55:06.321010 | Browser | Visited Website | https://tracking.truthfinder.com/?a=1475&oc=77&c=494&s1=en_email_lookup_address_search_results
+    Details: Reverse Email Lookup | Find The Owner With An Email Search
+2026-06-19 16:55:06.321010 | Browser | Visited Website | https://tracking.truthfinder.com/?dip=2401:4900:88d7:a475:2c08:e06c:ee03:1c0c&a=1475&oc=77&c=494&s1=en_email_lookup_address_search_results&ch-redir=1&ckmxid=d8qn8prb00014c4fdq10
+    Details: Reverse Email Lookup | Find The Owner With An Email Search
+2026-06-19 16:56:03.110407 | Browser | Visited Website | https://www.truthfinder.com/email-lookup/?utm_source=GG70&traffic[source]=GG70&utm_medium=affiliate&traffic[medium]=affiliate&utm_campaign=en_email_lookup_address_search_results&traffic[campaign]=:en_email_lookup_address_search_results&utm_term=&traffic[term]=&utm_content=&traffic[content]=&s1=en_email_lookup_address_search_results&s2=&s3=&s4=&s5=&traffic[funnel]=tf&traffic[sub_id]=en_email_lookup_address_search_results&traffic[s2]=&ck_rsid=4051088315
+    Details: Reverse Email Lookup | Find The Owner With An Email Search
+2026-06-19 16:56:22.417472 | Browser | Web Search | https://search.brave.com/search?q=virustotal&source=desktop
+    Details: virustotal - Brave Search
+2026-06-19 16:56:26.612200 | Browser | Visited Website | https://www.virustotal.com/gui/
+    Details: VirusTotal - Home
+2026-06-19 16:56:29.382474 | Browser | Visited Website | https://www.virustotal.com/gui/home/upload
+    Details: VirusTotal - Home
+2026-06-19 16:56:32.492740 | Browser | Visited Website | https://www.virustotal.com/gui/home/url
+    Details: VirusTotal - Home
+2026-06-19 16:56:35.100690 | Browser | Visited Website | https://www.virustotal.com/gui/search?query=https%3A%2F%2Fwww.truthfinder.com%2Femail-lookup%2F%3Ftraffic%5Bsource%5D%3DGG70%26traffic%5Bmedium%5D%3Daffiliate%26traffic%5Bcampaign%5D%3D%3Aen_email_lookup_address_search_results%26utm_term%3D%26traffic%5Bterm%5D%3D%26utm_content%3D%26traffic%5Bcontent%5D%3D%26s1%3Den_email_lookup_address_search_results%26s2%3D%26s3%3D%26s4%3D%26s5%3D%26traffic%5Bfunnel%5D%3Dtf%26traffic%5Bsub_id%5D%3Den_email_lookup_address_search_results%26traffic%5Bs2%5D%3D%26ck_rsid%3D4051088315
+    Details: VirusTotal - Search - https://www.truthfinder.com/email-lookup/?traffic[source]=GG70
+2026-06-19 16:56:36.742217 | Browser | Visited Website | https://www.virustotal.com/gui/url-analysis/u-da9edc2cd72055229af1647e623f5156df6b36f3024ad22911b0af4de533673d-83e042fc
+    Details: VirusTotal - Analysing URL
+2026-06-19 16:56:50.379232 | Browser | Visited Website | https://www.virustotal.com/gui/url/da9edc2cd72055229af1647e623f5156df6b36f3024ad22911b0af4de533673d?nocache=1
+    Details: VirusTotal - URL
+2026-06-19 16:57:13.002947 | Browser | Visited Website | https://www.truthfinder.com/email/search?email-address=c29uYV9mc0B5YWhvby5jb20%3D&cta-email-search-submit=&traffic%5Bsource%5D=tfseo
+    Details: TruthFinder - Email Address Search
+2026-06-19 16:57:47.303135 | Browser | Visited Website | https://www.virustotal.com/gui/search?query=https%3A%2F%2Fwww.truthfinder.com%2Femail%2Fsearch%3Femail-address%3Dc29uYV9mc0B5YWhvby5jb20%253D%26cta-email-search-submit%3D%26traffic%255Bsource%255D%3Dtfseo
+    Details: VirusTotal - Search - https://www.truthfinder.com/email/search?email-address=c29uYV9mc0B5YWhvby5jb20=
+2026-06-19 16:57:49.132128 | Browser | Visited Website | https://www.virustotal.com/gui/url-analysis/u-b577a54c8ee52e7cd9e9cfc034c3dd54f805cf69081ae40b1ed99a91fe10d51d-294583d1
+    Details: VirusTotal - Analysing URL
+2026-06-19 16:58:07.899189 | Browser | Visited Website | https://www.virustotal.com/gui/url/b577a54c8ee52e7cd9e9cfc034c3dd54f805cf69081ae40b1ed99a91fe10d51d?nocache=1
+    Details: VirusTotal - URL
+2026-06-19 16:58:43.761838 | Browser | Reverse Email Lookup | https://www.emailsherlock.com/dns-lookup/calendar.google.com/
+    Details: DNS lookup · calendar.google.com · Emailsherlock
+2026-06-19 16:59:08.237269 | Browser | Web Search | https://search.brave.com/search?q=iplookup&source=desktop
+    Details: iplookup - Brave Search
+2026-06-19 16:59:13.458934 | Browser | Web Search | https://search.brave.com/search?q=iplookup&source=desktop&summary=1&conversation=09395d9f60af1331e05b92f1b49ec9fd5c4f
+    Details: iplookup - Brave Search
+2026-06-19 16:59:13.582733 | Browser | Visited Website | https://whatismyipaddress.com/ip-lookup
+    Details: Instant IP Address Lookup
+2026-06-19 16:59:22.581288 | Browser | Visited Website | https://whatismyipaddress.com/ip/192.178.183.113
+    Details: IP Address Lookup for 192.178.183.113 in Frankfurt am Main, Germany
+2026-06-19 16:59:58.617087 | Browser | Reverse Email Lookup | https://www.emailsherlock.com/dns-lookup
+    Details: DNS Lookup: Check DNS Records for Any Domain | Emailsherlock
+2026-06-19 17:00:00.715592 | Browser | Reverse Email Lookup | https://www.emailsherlock.com/tools
+    Details: Free Tools to optimize your Email Marketing Data
+2026-06-19 17:00:02.784793 | Browser | Reverse Email Lookup | https://www.emailsherlock.com/verify
+    Details: Email Verifier: Verify Any Address, No Sending | EmailSherlock
+2026-06-19 17:00:06.906795 | Browser | Reverse Email Lookup | https://www.emailsherlock.com/verify/result/691be1fca265226529a884bc6408dc4d
+    Details: Verify Result | Emailsherlock
+2026-06-19 17:02:32.837564 | Browser | Web Search | https://search.brave.com/search?q=osint+framework&source=desktop
+    Details: osint framework - Brave Search
+2026-06-19 17:02:36.616739 | Browser | Visited Website | https://osintframework.com/
+    Details: OSINT Framework
+2026-06-19 17:04:30.178944 | Browser | Visited Website | https://lookup-id.com/
+    Details: Find my Facebook ID | Find Facebook Group ID | Find Facebook Page ID
+2026-06-19 17:05:50.875788 | Browser | Visited Website | https://www.social-searcher.com/
+    Details: Social Searcher - Free Social Media Search Engine
+2026-06-19 17:06:06.861050 | Browser | Visited Website | https://www.social-searcher.com/google-social-search/?q=sona_fs%40yahoo.com
+    Details: Social Media Search
+2026-06-19 17:06:20.702070 | Browser | Visited Website | https://www.social-searcher.com/google-social-search/?q=sona_fs
+    Details: Social Media Search
+2026-06-19 17:06:44.603391 | Browser | Visited Website | https://heylocate.mobi/reverse-email-address-lookup/loading/?email=sona_fs%40yahoo.com&form_type=reverse_email_form
+    Details: Loading - HeyLocate
+2026-06-19 17:06:46.737501 | Browser | Visited Website | https://heylocate.mobi/reverse-email-address-lookup/yahoo/
+    Details: Free Reverse Yahoo Lookup
+2026-06-19 17:07:02.462066 | Browser | Visited Website | https://itools.com/tool/yahoo-email-address-search
+    Details: Yahoo Email Search › Find someone's email address - iTools
+2026-06-19 17:07:19.215012 | Browser | Visited Website | http://itools.com/tag/email
+    Details: Email tools on iTools
+2026-06-19 17:07:22.427027 | Browser | Visited Website | http://itools.com/tool/yahoo-email-address-search
+    Details: Yahoo Email Search › Find someone's email address - iTools
+2026-06-19 17:07:24.944019 | Browser | Web Search | https://search.brave.com/search?q=reverse+lookup+yahoo&source=web&summary=1&conversation=0939364ab8d7e2e4fd6ee83dbe18f384940d
+    Details: reverse lookup yahoo - Brave Search
+2026-06-19 17:07:41.891342 | Browser | Reverse Email Lookup | https://www.emailsherlock.com/verify#email=sona_fs%40yahoo.com
+    Details: Email Verifier: Verify Any Address, No Sending | EmailSherlock
+2026-06-19 17:07:44.388688 | Browser | Web Search | https://search.brave.com/search?q=%22sona_fs%40yahoo.com%22&source=web
+    Details: "sona_fs@yahoo.com" - Brave Search
+2026-06-19 17:08:52.365673 | Browser | Visited Website | https://rocketreach.co/david-sona-email_25813119?__cf_chl_rt_tk=BwN1eaAV2IOliE6qOgSdRbjjEfk.5QkFMbTQWjcgLT0-1781888931-1.0.1.1-76L35CtMxjtmaguZ7YhiGUVZ09S21wcJfJXdb9FPEDI
+    Details: Just a moment...
+2026-06-19 17:08:53.228782 | Browser | Visited Website | https://rocketreach.co/david-sona-email_25813119
+    Details: Just a moment...
+2026-06-19 17:08:59.764410 | Browser | Web Search | https://search.brave.com/search?q=sona_fs%40yahoo.com&source=web
+    Details: sona_fs@yahoo.com - Brave Search
+2026-06-19 17:09:17.521948 | Browser | Opened Facebook Profile | https://www.facebook.com/login
+    Details: Facebook
+2026-06-19 17:10:50.408252 | Browser | Opened Facebook Profile | https://www.facebook.com/sona.fs.7/
+    Details: Sona Fs (@sona.fs.7) • Facebook, Connect with friends | Facebook
+2026-06-19 17:11:07.471670 | Browser | Opened Facebook Profile | https://search.brave.com/search?q=%22sona_fs%40yahoo.com%22+site%3Afacebook.com&source=desktop
+    Details: "sona_fs@yahoo.com" site:facebook.com - Brave Search
+2026-06-19 17:11:32.812774 | Browser | Web Search | https://search.brave.com/search?q=%22sona_fs%40yahoo.com%22+filetype%3Apdf&source=desktop
+    Details: "sona_fs@yahoo.com" filetype:pdf - Brave Search
+2026-06-19 17:11:36.283017 | Browser | Web Search | https://search.brave.com/search?q=%22sona_fs%40yahoo.com%22+filetype%3Apdf&source=desktop&summary=1&conversation=0939508f3a2a3d7b810480b412cb3fc0473a
+    Details: "sona_fs@yahoo.com" filetype:pdf - Brave Search
+2026-06-19 17:12:05.073032 | Browser | Reverse Email Lookup | https://www.emailsherlock.com/email-reverse-search/sona_fs@yahoo.com/
+    Details: Email Lookup: Who is behind sona_fs@yahoo.com? | EmailSherlock
+2026-06-19 17:12:23.211398 | Browser | Visited Website | http://yahoo.com/
+    Details: Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos
+2026-06-19 17:12:23.211398 | Browser | Visited Website | https://yahoo.com/
+    Details: Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos
+2026-06-19 17:12:43.883080 | Browser | Web Search | https://search.yahoo.com/search?p=sona_fs%40yahoo.com&fr=yfp-t&fr2=p%3Afp%2Cm%3Asb&fp=1
+    Details: sona_fs@yahoo.com - Yahoo Search Results
+2026-06-19 17:13:20.534841 | Browser | Reverse Email Lookup | https://tomba.io/reverse-email-lookup
+    Details: Reverse Email Lookup: Find Who Owns Any Email | Tomba - Tomba
+2026-06-19 17:19:00.548907 | Browser | Web Search | https://search.yahoo.com/search;_ylt=AwrjeZqLeDVqBAMA3gtXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BhZ2luYXRpb24-?fr=yfp-t&fr2=p%3Afp%2Cm%3Asb&fp=1&p=sona_fs%40yahoo.com&b=8&pz=7&bct=0&xargs=0
+    Details: sona_fs@yahoo.com - Yahoo Search Results
+2026-06-19 17:19:14.299175 | Browser | Opened Facebook Profile | https://www.facebook.com/Sonafs2021/
+    Details: Sona FS | Facebook
+2026-06-19 17:21:31.042665 | Browser | Web Search | https://search.yahoo.com/search;_ylt=Awr9zlEDejVqGwIAIU5XNyoA;_ylc=X1MDMjc2NjY3OQRfcgMyBGFjdG4DY2xrBGZyA3lmcC10BGZyMgNwOnMsdjp3LG06c2Esc2FfbWs6OCxjdDpzYQRncHJpZANrTzlfZ0k4V1R0U2ZZel9hQl9IYmVBBGhhc0ltYWdlA2ZhbHNlBG0DOARuX3JzbHQDMARuX3N1Z2cDMQRvcmlnaW4Dc2VhcmNoLnlhaG9vLmNvbQRwb3MDMQRwcXN0cgNlbWFpIGluZm9ybWF0aW9uIGxvb2sEcHFzdHJsAzIxBHFzdHJsAzIzBHF1ZXJ5A2VtYWklMjBpbmZvcm1hdGlvbiUyMGxvb2t1cARzZWMDc2VhcmNoBHNsawNhc3Npc3QEdDIDc2VhcmNoBHQ0A2Fzc2lzdAR0X3N0bXADMTc4MTg4OTY5MA--?fp=1&fr=yfp-t&p=emai+information+lookup&fr2=p%3As%2Cv%3Aw%2Cm%3Asa%2Csa_mk%3A8%2Cct%3Asa&mkr=8
+    Details: emai information lookup - Yahoo Search Results
+2026-06-19 17:21:38.094426 | Browser | Reverse Email Lookup | https://mailmeteor.com/tools/reverse-email-lookup
+    Details: Reverse Email Lookup: Who’s Behind That Email? - Mailmeteor
+2026-06-19 17:21:57.234171 | Browser | Viewed LinkedIn Profile | https://in.linkedin.com/in/sona-fs-880b88247
+    Details: Sign Up | LinkedIn
+2026-06-19 17:21:58.274068 | Browser | Viewed LinkedIn Profile | https://www.linkedin.com/authwall?trk=gf&trkInfo=AQEhjHeiF_O0LwAAAZ7g508gdFRaEbwbFKyXxQtoJFauPGNJF-OPaD0Gsvy7G_G3FXtixf0tALRCj2DTkUPRypFSZ-PaY70N6uNY5nThCIbuKfkoR1V3HNkxUUHVzNUutmPwmsg=&original_referer=&sessionRedirect=https%3A%2F%2Fin.linkedin.com%2Fin%2Fsona-fs-880b88247
+    Details: Sign Up | LinkedIn
+2026-06-19 17:23:41.809294 | Browser | Viewed Instagram Profile | https://www.instagram.com/sona_fs/
+    Details: Sona (@sona_fs) • Instagram photos and videos
+2026-06-19 17:25:14.511340 | Browser | Reverse Email Lookup | https://mailmeteor.com/tools/reverse-email-lookup?email=snadella%40microsoft.com
+    Details: Reverse Email Lookup: Who’s Behind That Email? - Mailmeteor
+2026-06-19 17:25:18.241185 | Browser | Reverse Email Lookup | https://mailmeteor.com/tools/reverse-email-lookup?email=snadella@microsoft.com
+    Details: Reverse Email Lookup: Who’s Behind That Email? - Mailmeteor
+2026-06-19 17:25:22.162780 | Browser | Reverse Email Lookup | https://mailmeteor.com/tools/reverse-email-lookup?email=sona_fs%40yahoo.com
+    Details: Reverse Email Lookup: Who’s Behind That Email? - Mailmeteor
+2026-06-19 17:26:09.075594 | Browser | Visited Website | https://www.yahoo.com/
+    Details: Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos
+2026-06-19 17:26:19.525566 | Browser | Web Search | https://search.brave.com/search?q=intelx&source=desktop
+    Details: intelx - Brave Search
+2026-06-19 17:26:23.519144 | Browser | OSINT Search | https://intelx.io/
+    Details: Intelligence X
+2026-06-19 17:27:09.563516 | Browser | OSINT Search | https://intelx.io/?did=07e87031-948d-4484-9b81-34c337772da8
+    Details: Intelligence X
+2026-06-19 17:27:47.892289 | Browser | OSINT Search | https://intelx.io/?did=16942ee0-afa7-4add-95d6-eeae4fba33fb
+    Details: Intelligence X
+2026-06-19 17:27:57.390473 | Browser | OSINT Search | https://intelx.io/?s=sona_fs%40yahoo.com
+    Details: Intelligence X
+2026-06-19 17:28:26.619253 | Browser | Web Search | https://search.brave.com/search?q=site%3A*+%22sona_fs%22&source=desktop
+    Details: site:* "sona_fs" - Brave Search
+2026-06-19 17:28:43.305806 | Browser | Web Search | https://search.brave.com/search?q=site%3A*+%22sona_fs%40yahoo.com%22&source=web
+    Details: site:* "sona_fs@yahoo.com" - Brave Search
+2026-06-19 17:29:26.353851 | Browser | Web Search | https://search.brave.com/search?q=site%3A*+%22sona+fs%22&source=web&_rr=1
+    Details: site:* "sona fs" - Brave Search
+2026-06-19 17:29:26.526545 | Browser | Web Search | https://search.brave.com/search?q=site%3A*+%22sona+fs%22&source=web
+    Details: site:* "sona fs" - Brave Search
+2026-06-19 17:29:33.890274 | Browser | Web Search | https://search.brave.com/search?q=site%3A*%20%22sona%20fs%22%20!b
+    Details: site:* "sona fs" - Search
+2026-06-19 17:29:33.890274 | Browser | Web Search | https://www.bing.com/search?q=site%3A%2A%20%22sona%20fs%22
+    Details: site:* "sona fs" - Search
+2026-06-19 17:30:36.853104 | Browser | Visited Website | https://www.bing.com/ck/a?!&&p=28fcf0d8fe9e552d96fbf3f9902cd13ef0a41073b1e053f4506f9c413ae01de3JmltdHM9MTc4MTgyNzIwMA&ptn=3&ver=2&hsh=4&fclid=12f9b3b6-d476-6242-305d-a4cbd5e36311&u=a1aHR0cHM6Ly9wci5saW5rZWRpbi5jb20vam9icy9zb25hLWZzJTQweWFob28lMkVjb20tZW1wbGVvcw&ntb=1
+2026-06-19 17:30:36.881635 | Browser | Web Search | https://www.bing.com/search?q=site%3A%2A%20%22sona%20fs%22&rdr=1&rdrig=2D5219C9933742DF90B563E569EAFF34
+    Details: bing.com/ck/a?!&&p=28fcf0d8fe9e552d96fbf3f9902cd13ef0a41073b1e053f4506f9c413ae01de3JmltdHM9MTc4MTgyNzIwMA&ptn=3&ver=2&hsh=4&fclid=12f9b3b6-d476-6242-305d-a4cbd5e36311&u=a1aHR0cHM6Ly9wci5saW5rZWRpbi5jb20vam9icy9zb25hLWZzJTQweWFob28lMkVjb20tZW1wbGVvcw&ntb=1
+2026-06-19 17:30:38.403924 | Browser | Viewed LinkedIn Profile | https://pr.linkedin.com/jobs/sona-fs%40yahoo%2Ecom-empleos
+    Details: 407 Sona Fs@yahoo.com jobs in Puerto Rico
+2026-06-19 17:30:42.626084 | Browser | Viewed LinkedIn Profile | https://pr.linkedin.com/jobs/sona-fs%40yahoo%2Ecom-empleos?position=1&pageNum=0
+    Details: 407 Sona Fs@yahoo.com jobs in Puerto Rico
+2026-06-19 20:42:08 | Event Log | Event ID 7001 | System
+    Details: Event ID 7001
+2026-06-19 20:42:08 | Event Log | Event ID 267 | System
+    Details: Event ID 267
+2026-06-19 20:42:08 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 20:42:09 | Event Log | Event ID 10016 | System
+    Details: Event ID 10016
+2026-06-19 20:42:09 | Event Log | Event ID 10016 | System
+    Details: Event ID 10016
+2026-06-19 20:42:09 | Event Log | System Event | System
+    Details: Event ID 1
+2026-06-19 20:42:16 | Event Log | Event ID 24 | System
+    Details: Event ID 24
+2026-06-19 20:42:16 | Event Log | Event ID 24 | System
+    Details: Event ID 24
+2026-06-19 20:42:16 | Event Log | Event ID 24 | System
+    Details: Event ID 24
+2026-06-19 20:42:16 | Event Log | Event ID 24 | System
+    Details: Event ID 24
+2026-06-19 20:42:17 | Event Log | Event ID 12 | System
+    Details: Event ID 12
+2026-06-19 20:42:19 | Event Log | Event ID 4199 | System
+    Details: Event ID 4199
+2026-06-19 20:42:20 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 20:42:20 | Event Log | Event ID 12 | System
+    Details: Event ID 12
+2026-06-19 20:42:21 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 20:42:21 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 20:42:21 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 20:42:31 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-19 20:42:33 | Event Log | Event ID 5 | System
+    Details: Event ID 5
+2026-06-19 20:42:34 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 20:42:34 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 20:42:34 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 20:42:34 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 20:42:38 | Event Log | Event ID 7045 | System
+    Details: Event ID 7045
+2026-06-19 20:42:52 | Event Log | Event ID 10016 | System
+    Details: Event ID 10016
+2026-06-19 20:43:18 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-19 20:44:41 | Event Log | Event ID 44 | System
+    Details: Event ID 44
+2026-06-19 20:45:36 | Event Log | Event ID 43 | System
+    Details: Event ID 43
+2026-06-19 20:45:49 | Event Log | Event ID 19 | System
+    Details: Event ID 19
+2026-06-19 20:46:04 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-19 21:04:01 | Event Log | Event ID 37 | System
+    Details: Event ID 37
+2026-06-19 21:21:36 | Event Log | System Event | System
+    Details: Event ID 1
+2026-06-19 21:21:36 | Event Log | Event ID 24 | System
+    Details: Event ID 24
+2026-06-19 21:21:36 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 21:21:36 | Event Log | Event ID 506 | System
+    Details: Event ID 506
+2026-06-19 21:21:36 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 21:22:18 | Event Log | Event ID 105 | System
+    Details: Event ID 105
+2026-06-19 21:22:19 | Event Log | Event ID 12 | System
+    Details: Event ID 12
+2026-06-19 21:22:20 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 21:22:20 | Event Log | Event ID 507 | System
+    Details: Event ID 507
+2026-06-19 21:22:21 | Event Log | Event ID 7045 | System
+    Details: Event ID 7045
+2026-06-19 21:22:24 | Event Log | Event ID 506 | System
+    Details: Event ID 506
+2026-06-19 21:22:24 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 21:22:29 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 21:47:19 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 21:47:19 | Event Log | Event ID 507 | System
+    Details: Event ID 507
+2026-06-19 21:47:19 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-19 21:47:19 | Event Log | Event ID 7045 | System
+    Details: Event ID 7045
+2026-06-19 21:47:49 | Event Log | Event ID 7045 | System
+    Details: Event ID 7045
+2026-06-19 21:47:53 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-19 21:47:53 | Event Log | Event ID 4003 | System
+    Details: Event ID 4003
+2026-06-19 21:48:34 | Event Log | Event ID 7045 | System
+    Details: Event ID 7045
+2026-06-19 21:48:46 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-19 21:50:39 | Event Log | Event ID 7045 | System
+    Details: Event ID 7045
+2026-06-19 21:50:48 | Event Log | Event ID 105 | System
+    Details: Event ID 105
+2026-06-19 21:50:50 | Event Log | Event ID 12 | System
+    Details: Event ID 12
+2026-06-19 21:51:35 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-19 21:52:16 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 21:52:16 | Event Log | Event ID 700 | System
+    Details: Event ID 700
+2026-06-19 21:52:16 | Event Log | Event ID 700 | System
+    Details: Event ID 700
+2026-06-19 21:52:16 | Event Log | Event ID 506 | System
+    Details: Event ID 506
+2026-06-19 21:52:16 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 21:52:47 | Event Log | Event ID 506 | System
+    Details: Event ID 506
+2026-06-19 21:52:47 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 21:52:47 | Event Log | Event ID 507 | System
+    Details: Event ID 507
+2026-06-19 21:52:52 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 21:56:06 | Event Log | Event ID 701 | System
+    Details: Event ID 701
+2026-06-19 21:56:06 | Event Log | Event ID 701 | System
+    Details: Event ID 701
+2026-06-19 21:56:07 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 21:56:07 | Event Log | Event ID 507 | System
+    Details: Event ID 507
+2026-06-19 21:56:07 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-19 21:56:07 | Event Log | Event ID 7045 | System
+    Details: Event ID 7045
+2026-06-19 21:56:39 | Event Log | Event ID 7045 | System
+    Details: Event ID 7045
+2026-06-19 21:56:47 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-19 22:01:29 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 22:01:29 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 22:01:29 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 22:11:19 | Event Log | Event ID 10016 | System
+    Details: Event ID 10016
+2026-06-19 22:47:19 | Event Log | Event ID 5 | System
+    Details: Event ID 5
+2026-06-19 22:47:19 | Event Log | Event ID 2 | System
+    Details: Event ID 2
+2026-06-19 22:47:20 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 22:47:20 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 22:47:20 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 22:47:20 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-19 22:59:53 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 22:59:53 | Event Log | Event ID 700 | System
+    Details: Event ID 700
+2026-06-19 22:59:53 | Event Log | Event ID 700 | System
+    Details: Event ID 700
+2026-06-19 22:59:53 | Event Log | Event ID 506 | System
+    Details: Event ID 506
+2026-06-19 22:59:53 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 23:00:16 | Event Log | Event ID 701 | System
+    Details: Event ID 701
+2026-06-19 23:00:16 | Event Log | Event ID 701 | System
+    Details: Event ID 701
+2026-06-19 23:00:17 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-19 23:00:17 | Event Log | Event ID 507 | System
+    Details: Event ID 507
+2026-06-19 23:00:47 | Event Log | Event ID 7045 | System
+    Details: Event ID 7045
+2026-06-19 23:00:57 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-19 23:48:18 | Event Log | Event ID 16 | System
+    Details: Event ID 16
+2026-06-19 23:48:18 | Event Log | Event ID 16 | System
+    Details: Event ID 16
+2026-06-19 23:53:14 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-19 23:55:20 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-19 23:59:12 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-20 00:01:25 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-20 00:02:33 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:02:33 | Event Log | Event ID 524 | System
+    Details: Event ID 524
+2026-06-20 00:02:34 | Event Log | Event ID 42 | System
+    Details: Event ID 42
+2026-06-20 00:02:37 | Event Log | Event ID 107 | System
+    Details: Event ID 107
+2026-06-20 00:03:03 | Event Log | Event ID 105 | System
+    Details: Event ID 105
+2026-06-20 00:03:03 | Event Log | Event ID 24709 | System
+    Details: Event ID 24709
+2026-06-20 00:03:03 | Event Log | Event ID 24711 | System
+    Details: Event ID 24711
+2026-06-20 00:03:03 | Event Log | System Event | System
+    Details: Event ID 1
+2026-06-20 00:03:04 | Event Log | Event ID 12 | System
+    Details: Event ID 12
+2026-06-20 00:03:04 | Event Log | Event ID 1038 | System
+    Details: Event ID 1038
+2026-06-20 00:03:04 | Event Log | Event ID 1041 | System
+    Details: Event ID 1041
+2026-06-20 00:03:04 | Event Log | Event ID 10317 | System
+    Details: Event ID 10317
+2026-06-20 00:03:05 | Event Log | Event ID 12 | System
+    Details: Event ID 12
+2026-06-20 00:03:05 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:03:05 | Event Log | Event ID 507 | System
+    Details: Event ID 507
+2026-06-20 00:03:05 | Event Log | Event ID 506 | System
+    Details: Event ID 506
+2026-06-20 00:03:05 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:03:05 | Event Log | Event ID 247 | System
+    Details: Event ID 247
+2026-06-20 00:03:05 | Event Log | Event ID 27 | System
+    Details: Event ID 27
+2026-06-20 00:03:05 | Event Log | Event ID 25 | System
+    Details: Event ID 25
+2026-06-20 00:03:05 | Event Log | Event ID 32 | System
+    Details: Event ID 32
+2026-06-20 00:03:05 | Event Log | Event ID 18 | System
+    Details: Event ID 18
+2026-06-20 00:03:05 | Event Log | Event ID 30 | System
+    Details: Event ID 30
+2026-06-20 00:03:05 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-20 00:03:06 | Event Log | Event ID 7045 | System
+    Details: Event ID 7045
+2026-06-20 00:03:06 | Event Log | System Event | System
+    Details: Event ID 1
+2026-06-20 00:03:16 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-20 00:03:35 | Event Log | Event ID 7045 | System
+    Details: Event ID 7045
+2026-06-20 00:03:41 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-20 00:04:26 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-20 00:06:32 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-20 00:07:45 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-20 00:07:46 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-20 00:07:46 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-20 00:15:55 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:15:55 | Event Log | Event ID 700 | System
+    Details: Event ID 700
+2026-06-20 00:15:55 | Event Log | Event ID 700 | System
+    Details: Event ID 700
+2026-06-20 00:15:55 | Event Log | Event ID 506 | System
+    Details: Event ID 506
+2026-06-20 00:15:55 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:15:56 | Event Log | Event ID 506 | System
+    Details: Event ID 506
+2026-06-20 00:15:56 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:15:56 | Event Log | Event ID 507 | System
+    Details: Event ID 507
+2026-06-20 00:16:14 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:16:14 | Event Log | Event ID 507 | System
+    Details: Event ID 507
+2026-06-20 00:16:14 | Event Log | Event ID 701 | System
+    Details: Event ID 701
+2026-06-20 00:16:14 | Event Log | Event ID 701 | System
+    Details: Event ID 701
+2026-06-20 00:28:07 | Event Log | Event ID 12 | System
+    Details: Event ID 12
+2026-06-20 00:28:07 | Event Log | Event ID 105 | System
+    Details: Event ID 105
+2026-06-20 00:29:21 | Event Log | Event ID 105 | System
+    Details: Event ID 105
+2026-06-20 00:29:22 | Event Log | Event ID 12 | System
+    Details: Event ID 12
+2026-06-20 00:47:26 | Event Log | Event ID 506 | System
+    Details: Event ID 506
+2026-06-20 00:47:26 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:47:26 | Event Log | Event ID 507 | System
+    Details: Event ID 507
+2026-06-20 00:47:26 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:47:26 | Event Log | Event ID 700 | System
+    Details: Event ID 700
+2026-06-20 00:47:26 | Event Log | Event ID 700 | System
+    Details: Event ID 700
+2026-06-20 00:47:26 | Event Log | Event ID 506 | System
+    Details: Event ID 506
+2026-06-20 00:47:26 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:47:28 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-20 00:47:34 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:47:34 | Event Log | Event ID 506 | System
+    Details: Event ID 506
+2026-06-20 00:47:34 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:47:34 | Event Log | Event ID 507 | System
+    Details: Event ID 507
+2026-06-20 00:47:34 | Event Log | Event ID 105 | System
+    Details: Event ID 105
+2026-06-20 00:47:35 | Event Log | Event ID 12 | System
+    Details: Event ID 12
+2026-06-20 00:47:36 | Event Log | Event ID 44 | System
+    Details: Event ID 44
+2026-06-20 00:47:36 | Event Log | Event ID 44 | System
+    Details: Event ID 44
+2026-06-20 00:47:36 | Event Log | Event ID 44 | System
+    Details: Event ID 44
+2026-06-20 00:47:36 | Event Log | Event ID 44 | System
+    Details: Event ID 44
+2026-06-20 00:48:14 | Event Log | Event ID 44 | System
+    Details: Event ID 44
+2026-06-20 00:48:14 | Event Log | Event ID 44 | System
+    Details: Event ID 44
+2026-06-20 00:48:19 | Event Log | Event ID 506 | System
+    Details: Event ID 506
+2026-06-20 00:48:19 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:48:19 | Event Log | Event ID 507 | System
+    Details: Event ID 507
+2026-06-20 00:48:23 | Event Log | Event ID 44 | System
+    Details: Event ID 44
+2026-06-20 00:48:25 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:49:13 | Event Log | Event ID 701 | System
+    Details: Event ID 701
+2026-06-20 00:49:13 | Event Log | Event ID 701 | System
+    Details: Event ID 701
+2026-06-20 00:49:14 | Event Log | Event ID 566 | System
+    Details: Event ID 566
+2026-06-20 00:49:14 | Event Log | Event ID 507 | System
+    Details: Event ID 507
+2026-06-20 00:49:14 | Event Log | Event ID 7045 | System
+    Details: Event ID 7045
+2026-06-20 00:49:44 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-20 00:49:45 | Event Log | Event ID 7045 | System
+    Details: Event ID 7045
+2026-06-20 00:49:56 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-20 00:50:15 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-20 00:51:24 | Event Log | Event ID 16 | System
+    Details: Event ID 16
+2026-06-20 00:51:45 | Event Log | Event ID 136 | System
+    Details: Event ID 136
+2026-06-20 00:51:45 | Event Log | Event ID 98 | System
+    Details: Event ID 98
+2026-06-20 00:51:45 | Event Log | Event ID 43 | System
+    Details: Event ID 43
+2026-06-20 00:51:47 | Event Log | Event ID 16 | System
+    Details: Event ID 16
+2026-06-20 00:51:49 | Event Log | Event ID 19 | System
+    Details: Event ID 19
+2026-06-20 00:54:21 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-20 00:54:21 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-20 00:54:21 | Event Log | Event ID 17 | System
+    Details: Event ID 17
+2026-06-20 01:00:58 | Event Log | Event ID 16 | System
+    Details: Event ID 16
+2026-06-20 01:01:00 | Event Log | Event ID 16 | System
+    Details: Event ID 16
+2026-06-20 01:01:17 | Event Log | Event ID 33 | System
+    Details: Event ID 33
+2026-06-20 01:37:05 | Event Log | Event ID 37 | System
+    Details: Event ID 37
+2026-06-20 01:43:13 | Event Log | Event ID 7040 | System
+    Details: Event ID 7040
+2026-06-20 01:45:25.345541 | USB | USB Connected | Disk&Ven_Generic&Prod_Flash_Disk_2.0&Rev_5.20
+    Details: 7&1678dc07&0
+
+============================================================
+ARTIFACT STATISTICS
+============================================================
+Download: 68 events
+Browser: 681 events
+Event Log: 200 events
+USB: 1 events
